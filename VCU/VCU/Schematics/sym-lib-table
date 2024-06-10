@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ATSAMC21J18A-ANT")(type "KiCad")(uri "${KIPRJMOD}/Librairie/2024-06-10_06-49-34.kicad_sym")(options "")(descr ""))
+)
