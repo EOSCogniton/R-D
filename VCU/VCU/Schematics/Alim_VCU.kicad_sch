@@ -939,104 +939,126 @@
 		)
 	)
 	(junction
-		(at 160.02 71.12)
+		(at 110.49 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02fd3cff-efdf-4d3b-9cf2-2facdf3b1d8b")
+	)
+	(junction
+		(at 160.02 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "06193c80-13ff-47fc-aac8-5199e0876dd1")
 	)
 	(junction
-		(at 144.78 57.15)
+		(at 144.78 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1829c530-13fe-4763-8dfa-ca5225b538ef")
 	)
 	(junction
-		(at 160.02 113.03)
+		(at 160.02 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1994d9c1-65d0-4d94-8dad-fc5b00c4bb5b")
 	)
 	(junction
-		(at 134.62 57.15)
+		(at 134.62 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f51c940-5c7d-411a-9348-46f7d5551fbe")
 	)
 	(junction
-		(at 134.62 71.12)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "288fc00f-16c3-40fa-8b78-baf64a2d9154")
-	)
-	(junction
-		(at 168.91 85.09)
+		(at 168.91 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c369f53-bc4c-420f-b391-4a1728714de9")
 	)
 	(junction
-		(at 189.23 113.03)
+		(at 110.49 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "335e1815-3b61-4b6e-8d81-771514ab7d29")
+	)
+	(junction
+		(at 189.23 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "39b4715f-fc05-4113-b152-1cac28716b5c")
 	)
 	(junction
-		(at 189.23 99.06)
+		(at 189.23 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d0ad23a-0055-43c8-a4b4-005c2f412340")
 	)
 	(junction
-		(at 110.49 71.12)
+		(at 110.49 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "5d75100f-7a30-4d2d-8851-272c0bbca7cb")
+		(uuid "5531b3a8-ed8e-46cb-a0e2-762d1b8cc256")
 	)
 	(junction
-		(at 134.62 85.09)
+		(at 153.67 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6ea50f00-ad8e-46bf-997a-48fa596aeb21")
+		(uuid "56137062-d7ff-44a6-9d3f-3a69daa50ecb")
 	)
 	(junction
-		(at 110.49 85.09)
+		(at 110.49 119.38)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "753dd9ed-78e0-40da-b6b9-c8319984a74d")
+		(uuid "8125c3ce-2a0f-4d4e-9008-3a974ee944af")
 	)
 	(junction
-		(at 144.78 113.03)
+		(at 144.78 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "84c60c25-7bdb-4fe8-a429-f9e1e571e3b4")
 	)
 	(junction
-		(at 134.62 113.03)
+		(at 48.26 46.99)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9fbd2b30-dd36-4339-af56-906153245dbc")
+	)
+	(junction
+		(at 134.62 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "abdc6a09-c2ec-49a7-8026-8f0fae4caccd")
 	)
 	(junction
-		(at 168.91 113.03)
+		(at 168.91 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "babbdc4f-04b9-4c9e-83a1-b472461db60c")
 	)
 	(junction
-		(at 110.49 57.15)
+		(at 138.43 46.99)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "e0851444-0ba4-4700-a19a-426bbfd53c38")
+		(uuid "d378e103-2d16-4d4e-aac6-2a8a6d48cbab")
 	)
 	(junction
-		(at 177.8 113.03)
+		(at 177.8 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f9ebcb6c-283f-403a-8fe5-1624b17c5325")
 	)
 	(wire
 		(pts
-			(xy 160.02 113.03) (xy 168.91 113.03)
+			(xy 153.67 46.99) (xy 195.58 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0127205e-024a-4685-a7e4-b28f7a77d811")
+	)
+	(wire
+		(pts
+			(xy 160.02 147.32) (xy 168.91 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1046,7 +1068,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 113.03) (xy 160.02 113.03)
+			(xy 144.78 147.32) (xy 160.02 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1056,7 +1078,7 @@
 	)
 	(wire
 		(pts
-			(xy 45.72 46.99) (xy 62.23 46.99)
+			(xy 45.72 46.99) (xy 48.26 46.99)
 		)
 		(stroke
 			(width 0)
@@ -1066,7 +1088,7 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 57.15) (xy 134.62 57.15)
+			(xy 132.08 91.44) (xy 134.62 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1076,7 +1098,7 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 111.76) (xy 189.23 113.03)
+			(xy 189.23 146.05) (xy 189.23 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1086,17 +1108,17 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 85.09) (xy 110.49 92.71)
+			(xy 62.23 41.91) (xy 48.26 41.91)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "197a3091-851c-4166-b233-53188f22628a")
+		(uuid "16cd4eac-50e2-4c8c-9b9f-71ad781c339c")
 	)
 	(wire
 		(pts
-			(xy 110.49 104.14) (xy 110.49 113.03)
+			(xy 110.49 138.43) (xy 110.49 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1106,7 +1128,17 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 85.09) (xy 134.62 113.03)
+			(xy 138.43 46.99) (xy 153.67 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2492b394-d3a8-49ca-8ca3-b908d3bfc671")
+	)
+	(wire
+		(pts
+			(xy 134.62 102.87) (xy 134.62 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1116,17 +1148,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 71.12) (xy 110.49 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2b3dd1f5-6c1d-421c-9898-e5e69c8bd4fa")
-	)
-	(wire
-		(pts
-			(xy 160.02 82.55) (xy 160.02 113.03)
+			(xy 160.02 116.84) (xy 160.02 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1136,7 +1158,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 57.15) (xy 195.58 57.15)
+			(xy 144.78 91.44) (xy 195.58 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1146,7 +1168,27 @@
 	)
 	(wire
 		(pts
-			(xy 189.23 113.03) (xy 194.31 113.03)
+			(xy 153.67 58.42) (xy 153.67 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f9fcedd-fa09-496a-ab56-2f4758e30788")
+	)
+	(wire
+		(pts
+			(xy 110.49 91.44) (xy 110.49 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3a725c35-b05e-4fe4-87b5-4e81b4b2ac15")
+	)
+	(wire
+		(pts
+			(xy 189.23 147.32) (xy 194.31 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1156,7 +1198,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 57.15) (xy 110.49 71.12)
+			(xy 110.49 46.99) (xy 110.49 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1166,17 +1208,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 71.12) (xy 160.02 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "47a156b9-ea76-4027-b67b-98a2ef5519a9")
-	)
-	(wire
-		(pts
-			(xy 189.23 99.06) (xy 189.23 100.33)
+			(xy 189.23 133.35) (xy 189.23 134.62)
 		)
 		(stroke
 			(width 0)
@@ -1186,13 +1218,23 @@
 	)
 	(wire
 		(pts
-			(xy 194.31 99.06) (xy 189.23 99.06)
+			(xy 194.31 133.35) (xy 189.23 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "48a3b9ec-76b8-4ce4-a44b-3deba969c3c3")
+	)
+	(wire
+		(pts
+			(xy 110.49 105.41) (xy 110.49 119.38)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49b74738-e4c4-4b48-adea-b73ff83ebd79")
 	)
 	(wire
 		(pts
@@ -1206,17 +1248,27 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 71.12) (xy 134.62 85.09)
+			(xy 110.49 46.99) (xy 138.43 46.99)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "862aba4b-2f55-4ad6-bb9b-2ee13f0f2f18")
+		(uuid "83430c72-b162-4ed0-95a4-2be92954b4c3")
 	)
 	(wire
 		(pts
-			(xy 168.91 113.03) (xy 177.8 113.03)
+			(xy 48.26 46.99) (xy 62.23 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "853d411e-cf50-4576-91e8-feb020e6ef30")
+	)
+	(wire
+		(pts
+			(xy 168.91 147.32) (xy 177.8 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1226,7 +1278,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 68.58) (xy 144.78 113.03)
+			(xy 144.78 102.87) (xy 144.78 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1236,7 +1288,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 111.76) (xy 177.8 113.03)
+			(xy 177.8 146.05) (xy 177.8 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1246,33 +1298,13 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 85.09) (xy 168.91 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad5d7315-4347-40b1-a0f2-6a443cc8b127")
-	)
-	(wire
-		(pts
-			(xy 177.8 99.06) (xy 189.23 99.06)
+			(xy 177.8 133.35) (xy 189.23 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "ad691365-b86a-42bd-83e1-f11ce74e1e19")
-	)
-	(wire
-		(pts
-			(xy 110.49 46.99) (xy 110.49 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b3b130d9-4ef7-4179-a5be-8209eecdf57a")
 	)
 	(wire
 		(pts
@@ -1296,17 +1328,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 68.58) (xy 134.62 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c50c1a0c-f75a-4b73-a39e-e96399215b07")
-	)
-	(wire
-		(pts
-			(xy 134.62 113.03) (xy 110.49 113.03)
+			(xy 134.62 147.32) (xy 110.49 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1316,7 +1338,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 113.03) (xy 134.62 113.03)
+			(xy 144.78 147.32) (xy 134.62 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1336,7 +1358,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 85.09) (xy 110.49 85.09)
+			(xy 110.49 119.38) (xy 168.91 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1356,7 +1378,17 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 96.52) (xy 168.91 113.03)
+			(xy 110.49 119.38) (xy 110.49 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d34da603-cfeb-41e8-8825-c3da69c97cd4")
+	)
+	(wire
+		(pts
+			(xy 168.91 130.81) (xy 168.91 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1366,7 +1398,7 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 85.09) (xy 195.58 85.09)
+			(xy 168.91 119.38) (xy 195.58 119.38)
 		)
 		(stroke
 			(width 0)
@@ -1376,7 +1408,7 @@
 	)
 	(wire
 		(pts
-			(xy 110.49 57.15) (xy 111.76 57.15)
+			(xy 110.49 91.44) (xy 111.76 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1386,7 +1418,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 57.15) (xy 144.78 57.15)
+			(xy 134.62 91.44) (xy 144.78 91.44)
 		)
 		(stroke
 			(width 0)
@@ -1396,7 +1428,17 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 71.12) (xy 195.58 71.12)
+			(xy 138.43 58.42) (xy 138.43 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e36e3e39-4844-4033-9593-a4d4f7552720")
+	)
+	(wire
+		(pts
+			(xy 160.02 105.41) (xy 195.58 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1406,7 +1448,7 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 100.33) (xy 177.8 99.06)
+			(xy 177.8 134.62) (xy 177.8 133.35)
 		)
 		(stroke
 			(width 0)
@@ -1426,7 +1468,17 @@
 	)
 	(wire
 		(pts
-			(xy 177.8 113.03) (xy 189.23 113.03)
+			(xy 48.26 41.91) (xy 48.26 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f39e312a-d69d-4ff8-8ad3-2d0dbc1d69b1")
+	)
+	(wire
+		(pts
+			(xy 177.8 147.32) (xy 189.23 147.32)
 		)
 		(stroke
 			(width 0)
@@ -1436,7 +1488,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 71.12) (xy 110.49 71.12)
+			(xy 110.49 105.41) (xy 160.02 105.41)
 		)
 		(stroke
 			(width 0)
@@ -1446,7 +1498,7 @@
 	)
 	(hierarchical_label "VDD_IO"
 		(shape output)
-		(at 195.58 71.12 0)
+		(at 195.58 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1458,7 +1510,7 @@
 	)
 	(hierarchical_label "VDD_IN"
 		(shape output)
-		(at 195.58 85.09 0)
+		(at 195.58 119.38 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1470,7 +1522,7 @@
 	)
 	(hierarchical_label "VDD_CORE"
 		(shape output)
-		(at 194.31 99.06 0)
+		(at 194.31 133.35 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1479,6 +1531,18 @@
 			(justify left)
 		)
 		(uuid "498e870f-19c7-4fec-b1e7-2239641773d1")
+	)
+	(hierarchical_label "VCC_CAN"
+		(shape output)
+		(at 195.58 46.99 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8c4efe3e-a2ab-47ba-b858-a515b446c976")
 	)
 	(hierarchical_label "Vin_LV"
 		(shape input)
@@ -1494,7 +1558,7 @@
 	)
 	(hierarchical_label "VDD_ANA"
 		(shape output)
-		(at 195.58 57.15 0)
+		(at 195.58 91.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1506,7 +1570,7 @@
 	)
 	(symbol
 		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
-		(at 144.78 68.58 90)
+		(at 144.78 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1515,7 +1579,7 @@
 		(fields_autoplaced yes)
 		(uuid "0e7a1463-f297-4366-9139-1642a2aa79d6")
 		(property "Reference" "C5"
-			(at 140.97 61.5949 90)
+			(at 140.97 95.8849 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1524,7 +1588,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 140.97 64.1349 90)
+			(at 140.97 98.4249 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1533,7 +1597,7 @@
 			)
 		)
 		(property "Footprint" "EPSA_lib:CAPC2012X130N"
-			(at 144.78 48.26 0)
+			(at 144.78 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1543,7 +1607,7 @@
 			)
 		)
 		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
-			(at 147.32 48.26 0)
+			(at 147.32 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1553,7 +1617,7 @@
 			)
 		)
 		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
-			(at 149.86 48.26 0)
+			(at 149.86 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1563,7 +1627,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 142.494 43.434 0)
+			(at 142.494 77.724 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1572,7 +1636,7 @@
 			)
 		)
 		(property "Sim.Device" "C"
-			(at 139.7 48.26 0)
+			(at 139.7 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1582,7 +1646,7 @@
 			)
 		)
 		(property "Height" "1.3"
-			(at 152.4 48.26 0)
+			(at 152.4 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1592,7 +1656,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Syfer"
-			(at 154.94 48.26 0)
+			(at 154.94 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1602,7 +1666,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
-			(at 157.48 48.26 0)
+			(at 157.48 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1612,7 +1676,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 158.75 59.69 0)
+			(at 158.75 93.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1622,7 +1686,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 157.48 48.26 0)
+			(at 157.48 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1632,7 +1696,7 @@
 			)
 		)
 		(property "Render Name" "Condensateur"
-			(at 140.716 61.976 0)
+			(at 140.716 96.266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1855,17 +1919,83 @@
 		)
 	)
 	(symbol
-		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
-		(at 134.62 68.58 90)
+		(lib_id "power:GND")
+		(at 153.67 60.96 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4bd7624b-3d68-48dd-8bd5-978992fe5dce")
-		(property "Reference" "C4"
-			(at 130.81 61.5949 90)
+		(uuid "4314073b-6961-46e3-87db-586c74bc7f0e")
+		(property "Reference" "#PWR013"
+			(at 153.67 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 153.67 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 153.67 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 153.67 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 153.67 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "44f7074e-5f57-4d45-868f-bd0e293e5302")
+		)
+		(instances
+			(project "Schematics"
+				(path "/0ce89ae1-593d-4a2b-902e-7aca64ebde5a/ca07cadd-6105-492c-83f8-f0a02055fd2a"
+					(reference "#PWR013")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
+		(at 153.67 58.42 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4500538e-42ee-44ac-a1a2-fa18893f573d")
+		(property "Reference" "C12"
+			(at 149.86 51.4349 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1874,7 +2004,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 130.81 64.1349 90)
+			(at 149.86 53.9749 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1883,7 +2013,7 @@
 			)
 		)
 		(property "Footprint" "EPSA_lib:CAPC2012X130N"
-			(at 134.62 48.26 0)
+			(at 153.67 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1893,7 +2023,7 @@
 			)
 		)
 		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
-			(at 137.16 48.26 0)
+			(at 156.21 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1903,7 +2033,7 @@
 			)
 		)
 		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
-			(at 139.7 48.26 0)
+			(at 158.75 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1913,7 +2043,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 132.334 43.434 0)
+			(at 151.384 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1922,7 +2052,7 @@
 			)
 		)
 		(property "Sim.Device" "C"
-			(at 129.54 48.26 0)
+			(at 148.59 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1932,7 +2062,7 @@
 			)
 		)
 		(property "Height" "1.3"
-			(at 142.24 48.26 0)
+			(at 161.29 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1942,7 +2072,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Syfer"
-			(at 144.78 48.26 0)
+			(at 163.83 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1952,7 +2082,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
-			(at 147.32 48.26 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1962,7 +2092,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 148.59 59.69 0)
+			(at 167.64 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1972,7 +2102,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 147.32 48.26 0)
+			(at 166.37 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1982,7 +2112,158 @@
 			)
 		)
 		(property "Render Name" "Condensateur"
-			(at 130.556 61.976 0)
+			(at 149.606 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4f978886-3d11-4ec6-afcd-7f02fbc966b9")
+		)
+		(pin "1"
+			(uuid "81cc06ed-f418-47f9-826b-8b130a1f507c")
+		)
+		(instances
+			(project "Schematics"
+				(path "/0ce89ae1-593d-4a2b-902e-7aca64ebde5a/ca07cadd-6105-492c-83f8-f0a02055fd2a"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
+		(at 134.62 102.87 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4bd7624b-3d68-48dd-8bd5-978992fe5dce")
+		(property "Reference" "C4"
+			(at 130.81 95.8849 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 130.81 98.4249 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EPSA_lib:CAPC2012X130N"
+			(at 134.62 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
+			(at 137.16 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
+			(at 139.7 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 132.334 77.724 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "C"
+			(at 129.54 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.3"
+			(at 142.24 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Syfer"
+			(at 144.78 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
+			(at 147.32 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 148.59 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 147.32 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Render Name" "Condensateur"
+			(at 130.556 96.266 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2007,7 +2288,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 194.31 113.03 90)
+		(at 194.31 147.32 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2016,7 +2297,7 @@
 		(fields_autoplaced yes)
 		(uuid "4eb58489-fff0-4ec1-940c-83e5778b57a9")
 		(property "Reference" "#PWR06"
-			(at 200.66 113.03 0)
+			(at 200.66 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2025,7 +2306,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 198.12 113.0299 90)
+			(at 198.12 147.3199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2034,7 +2315,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 194.31 113.03 0)
+			(at 194.31 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2043,7 +2324,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 194.31 113.03 0)
+			(at 194.31 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2052,7 +2333,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 194.31 113.03 0)
+			(at 194.31 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2074,7 +2355,7 @@
 	)
 	(symbol
 		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
-		(at 189.23 111.76 90)
+		(at 189.23 146.05 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2083,7 +2364,7 @@
 		(fields_autoplaced yes)
 		(uuid "5ac5de20-5393-40fc-9ffe-5feb633c1a2f")
 		(property "Reference" "C9"
-			(at 185.42 104.7749 90)
+			(at 185.42 139.0649 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2092,7 +2373,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 185.42 107.3149 90)
+			(at 185.42 141.6049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2101,7 +2382,7 @@
 			)
 		)
 		(property "Footprint" "EPSA_lib:CAPC2012X130N"
-			(at 189.23 91.44 0)
+			(at 189.23 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2111,7 +2392,7 @@
 			)
 		)
 		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
-			(at 191.77 91.44 0)
+			(at 191.77 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2121,7 +2402,7 @@
 			)
 		)
 		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
-			(at 194.31 91.44 0)
+			(at 194.31 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2131,7 +2412,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 186.944 86.614 0)
+			(at 186.944 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2140,7 +2421,7 @@
 			)
 		)
 		(property "Sim.Device" "C"
-			(at 184.15 91.44 0)
+			(at 184.15 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2150,7 +2431,7 @@
 			)
 		)
 		(property "Height" "1.3"
-			(at 196.85 91.44 0)
+			(at 196.85 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2160,7 +2441,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Syfer"
-			(at 199.39 91.44 0)
+			(at 199.39 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2170,7 +2451,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
-			(at 201.93 91.44 0)
+			(at 201.93 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2180,7 +2461,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 203.2 102.87 0)
+			(at 203.2 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2190,7 +2471,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 201.93 91.44 0)
+			(at 201.93 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2200,7 +2481,7 @@
 			)
 		)
 		(property "Render Name" "Condensateur"
-			(at 185.166 105.156 0)
+			(at 185.166 139.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2225,7 +2506,7 @@
 	)
 	(symbol
 		(lib_id "EPSA_lib:Bobine 7447709102")
-		(at 111.76 57.15 0)
+		(at 111.76 91.44 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2234,7 +2515,7 @@
 		(fields_autoplaced yes)
 		(uuid "6bc94074-1c45-4ff5-a0b6-fa7cbbdbb6dd")
 		(property "Reference" "L1"
-			(at 121.92 50.8 0)
+			(at 121.92 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2242,7 +2523,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 121.92 53.34 0)
+			(at 121.92 87.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2250,7 +2531,7 @@
 			)
 		)
 		(property "Footprint" "WE-PD_1260_1245_1280_121054"
-			(at 128.27 153.34 0)
+			(at 128.27 187.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2260,7 +2541,7 @@
 			)
 		)
 		(property "Datasheet" "http://componentsearchengine.com/Datasheets/3/7447709102.pdf"
-			(at 128.27 253.34 0)
+			(at 128.27 287.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2270,7 +2551,7 @@
 			)
 		)
 		(property "Description" "SMD-Shielded Power Inductors WE-PD"
-			(at 119.38 47.752 0)
+			(at 119.38 82.042 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2279,7 +2560,7 @@
 			)
 		)
 		(property "Height" ""
-			(at 128.27 453.34 0)
+			(at 128.27 487.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2289,7 +2570,7 @@
 			)
 		)
 		(property "Mouser Part Number" "710-7447709102"
-			(at 128.27 553.34 0)
+			(at 128.27 587.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2299,7 +2580,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/7447709102?qs=E%2F%2FhvbtCqpMi3VpSUpMneA%3D%3D"
-			(at 128.27 653.34 0)
+			(at 128.27 687.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2309,7 +2590,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Wurth Elektronik"
-			(at 128.27 753.34 0)
+			(at 128.27 787.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2319,7 +2600,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7447709102"
-			(at 128.27 853.34 0)
+			(at 128.27 887.63 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2345,16 +2626,16 @@
 	)
 	(symbol
 		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
-		(at 160.02 82.55 90)
+		(at 138.43 58.42 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "94029e07-2f55-4e6c-83e7-2c7385d60218")
-		(property "Reference" "C6"
-			(at 156.21 75.5649 90)
+		(uuid "876259de-92f1-403b-a9eb-2fd0fed2734f")
+		(property "Reference" "C11"
+			(at 134.62 51.4349 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2362,8 +2643,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100n"
-			(at 156.21 78.1049 90)
+		(property "Value" "22u"
+			(at 134.62 53.9749 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2372,7 +2653,7 @@
 			)
 		)
 		(property "Footprint" "EPSA_lib:CAPC2012X130N"
-			(at 160.02 62.23 0)
+			(at 138.43 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2382,7 +2663,7 @@
 			)
 		)
 		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
-			(at 162.56 62.23 0)
+			(at 140.97 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2392,7 +2673,7 @@
 			)
 		)
 		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
-			(at 165.1 62.23 0)
+			(at 143.51 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2402,7 +2683,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 157.734 57.404 0)
+			(at 136.144 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2411,7 +2692,7 @@
 			)
 		)
 		(property "Sim.Device" "C"
-			(at 154.94 62.23 0)
+			(at 133.35 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2421,7 +2702,7 @@
 			)
 		)
 		(property "Height" "1.3"
-			(at 167.64 62.23 0)
+			(at 146.05 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2431,7 +2712,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Syfer"
-			(at 170.18 62.23 0)
+			(at 148.59 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2441,7 +2722,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
-			(at 172.72 62.23 0)
+			(at 151.13 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2451,7 +2732,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 173.99 73.66 0)
+			(at 152.4 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2461,7 +2742,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 172.72 62.23 0)
+			(at 151.13 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2471,7 +2752,158 @@
 			)
 		)
 		(property "Render Name" "Condensateur"
-			(at 155.956 75.946 0)
+			(at 134.366 51.816 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "73b9944c-fcb8-4bf7-b314-99022c190305")
+		)
+		(pin "1"
+			(uuid "4b2d55de-8294-431b-8bae-efce54dd46f5")
+		)
+		(instances
+			(project "Schematics"
+				(path "/0ce89ae1-593d-4a2b-902e-7aca64ebde5a/ca07cadd-6105-492c-83f8-f0a02055fd2a"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
+		(at 160.02 116.84 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "94029e07-2f55-4e6c-83e7-2c7385d60218")
+		(property "Reference" "C6"
+			(at 156.21 109.8549 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100n"
+			(at 156.21 112.3949 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EPSA_lib:CAPC2012X130N"
+			(at 160.02 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
+			(at 162.56 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
+			(at 165.1 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 157.734 91.694 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "C"
+			(at 154.94 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.3"
+			(at 167.64 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Syfer"
+			(at 170.18 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
+			(at 172.72 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 173.99 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 172.72 96.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Render Name" "Condensateur"
+			(at 155.956 110.236 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2496,7 +2928,7 @@
 	)
 	(symbol
 		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
-		(at 177.8 111.76 90)
+		(at 177.8 146.05 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2505,7 +2937,7 @@
 		(fields_autoplaced yes)
 		(uuid "a137e5c9-346b-4689-945e-bd8c55987ef4")
 		(property "Reference" "C10"
-			(at 173.99 104.7749 90)
+			(at 173.99 139.0649 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,7 +2946,7 @@
 			)
 		)
 		(property "Value" "1u"
-			(at 173.99 107.3149 90)
+			(at 173.99 141.6049 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2523,7 +2955,7 @@
 			)
 		)
 		(property "Footprint" "EPSA_lib:CAPC2012X130N"
-			(at 177.8 91.44 0)
+			(at 177.8 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2533,7 +2965,7 @@
 			)
 		)
 		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
-			(at 180.34 91.44 0)
+			(at 180.34 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2543,7 +2975,7 @@
 			)
 		)
 		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
-			(at 182.88 91.44 0)
+			(at 182.88 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2553,7 +2985,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 175.514 86.614 0)
+			(at 175.514 120.904 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2562,7 +2994,7 @@
 			)
 		)
 		(property "Sim.Device" "C"
-			(at 172.72 91.44 0)
+			(at 172.72 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2572,7 +3004,7 @@
 			)
 		)
 		(property "Height" "1.3"
-			(at 185.42 91.44 0)
+			(at 185.42 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2582,7 +3014,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Syfer"
-			(at 187.96 91.44 0)
+			(at 187.96 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,7 +3024,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
-			(at 190.5 91.44 0)
+			(at 190.5 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2602,7 +3034,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 191.77 102.87 0)
+			(at 191.77 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2612,7 +3044,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 190.5 91.44 0)
+			(at 190.5 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2622,7 +3054,7 @@
 			)
 		)
 		(property "Render Name" "Condensateur"
-			(at 173.736 105.156 0)
+			(at 173.736 139.446 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2838,7 +3270,7 @@
 	)
 	(symbol
 		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
-		(at 168.91 96.52 90)
+		(at 168.91 130.81 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2847,7 +3279,7 @@
 		(fields_autoplaced yes)
 		(uuid "e4214154-5160-4fbd-9f1a-5b900246c73a")
 		(property "Reference" "C7"
-			(at 165.1 89.5349 90)
+			(at 165.1 123.8249 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2856,7 +3288,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 165.1 92.0749 90)
+			(at 165.1 126.3649 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2865,7 +3297,7 @@
 			)
 		)
 		(property "Footprint" "EPSA_lib:CAPC2012X130N"
-			(at 168.91 76.2 0)
+			(at 168.91 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2875,7 +3307,7 @@
 			)
 		)
 		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
-			(at 171.45 76.2 0)
+			(at 171.45 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2885,7 +3317,7 @@
 			)
 		)
 		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
-			(at 173.99 76.2 0)
+			(at 173.99 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2895,7 +3327,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 166.624 71.374 0)
+			(at 166.624 105.664 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2904,7 +3336,7 @@
 			)
 		)
 		(property "Sim.Device" "C"
-			(at 163.83 76.2 0)
+			(at 163.83 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2914,7 +3346,7 @@
 			)
 		)
 		(property "Height" "1.3"
-			(at 176.53 76.2 0)
+			(at 176.53 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2924,7 +3356,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Syfer"
-			(at 179.07 76.2 0)
+			(at 179.07 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2934,7 +3366,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
-			(at 181.61 76.2 0)
+			(at 181.61 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2944,7 +3376,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 182.88 87.63 0)
+			(at 182.88 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2954,7 +3386,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 181.61 76.2 0)
+			(at 181.61 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2964,7 +3396,7 @@
 			)
 		)
 		(property "Render Name" "Condensateur"
-			(at 164.846 89.916 0)
+			(at 164.846 124.206 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2989,16 +3421,15 @@
 	)
 	(symbol
 		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
-		(at 110.49 104.14 90)
+		(at 110.49 138.43 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ebd6a946-2c45-46da-92c3-8980d75a4e2e")
 		(property "Reference" "C8"
-			(at 106.68 97.1549 90)
+			(at 106.68 131.4449 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3007,7 +3438,7 @@
 			)
 		)
 		(property "Value" "10u"
-			(at 106.68 99.6949 90)
+			(at 106.68 133.9849 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3016,7 +3447,7 @@
 			)
 		)
 		(property "Footprint" "EPSA_lib:CAPC2012X130N"
-			(at 110.49 83.82 0)
+			(at 110.49 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3026,7 +3457,7 @@
 			)
 		)
 		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
-			(at 113.03 83.82 0)
+			(at 113.03 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3036,7 +3467,7 @@
 			)
 		)
 		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
-			(at 115.57 83.82 0)
+			(at 115.57 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3046,7 +3477,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=+ 2=-"
-			(at 108.204 78.994 0)
+			(at 108.204 113.284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3055,7 +3486,7 @@
 			)
 		)
 		(property "Sim.Device" "C"
-			(at 105.41 83.82 0)
+			(at 105.41 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3065,7 +3496,7 @@
 			)
 		)
 		(property "Height" "1.3"
-			(at 118.11 83.82 0)
+			(at 118.11 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3075,7 +3506,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Syfer"
-			(at 120.65 83.82 0)
+			(at 120.65 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3085,7 +3516,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
-			(at 123.19 83.82 0)
+			(at 123.19 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3095,7 +3526,7 @@
 			)
 		)
 		(property "Mouser Part Number" ""
-			(at 124.46 95.25 0)
+			(at 124.46 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3105,7 +3536,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" ""
-			(at 123.19 83.82 0)
+			(at 123.19 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3115,7 +3546,7 @@
 			)
 		)
 		(property "Render Name" "Condensateur"
-			(at 106.426 97.536 0)
+			(at 106.426 131.826 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3133,6 +3564,72 @@
 			(project "Schematics"
 				(path "/0ce89ae1-593d-4a2b-902e-7aca64ebde5a/ca07cadd-6105-492c-83f8-f0a02055fd2a"
 					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 138.43 60.96 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f734f75b-95d6-4c35-ad4d-3348f133750c")
+		(property "Reference" "#PWR012"
+			(at 138.43 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 138.43 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 138.43 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 138.43 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 138.43 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7e9a6995-26ed-424c-8d0b-5bfbfed6f914")
+		)
+		(instances
+			(project "Schematics"
+				(path "/0ce89ae1-593d-4a2b-902e-7aca64ebde5a/ca07cadd-6105-492c-83f8-f0a02055fd2a"
+					(reference "#PWR012")
 					(unit 1)
 				)
 			)
