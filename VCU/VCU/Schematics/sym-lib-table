@@ -4,4 +4,5 @@
   (lib (name "ATA6561-GAQW-N")(type "KiCad")(uri "${KIPRJMOD}/Librairie/2024-06-10_07-41-46.kicad_sym")(options "")(descr ""))
   (lib (name "TEN 40-1211E")(type "KiCad")(uri "${KIPRJMOD}/Librairie/TEN_40-1211E.kicad_sym")(options "")(descr ""))
   (lib (name "171856-1008")(type "KiCad")(uri "${KIPRJMOD}/Librairie/171856-1008.kicad_sym")(options "")(descr ""))
+  (lib (name "DM3D-SF")(type "KiCad")(uri "${KIPRJMOD}/Librairie/DM3D-SF.kicad_sym")(options "")(descr ""))
 )
