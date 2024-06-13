@@ -582,6 +582,10 @@
     [
       "ca07cadd-6105-492c-83f8-f0a02055fd2a",
       "Alimentation_VCU"
+    ],
+    [
+      "4e3b92e0-4a5e-4fa7-82f9-55fd750d80e8",
+      "Conversion 3.3V-5V"
     ]
   ],
   "text_variables": {}
