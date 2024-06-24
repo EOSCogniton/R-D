@@ -50,19 +50,19 @@ lambda=[lambdax1 lambday1 lambdax2 lambday2 lambdax3 lambday3 lambdax4 lambday4]
 % end
 
 if accel>0
-    if omega1<=0.1
+    if omega1<=0.5
        lambda(1)=-1;
        lambda(2)=0;
     end
-    if omega2<=0.1
+    if omega2<=0.5
         lambda(3)=-1;
         lambda(4)=0;
     end
-    if omega3<=0.1
+    if omega3<=0.5
         lambda(5)=1;
         lambda(6)=0;
     end
-    if omega4<=0.1
+    if omega4<=0.5
         lambda(7)=1;
         lambda(8)=0;
     end
