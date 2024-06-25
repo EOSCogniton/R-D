@@ -4,16 +4,17 @@ alpha2=angle(Vx2+1i*Vy2)-delta2;
 alpha3=angle(Vx3+1i*Vy3)-delta3;
 alpha4=angle(Vx4+1i*Vy4)-delta4;
 alpha=[alpha1 alpha2 alpha3 alpha4];
-if Vy1 ==0
+
+if Vy1 ==0 && delta1==0
     alpha(1)=0;
 end
-if Vy2 ==0
+if Vy2 ==0 && delta2==0
     alpha(2)=0;
 end
-if Vy3 ==0
+if Vy3 ==0 && delta3 == 0
     alpha(3)=0;
 end
-if Vy4 ==0
+if Vy4 ==0 && delta4 == 0
     alpha(4)=0;
 end
 end

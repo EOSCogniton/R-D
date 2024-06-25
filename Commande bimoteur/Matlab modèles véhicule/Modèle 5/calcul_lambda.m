@@ -10,7 +10,7 @@ Vxr2 = V2 * cos(alpha2);
 Vxr3 = V3 * cos(alpha3);
 Vxr4 = V4 * cos(alpha4);
 
-if accel>0
+if accel>=0
     lambdax1=-(R1*omega1-Vxr1)/(R1*omega1);
     lambdax2=-(R2*omega2-Vxr2)/(R2*omega2);
     lambdax3=(R3*omega3-Vxr3)/(R3*omega3);
@@ -20,67 +20,67 @@ if accel>0
     lambday3=(1-lambdax3)*tan(alpha3);
     lambday4=(1-lambdax4)*tan(alpha4);
 else
-    lambdax1=(R1*omega1-Vxr1)/Vxr1;
-    lambdax2=(R2*omega2-Vxr2)/Vxr2;
-    lambdax3=-(R3*omega3-Vxr3)/Vxr3;
-    lambdax4=-(R4*omega4-Vxr4)/Vxr4;
+    lambdax1=-(R1*omega1-Vxr1)/Vxr1;
+    lambdax2=-(R2*omega2-Vxr2)/Vxr2;
+    lambdax3=(R3*omega3-Vxr3)/Vxr3;
+    lambdax4=(R4*omega4-Vxr4)/Vxr4;
     lambday1=tan(alpha1);
     lambday2=tan(alpha2);
     lambday3=tan(alpha3);
     lambday4=tan(alpha4);
 end
 lambda=[lambdax1 lambday1 lambdax2 lambday2 lambdax3 lambday3 lambdax4 lambday4];
-% lambd a = [-1 0 -1 0 1 0 1 0];
+% lambda = [-1 0 -1 0 1 0 1 0];
 % lambda = [lambdax1 0 lambdax2 0 lambdax3 0 lambdax4 0];
-% if lambdax1>1 || Vxr1 <=0.1 || omega1 <=0.1
+% if lambdax1>1 || Vxr1 <=0.5 || omega1 <=0.5
 %    lambda(1)=0;
 %    lambda(2)=0;
 % end
-% if lambdax2>1 || Vxr2 <=0.1 || omega2 <=0.1
+% if lambdax2>1 || Vxr2 <=0.5 || omega2 <=0.5
 %     lambda(3)=0;
 %     lambda(4)=0;
 % end
-% if lambdax3>1 || Vxr3 <=0.1 || omega3 <=0.1
+% if lambdax3>1 || Vxr3 <=0.5 || omega3 <=0.5
 %     lambda(5)=0;
 %     lambda(6)=0;
 % end
-% if lambdax4>1 || Vxr4 <=0.1 || omega4 <=0.1
+% if lambdax4>1 || Vxr4 <=0.5 || omega4 <=0.5
 %     lambda(7)=0;
 %     lambda(8)=0;
 % end
 
-if accel>0
-    if omega1<=0.1
+if accel>=0
+    if abs(omega1)<=0.5
        lambda(1)=-1;
        lambda(2)=0;
     end
-    if omega2<=0.1
+    if abs(omega2)<=0.5
         lambda(3)=-1;
         lambda(4)=0;
     end
-    if omega3<=0.1
+    if abs(omega3)<=0.5
         lambda(5)=1;
         lambda(6)=0;
     end
-    if omega4<=0.1
+    if abs(omega4)<=0.5
         lambda(7)=1;
         lambda(8)=0;
     end
 
 else
-    if Vxr1<=0.1
+    if abs(Vxr1)<=0.5
         lambda(1)=-1;
         lambda(2)=0;
     end
-    if Vxr2<=0.1
+    if abs(Vxr2)<=0.5
         lambda(3)=-1;
         lambda(4)=0;
     end
-    if Vxr3<=0.1
+    if abs(Vxr3)<=0.5
         lambda(5)=1;
         lambda(6)=0;
     end
-    if Vxr4<=0.1
+    if abs(Vxr4)<=0.5
         lambda(7)=1;
         lambda(8)=0;
     end
