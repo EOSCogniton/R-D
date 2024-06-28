@@ -1,0 +1,152 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "744755ae-7b3c-4bb4-937e-6ede177ec71c")
+	(paper "A4")
+	(lib_symbols)
+	(hierarchical_label "CARD DETECT"
+		(shape output)
+		(at 153.67 78.74 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a03c5ca-a690-464b-99d1-b929207a8b42")
+	)
+	(hierarchical_label "MOSI"
+		(shape input)
+		(at 62.23 69.85 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "16c955ea-35a8-4c61-8084-509d139b039b")
+	)
+	(hierarchical_label "VCC2_3.3V"
+		(shape input)
+		(at 153.67 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2560a4d5-67a3-499a-98ad-851f124e61b6")
+	)
+	(hierarchical_label "NC"
+		(shape passive)
+		(at 153.67 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "59219f4b-8bb1-40b8-b637-39ab7d3b55ba")
+	)
+	(hierarchical_label "DATA2"
+		(shape bidirectional)
+		(at 153.67 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8a291e40-dbd8-4569-be0e-b04b762a0894")
+	)
+	(hierarchical_label "SCK"
+		(shape input)
+		(at 62.23 83.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "91df6cae-d07b-4fec-bd4b-22263599dd4a")
+	)
+	(hierarchical_label "GND2"
+		(shape input)
+		(at 153.67 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9995adf6-34d1-4068-a58c-01e34156e651")
+	)
+	(hierarchical_label "DATA1"
+		(shape bidirectional)
+		(at 153.67 66.04 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9d71ce52-ffeb-491d-8775-81749f6d5098")
+	)
+	(hierarchical_label "GND1"
+		(shape input)
+		(at 62.23 88.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "bc11c8db-0a37-409c-a36a-1a5716be8d9b")
+	)
+	(hierarchical_label "CS"
+		(shape input)
+		(at 62.23 64.77 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "db90edd2-0796-44b4-b59e-8c5a6f19589e")
+	)
+	(hierarchical_label "MISO"
+		(shape output)
+		(at 62.23 77.47 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "f7216735-e1f7-4650-afa1-af4fd8702d9d")
+	)
+	(hierarchical_label "VCC1_3.3V"
+		(shape input)
+		(at 62.23 93.98 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "fb4bc1b9-7623-497d-a5a2-7404d8db7709")
+	)
+)
