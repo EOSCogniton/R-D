@@ -15,4 +15,5 @@
   (lib (name "NMOS TH2V")(type "KiCad")(uri "${KIPRJMOD}/Librairie/BSS138.kicad_sym")(options "")(descr ""))
   (lib (name "Transceiver CAN")(type "KiCad")(uri "${KIPRJMOD}/Librairie/ATA6561-GBQW-N.kicad_sym")(options "")(descr ""))
   (lib (name "Droit 8-pins")(type "KiCad")(uri "${KIPRJMOD}/Librairie/10-97-7086.kicad_sym")(options "")(descr ""))
+  (lib (name "Régulateur de Tension Linéaire")(type "KiCad")(uri "${KIPRJMOD}/Librairie/TPS7B8633QDDARQ1.kicad_sym")(options "")(descr ""))
 )
