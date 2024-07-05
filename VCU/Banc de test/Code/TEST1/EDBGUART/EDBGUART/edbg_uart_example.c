@@ -37,16 +37,16 @@
 #include "atmel_start.h"
 #include "atmel_start_pins.h"
 #include <string.h>
+#include <hal_delay.h>
+#include <stdio.h>
 
-static uint8_t example_hello_world[12] = "Hello World!";
-
+static uint8_t buffer[64];
 volatile static uint32_t data_arrived = 0;
 
 static void tx_cb_EDBG_COM(const struct usart_async_descriptor *const io_descr)
 {
 	/* Transfer completed */
 	gpio_toggle_pin_level(LED0);
-	io_write(&EDBG_COM.io, example_hello_world, 12);
 }
 
 static void rx_cb_EDBG_COM(const struct usart_async_descriptor *const io_descr)
@@ -58,23 +58,25 @@ static void rx_cb_EDBG_COM(const struct usart_async_descriptor *const io_descr)
 static void err_cb_EDBG_COM(const struct usart_async_descriptor *const io_descr)
 {
 	/* error handle */
-	io_write(&EDBG_COM.io, example_hello_world, 12);
+	io_write(&EDBG_COM.io, buffer, 14);
 }
 
 int main(void)
 {
 	uint8_t recv_char;
-
+	float test = 1.1;
 	atmel_start_init();
-
+	sprintf((char*) &buffer,"Float : %f\r\n",test);
 	usart_async_register_callback(&EDBG_COM, USART_ASYNC_TXC_CB, tx_cb_EDBG_COM);
 	usart_async_register_callback(&EDBG_COM, USART_ASYNC_RXC_CB, rx_cb_EDBG_COM);
 	usart_async_register_callback(&EDBG_COM, USART_ASYNC_ERROR_CB, err_cb_EDBG_COM);
 	usart_async_enable(&EDBG_COM);
 
-	io_write(&EDBG_COM.io, example_hello_world, 12);
+	io_write(&EDBG_COM.io, buffer, 16);
 
 	while (1) {
+		delay_ms(1000);
+		io_write(&EDBG_COM.io, buffer, 16);
 		if (data_arrived == 0) {
 			continue;
 		}

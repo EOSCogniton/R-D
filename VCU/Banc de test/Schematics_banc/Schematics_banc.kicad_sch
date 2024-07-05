@@ -4369,6 +4369,12 @@
 		(uuid "0d768f95-857d-4d49-833c-6e49b2ee3fd4")
 	)
 	(junction
+		(at 40.64 34.29)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "10fb24fa-a233-4abe-8828-b7bf4f73958a")
+	)
+	(junction
 		(at 123.19 353.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4397,6 +4403,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1f5ed29b-097d-4fdb-8bd4-44296b918865")
+	)
+	(junction
+		(at 40.64 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20ba3f48-f343-420d-a359-8665254bf940")
 	)
 	(junction
 		(at 299.72 55.88)
@@ -4439,6 +4451,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4092dbfb-c3ed-4f8e-9d89-5176da9a4e6d")
+	)
+	(junction
+		(at 29.21 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "410b3d68-dbd5-4fc7-9eba-e8a9fa54aa6b")
 	)
 	(junction
 		(at 71.12 162.56)
@@ -4525,6 +4543,12 @@
 		(uuid "67457876-f19b-4827-8e52-5c4eea5aa81c")
 	)
 	(junction
+		(at 83.82 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6998a4a3-a799-443e-866c-f54fd949b53d")
+	)
+	(junction
 		(at 63.5 213.36)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4591,12 +4615,6 @@
 		(uuid "908eabcc-b4a9-4b13-bd84-401713cbe5be")
 	)
 	(junction
-		(at 29.21 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "91b9cf71-32e4-4088-b7e5-1a250a578a69")
-	)
-	(junction
 		(at 92.71 281.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4637,6 +4655,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9f96266d-d405-4611-8e0c-a66f9f3e27a1")
+	)
+	(junction
+		(at 71.12 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a4693bd8-8156-4711-ba74-ba64f318d3cd")
 	)
 	(junction
 		(at 25.4 321.31)
@@ -4966,7 +4990,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 49.53) (xy 72.39 49.53)
+			(xy 60.96 49.53) (xy 71.12 49.53)
 		)
 		(stroke
 			(width 0)
@@ -5013,16 +5037,6 @@
 			(type default)
 		)
 		(uuid "0379f0e7-9358-45d3-8a1a-37f386947eb6")
-	)
-	(wire
-		(pts
-			(xy 525.78 363.22) (xy 532.13 363.22)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "03f7cbfc-7b5c-4086-8d2d-1eb4b4e34919")
 	)
 	(wire
 		(pts
@@ -5346,7 +5360,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 33.02) (xy 29.21 27.94)
+			(xy 29.21 25.4) (xy 29.21 33.02)
 		)
 		(stroke
 			(width 0)
@@ -5463,6 +5477,16 @@
 			(type default)
 		)
 		(uuid "1ef25478-e3f6-48d3-90f0-24b7dd7ee766")
+	)
+	(wire
+		(pts
+			(xy 524.51 363.22) (xy 532.13 363.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f1cc273-7388-4435-bdb5-0ed5408cc7dc")
 	)
 	(wire
 		(pts
@@ -5616,16 +5640,6 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 358.14) (xy 532.13 358.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2494da0a-2070-4597-b1cc-5f92e95750ae")
-	)
-	(wire
-		(pts
 			(xy 54.61 49.53) (xy 60.96 49.53)
 		)
 		(stroke
@@ -5686,7 +5700,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 22.86) (xy 45.72 22.86)
+			(xy 29.21 22.86) (xy 40.64 22.86)
 		)
 		(stroke
 			(width 0)
@@ -6186,16 +6200,6 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 365.76) (xy 532.13 365.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ff531e6-2757-4d46-bb89-9dd699eee5ff")
-	)
-	(wire
-		(pts
 			(xy 431.8 99.06) (xy 435.61 99.06)
 		)
 		(stroke
@@ -6346,7 +6350,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 27.94) (xy 40.64 27.94)
+			(xy 29.21 25.4) (xy 45.72 25.4)
 		)
 		(stroke
 			(width 0)
@@ -6363,6 +6367,26 @@
 			(type default)
 		)
 		(uuid "4b4a354b-8b27-4a65-97da-e007c56f6387")
+	)
+	(wire
+		(pts
+			(xy 519.43 342.9) (xy 527.05 342.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d3f4cb5-a79a-4327-ae62-ff63a6a72b1f")
+	)
+	(wire
+		(pts
+			(xy 83.82 22.86) (xy 92.71 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d53adb5-8683-45af-8d55-85f417a1100e")
 	)
 	(wire
 		(pts
@@ -6536,6 +6560,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 34.29) (xy 71.12 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "599389c2-bdfe-4ec6-8255-f8608b47b761")
+	)
+	(wire
+		(pts
 			(xy 193.04 57.15) (xy 193.04 59.69)
 		)
 		(stroke
@@ -6626,7 +6660,7 @@
 	)
 	(wire
 		(pts
-			(xy 29.21 22.86) (xy 29.21 27.94)
+			(xy 29.21 22.86) (xy 29.21 25.4)
 		)
 		(stroke
 			(width 0)
@@ -6736,7 +6770,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 22.86) (xy 92.71 22.86)
+			(xy 76.2 22.86) (xy 83.82 22.86)
 		)
 		(stroke
 			(width 0)
@@ -6783,6 +6817,16 @@
 			(type default)
 		)
 		(uuid "685f3041-1918-45f3-b907-a4a27446e6db")
+	)
+	(wire
+		(pts
+			(xy 524.51 365.76) (xy 532.13 365.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "68a9ef7e-3c92-4ea6-a1b5-4507311a4522")
 	)
 	(wire
 		(pts
@@ -6916,6 +6960,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 22.86) (xy 45.72 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6ee5f052-8cea-4e2b-9a71-37ac34502b83")
+	)
+	(wire
+		(pts
 			(xy 454.66 139.7) (xy 454.66 135.89)
 		)
 		(stroke
@@ -6963,6 +7017,16 @@
 			(type default)
 		)
 		(uuid "705e8980-d7c9-45c5-8180-963b329e6eb3")
+	)
+	(wire
+		(pts
+			(xy 519.43 340.36) (xy 527.05 340.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "70879fbc-4c11-40ce-a2d1-03eff16e8202")
 	)
 	(wire
 		(pts
@@ -7386,7 +7450,7 @@
 	)
 	(wire
 		(pts
-			(xy 519.43 345.44) (xy 527.05 345.44)
+			(xy 519.43 349.25) (xy 527.05 349.25)
 		)
 		(stroke
 			(width 0)
@@ -7626,6 +7690,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 49.53) (xy 72.39 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "90205cb7-1174-4b1b-b21d-6beffecd66d6")
+	)
+	(wire
+		(pts
 			(xy 180.34 336.55) (xy 181.61 336.55)
 		)
 		(stroke
@@ -7776,6 +7850,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 34.29) (xy 44.45 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b0cce8f-9d94-4f35-9374-eb4dbcf509d9")
+	)
+	(wire
+		(pts
 			(xy 97.79 320.04) (xy 97.79 321.31)
 		)
 		(stroke
@@ -7813,16 +7897,6 @@
 			(type default)
 		)
 		(uuid "9d0a4569-e565-4eed-b3e1-4b0050a223ee")
-	)
-	(wire
-		(pts
-			(xy 40.64 27.94) (xy 40.64 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9d74b249-f7a4-41be-afef-e5313e6a5ab6")
 	)
 	(wire
 		(pts
@@ -7956,6 +8030,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 34.29) (xy 71.12 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a4bd9308-a6d9-43d8-b23d-bfd8f6b5ee06")
+	)
+	(wire
+		(pts
 			(xy 180.34 281.94) (xy 181.61 281.94)
 		)
 		(stroke
@@ -7996,7 +8080,17 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 30.48) (xy 45.72 30.48)
+			(xy 524.51 360.68) (xy 532.13 360.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a642fa11-1e06-4b2d-bdf4-c5b2485ff980")
+	)
+	(wire
+		(pts
+			(xy 40.64 34.29) (xy 44.45 34.29)
 		)
 		(stroke
 			(width 0)
@@ -8336,7 +8430,7 @@
 	)
 	(wire
 		(pts
-			(xy 519.43 347.98) (xy 527.05 347.98)
+			(xy 519.43 351.79) (xy 527.05 351.79)
 		)
 		(stroke
 			(width 0)
@@ -9006,16 +9100,6 @@
 	)
 	(wire
 		(pts
-			(xy 525.78 360.68) (xy 532.13 360.68)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dda400ae-b05d-4086-aa2e-3a7b3dd7cb5a")
-	)
-	(wire
-		(pts
 			(xy 157.48 38.1) (xy 157.48 48.26)
 		)
 		(stroke
@@ -9273,6 +9357,16 @@
 			(type default)
 		)
 		(uuid "ed00526b-d1f7-46b1-95dc-9afe4075d550")
+	)
+	(wire
+		(pts
+			(xy 525.78 358.14) (xy 532.13 358.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed0e909b-25fc-4c83-8aef-07f8a1f2def6")
 	)
 	(wire
 		(pts
@@ -9556,6 +9650,16 @@
 	)
 	(wire
 		(pts
+			(xy 44.45 30.48) (xy 45.72 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fda347a3-30cd-4b8d-934a-bab51cb1c20e")
+	)
+	(wire
+		(pts
 			(xy 25.4 87.63) (xy 25.4 91.44)
 		)
 		(stroke
@@ -9573,16 +9677,6 @@
 			(type default)
 		)
 		(uuid "fe4e1bac-55e9-4eb3-9b46-b6e1fa067145")
-	)
-	(wire
-		(pts
-			(xy 40.64 25.4) (xy 45.72 25.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe5a49e3-0af6-4102-87f3-b2437ccb51cc")
 	)
 	(wire
 		(pts
@@ -11182,6 +11276,28 @@
 			)
 		)
 	)
+	(global_label "CAN1TX"
+		(shape input)
+		(at 519.43 342.9 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "565ab997-6248-4a0f-a49d-a3594a7b4a75")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 509.3691 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "BrakeLight_cmd"
 		(shape output)
 		(at 185.42 57.15 90)
@@ -11998,7 +12114,7 @@
 	)
 	(global_label "MISO_5V"
 		(shape input)
-		(at 525.78 360.68 180)
+		(at 524.51 360.68 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12008,7 +12124,7 @@
 		)
 		(uuid "8d8de7f9-2ccf-4822-9948-e64b33e10b26")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.9329 360.68 0)
+			(at 513.6629 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12218,7 +12334,7 @@
 	)
 	(global_label "CAN1L"
 		(shape bidirectional)
-		(at 519.43 347.98 180)
+		(at 519.43 351.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12228,7 +12344,7 @@
 		)
 		(uuid "9c88d084-4a7e-4048-ad9d-72ca3849c390")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 509.4068 347.98 0)
+			(at 509.4068 351.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12273,6 +12389,28 @@
 		(uuid "a42d6a47-0469-4937-b23a-4f115115b930")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 97.79 334.6969 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CAN1RX"
+		(shape input)
+		(at 519.43 340.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a50e2e70-409b-443f-a487-f5710a58b66c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 509.0667 340.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12328,7 +12466,7 @@
 	)
 	(global_label "MOSI_5V"
 		(shape output)
-		(at 525.78 365.76 180)
+		(at 524.51 365.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12338,7 +12476,7 @@
 		)
 		(uuid "b0239a4b-6852-41fd-b7a2-97f35304df95")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 514.9329 365.76 0)
+			(at 513.6629 365.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12438,7 +12576,7 @@
 	)
 	(global_label "SCK_5V"
 		(shape output)
-		(at 525.78 363.22 180)
+		(at 524.51 363.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12448,7 +12586,7 @@
 		)
 		(uuid "bee0d6a1-011c-4986-bfc2-2a4245c2d2ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 515.7796 363.22 0)
+			(at 514.5096 363.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12900,7 +13038,7 @@
 	)
 	(global_label "CAN1H"
 		(shape bidirectional)
-		(at 519.43 345.44 180)
+		(at 519.43 349.25 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12910,7 +13048,7 @@
 		)
 		(uuid "dd01c9d8-aa6b-4449-9bd9-88d5419459c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 509.1044 345.44 0)
+			(at 509.1044 349.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14021,7 +14159,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "07243026-dfdf-455b-b7df-c8717a9a9ac2")
-		(property "Reference" "J10"
+		(property "Reference" "J11"
 			(at 543.56 361.9499 0)
 			(effects
 				(font
@@ -14133,7 +14271,7 @@
 		(instances
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "J10")
+					(reference "J11")
 					(unit 1)
 				)
 			)
@@ -16825,7 +16963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "243b4944-ee81-41a3-81ca-f38bdf2aa632")
-		(property "Reference" "J11"
+		(property "Reference" "J12"
 			(at 207.01 378.46 0)
 			(effects
 				(font
@@ -16965,7 +17103,7 @@
 		(instances
 			(project ""
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "J11")
+					(reference "J12")
 					(unit 1)
 				)
 			)
@@ -20148,6 +20286,157 @@
 		)
 	)
 	(symbol
+		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
+		(at 83.82 34.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "40005f1c-b989-499b-9539-19cd0930846c")
+		(property "Reference" "C7"
+			(at 80.01 27.3049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1u"
+			(at 80.01 29.8449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EPSA_lib:CAPC2012X130N"
+			(at 83.82 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
+			(at 86.36 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
+			(at 88.9 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 81.534 9.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "C"
+			(at 78.74 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.3"
+			(at 91.44 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Syfer"
+			(at 93.98 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
+			(at 96.52 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 97.79 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 96.52 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Render Name" "Condensateur"
+			(at 79.756 27.686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "772463d1-a6ad-429b-8fdf-55a2ce381da9")
+		)
+		(pin "2"
+			(uuid "894e1afa-7f39-4b4d-a7ea-6c59714f574d")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "NMOS:MMBF170")
 		(at 237.49 138.43 0)
 		(unit 1)
@@ -20394,7 +20683,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 43.18 30.48 270)
+		(at 40.64 34.29 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20403,7 +20692,7 @@
 		(fields_autoplaced yes)
 		(uuid "43ef9217-1b8e-4a67-94c2-861928232237")
 		(property "Reference" "#PWR02"
-			(at 36.83 30.48 0)
+			(at 40.64 40.64 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20412,16 +20701,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 39.37 30.4799 90)
+			(at 43.18 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 			)
 		)
 		(property "Footprint" ""
-			(at 43.18 30.48 0)
+			(at 40.64 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20430,7 +20719,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 43.18 30.48 0)
+			(at 40.64 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20439,7 +20728,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 43.18 30.48 0)
+			(at 40.64 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24231,6 +24520,157 @@
 		)
 	)
 	(symbol
+		(lib_id "EPSA_lib:Condensateur 0805Y1000104JXT")
+		(at 40.64 34.29 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "72c21d36-7bea-44c2-b9d5-22edbd179e31")
+		(property "Reference" "C6"
+			(at 36.83 27.3049 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2.2u"
+			(at 36.83 29.8449 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "EPSA_lib:CAPC2012X130N"
+			(at 40.64 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://docs-europe.electrocomponents.com/webdocs/119d/0900766b8119d7bc.pdf"
+			(at 43.18 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Description" "Syfer 0805 Ceramic Chip Capacitors"
+			(at 45.72 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=+ 2=-"
+			(at 38.354 9.144 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "C"
+			(at 35.56 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Height" "1.3"
+			(at 48.26 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Syfer"
+			(at 50.8 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "0805Y1000104JXT"
+			(at 53.34 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 54.61 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 53.34 13.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Render Name" "Condensateur"
+			(at 36.576 27.686 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3eab92eb-1895-4f06-8a3c-e16c354c8877")
+		)
+		(pin "2"
+			(uuid "a5543268-9c03-43ed-afac-8c652ac6aa40")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
 		(at 92.71 281.94 90)
 		(unit 1)
@@ -26212,7 +26652,7 @@
 	)
 	(symbol
 		(lib_id "EPSA_lib:2P Droit 2-11-2022")
-		(at 537.21 345.44 0)
+		(at 537.21 349.25 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -26220,8 +26660,8 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "828fd525-acf4-4c39-8469-52eda292babd")
-		(property "Reference" "J9"
-			(at 543.56 346.7099 0)
+		(property "Reference" "J10"
+			(at 543.56 350.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26230,26 +26670,6 @@
 			)
 		)
 		(property "Value" "2P Droit 2-11-2022"
-			(at 543.56 341.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Footprint" "EPSA_lib:MOLEX_22-11-2022"
-			(at 543.56 347.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/22112022?display=pdf"
 			(at 543.56 345.44 0)
 			(effects
 				(font
@@ -26259,8 +26679,28 @@
 				(hide yes)
 			)
 		)
+		(property "Footprint" "EPSA_lib:MOLEX_22-11-2022"
+			(at 543.56 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/22112022?display=pdf"
+			(at 543.56 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
 		(property "Description" ""
-			(at 537.21 345.44 0)
+			(at 537.21 349.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26269,7 +26709,7 @@
 			)
 		)
 		(property "Height" "10.66mm"
-			(at 543.56 350.52 0)
+			(at 543.56 354.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26279,7 +26719,7 @@
 			)
 		)
 		(property "Render Name" "2P Droit"
-			(at 537.21 341.63 0)
+			(at 537.21 345.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26288,7 +26728,7 @@
 			)
 		)
 		(property "Manufacturer_Name" "Molex"
-			(at 543.56 342.9 0)
+			(at 543.56 346.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26298,7 +26738,7 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "22-11-2022"
-			(at 543.56 354.33 0)
+			(at 543.56 358.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26308,7 +26748,7 @@
 			)
 		)
 		(property "Mouser Part Number" "538-22-11-2022"
-			(at 543.56 356.87 0)
+			(at 543.56 360.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26318,7 +26758,7 @@
 			)
 		)
 		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/Molex/22-11-2022?qs=mrPiglD9aYLq1NGrfjXTJg%3D%3D"
-			(at 543.56 351.79 0)
+			(at 543.56 355.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26336,7 +26776,7 @@
 		(instances
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "J9")
+					(reference "J10")
 					(unit 1)
 				)
 			)
@@ -36221,6 +36661,138 @@
 			(project ""
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "RED1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "EPSA_lib:2P Droit 2-11-2022")
+		(at 537.21 340.36 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e14a1e65-99b7-40e7-8bbb-1b128e69f045")
+		(property "Reference" "J9"
+			(at 543.56 341.6299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "2P Droit 2-11-2022"
+			(at 543.56 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "EPSA_lib:MOLEX_22-11-2022"
+			(at 543.56 342.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.molex.com/en-us/products/part-detail/22112022?display=pdf"
+			(at 543.56 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 537.21 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "10.66mm"
+			(at 543.56 345.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Render Name" "2P Droit"
+			(at 537.21 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "Molex"
+			(at 543.56 337.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "22-11-2022"
+			(at 543.56 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" "538-22-11-2022"
+			(at 543.56 351.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" "https://www.mouser.fr/ProductDetail/Molex/22-11-2022?qs=mrPiglD9aYLq1NGrfjXTJg%3D%3D"
+			(at 543.56 346.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4b8d2e29-4fd3-4d90-af8b-db173f67fe2f")
+		)
+		(pin "2"
+			(uuid "417f9712-1909-417e-bfbf-db13ea1df251")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "J9")
 					(unit 1)
 				)
 			)
