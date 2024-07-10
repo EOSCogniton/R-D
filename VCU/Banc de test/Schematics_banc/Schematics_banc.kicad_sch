@@ -11,362 +11,6 @@
 		(company "EPSA")
 	)
 	(lib_symbols
-		(symbol "100SP1T1B4M2QE:100SP1T1B4M2QE"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at 16.51 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "100SP1T1B4M2QE"
-				(at 16.51 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "100SP1T1B4M2QE"
-				(at 16.51 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-				(at 16.51 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "28"
-				(at 16.51 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "612-100-A1421"
-				(at 16.51 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-				(at 16.51 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "E-Switch"
-				(at 16.51 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-				(at 16.51 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "100SP1T1B4M2QE_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 15.24 -7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
-		(symbol "7914J-1-000E:7914J-1-000E"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "S"
-				(at 21.59 7.62 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Value" "7914J-1-000E"
-				(at 21.59 5.08 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-				)
-			)
-			(property "Footprint" "7914J1000E"
-				(at 21.59 -94.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-				(at 21.59 -194.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Height" "4"
-				(at 21.59 -394.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Part Number" "652-7914J-1-000E"
-				(at 21.59 -494.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-				(at 21.59 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Bourns"
-				(at 21.59 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "7914J-1-000E"
-				(at 21.59 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "7914J-1-000E_1_1"
-				(rectangle
-					(start 5.08 2.54)
-					(end 20.32 -5.08)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "-_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "-_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 0 180)
-					(length 5.08)
-					(name "+_1"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 25.4 -2.54 180)
-					(length 5.08)
-					(name "+_2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-		)
 		(symbol "Blue LED:LB_T64G-V2CA-59-Z484"
 			(pin_names hide)
 			(exclude_from_sim no)
@@ -3020,49 +2664,58 @@
 				)
 			)
 		)
-		(symbol "Potentiomètre:PTV09A-4015U-A503"
+		(symbol "R_Potentiometer_1"
+			(pin_names
+				(offset 1.016) hide)
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "VR"
-				(at 24.13 7.62 0)
+			(property "Reference" "RV1"
+				(at -1.016 -6.35 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify right)
 				)
 			)
-			(property "Value" "PTV09A-4015U-A503"
-				(at 24.13 5.08 0)
+			(property "Value" "R_Potentiometer"
+				(at -1.016 -4.572 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
+					(justify right)
 				)
 			)
 			(property "Footprint" "PTV09A4015UA503"
-				(at 24.13 -94.92 0)
+				(at 0.254 5.588 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
 			(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
-				(at 24.13 -194.92 0)
+				(at 4.318 10.668 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
 			(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
+				(at 2.54 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
 				(at 0 0 0)
 				(effects
 					(font
@@ -3071,72 +2724,66 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "15.5"
-				(at 24.13 -394.92 0)
+			(property "ki_keywords" "resistor variable"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Mouser Part Number" "652-PTV09A4015UA503"
-				(at 24.13 -494.92 0)
+			(property "ki_fp_filters" "Potentiometer*"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
-					(justify left top)
 					(hide yes)
 				)
 			)
-			(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4015U-A503?qs=fgHA1UgJI8C5H6fRowZ2UQ%3D%3D"
-				(at 24.13 -594.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Name" "Bourns"
-				(at 24.13 -694.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
-				(at 24.13 -794.92 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify left top)
-					(hide yes)
-				)
-			)
-			(symbol "PTV09A-4015U-A503_1_1"
+			(symbol "R_Potentiometer_1_0_1"
 				(rectangle
-					(start 5.08 2.54)
-					(end 22.86 -7.62)
+					(start -1.016 2.54)
+					(end 1.016 -2.54)
 					(stroke
 						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type background)
+						(type none)
 					)
 				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 1.524 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.143 0) (xy 2.286 0.508) (xy 2.286 -0.508) (xy 1.143 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+			)
+			(symbol "R_Potentiometer_1_1_1"
 				(pin passive line
-					(at 0 0 0)
-					(length 5.08)
-					(name "CCW"
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3152,9 +2799,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 -2.54 0)
-					(length 5.08)
-					(name "WIPER"
+					(at 3.81 0 180)
+					(length 1.27)
+					(name "2"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3170,9 +2817,9 @@
 					)
 				)
 				(pin passive line
-					(at 0 -5.08 0)
-					(length 5.08)
-					(name "CW"
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3187,9 +2834,9 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 27.94 0 180)
-					(length 5.08)
+				(pin no_connect line
+					(at -3.81 1.27 0)
+					(length 2.54)
 					(name "MH1"
 						(effects
 							(font
@@ -3205,10 +2852,10 @@
 						)
 					)
 				)
-				(pin passive line
-					(at 27.94 -2.54 180)
-					(length 5.08)
-					(name "MH2"
+				(pin no_connect line
+					(at -3.81 -1.27 0)
+					(length 2.54)
+					(name "MH1"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -3730,6 +3377,401 @@
 						)
 					)
 					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Switch:SW_MEC_5E"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0.635 5.715 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "SW_MEC_5E"
+				(at 0 -3.175 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "http://www.apem.com/int/index.php?controller=attachment&id_attachment=1371"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "MEC 5E single pole normally-open tactile switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "SW*MEC*5G*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_MEC_5E_0_1"
+				(circle
+					(center -1.778 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 3.81) (xy 2.286 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 5.588)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.54 0) (xy -2.54 2.54) (xy -2.286 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 0) (xy 2.54 2.54) (xy 2.286 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 1.778 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "K"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+		)
+		(symbol "Switch:SW_Nidec_CAS-120A1"
+			(pin_names
+				(offset 1) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 4.318 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_Nidec_CAS-120A1"
+				(at 0 -5.08 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "Button_Switch_SMD:Nidec_Copal_CAS-120A"
+				(at 0 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "https://www.nidec-components.com/e/catalog/switch/cas.pdf"
+				(at 0 -7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Switch, single pole double throw"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch single-pole double-throw spdt ON-ON"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "*Nidec?Copal?CAS?120A*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_Nidec_CAS-120A1_0_1"
+				(circle
+					(center -2.032 0)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.651 0.254) (xy 1.651 2.286)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.4572)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "SW_Nidec_CAS-120A1_1_1"
+				(rectangle
+					(start -3.175 3.81)
+					(end 3.175 -3.81)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "C"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 0 0)
+					(length 2.54)
+					(name "B"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -4360,13 +4402,13 @@
 		(at 15.24 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0577d9b4-fdcf-4f7b-97b5-0d263c2fc6c9")
+		(uuid "0ee29880-2272-447b-8f0c-fa3c39124a93")
 	)
 	(junction
-		(at 431.8 68.58)
+		(at 452.12 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "0d768f95-857d-4d49-833c-6e49b2ee3fd4")
+		(uuid "0f247592-2a40-4014-b102-d152069b946a")
 	)
 	(junction
 		(at 40.64 34.29)
@@ -4381,10 +4423,10 @@
 		(uuid "1255c2fd-1be5-483a-96f0-01eac6855a93")
 	)
 	(junction
-		(at 476.25 38.1)
+		(at 92.71 281.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "151d87fc-e3f9-4136-a8c2-d994bf34fa79")
+		(uuid "14bf992f-c531-462d-8431-b6c40237c720")
 	)
 	(junction
 		(at 29.21 214.63)
@@ -4397,12 +4439,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1af17ce9-02c8-40e9-aa66-798341252578")
-	)
-	(junction
-		(at 534.67 78.74)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1f5ed29b-097d-4fdb-8bd4-44296b918865")
 	)
 	(junction
 		(at 40.64 22.86)
@@ -4423,6 +4459,12 @@
 		(uuid "2a8f8f46-7f60-49cc-8849-a62ad9000da9")
 	)
 	(junction
+		(at 452.12 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2f81fa8c-a73f-4020-9bb2-9f1db0a8de3a")
+	)
+	(junction
 		(at 148.59 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4441,16 +4483,22 @@
 		(uuid "3608d65d-a10a-437d-87ff-3a4b6f65c6cf")
 	)
 	(junction
+		(at 533.4 109.22)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "37e5a3a8-6426-44c4-97b3-527caa052b86")
+	)
+	(junction
 		(at 199.39 322.58)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3a9c8fc0-2f1f-4f62-bf74-e6c342cac129")
 	)
 	(junction
-		(at 457.2 71.12)
+		(at 53.34 194.31)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4092dbfb-c3ed-4f8e-9d89-5176da9a4e6d")
+		(uuid "3cbdb263-ea62-4a54-bf89-158885e201c7")
 	)
 	(junction
 		(at 29.21 25.4)
@@ -4471,6 +4519,18 @@
 		(uuid "43b6f094-a1d8-49ca-94f7-f16fe9146bde")
 	)
 	(junction
+		(at 60.96 90.17)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45624289-98d0-4821-8d23-3a9870f409ae")
+	)
+	(junction
+		(at 157.48 322.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "45a2a3fe-92a0-435f-803a-1f723644f7ee")
+	)
+	(junction
 		(at 92.71 43.18)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4483,16 +4543,28 @@
 		(uuid "47f510e4-1af6-4e48-ab2a-b42b17809272")
 	)
 	(junction
-		(at 132.08 322.58)
+		(at 469.9 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "4e442db1-357c-493e-9348-718e5740b267")
+		(uuid "4bac666d-5576-431c-94aa-3ce732a2eb3e")
+	)
+	(junction
+		(at 60.96 143.51)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4e665437-8a56-426e-980a-e54fd582f325")
 	)
 	(junction
 		(at 562.61 123.19)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4efa7b94-5d7d-44f4-852f-92e997f82059")
+	)
+	(junction
+		(at 534.67 31.75)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5289730e-161d-448c-81ac-e4162054c136")
 	)
 	(junction
 		(at 256.54 35.56)
@@ -4507,28 +4579,22 @@
 		(uuid "57216a17-7c59-4f8e-8c71-45ffa0d0a1ee")
 	)
 	(junction
-		(at 60.96 143.51)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "594dcd05-422e-4394-857e-7344f8bfb45f")
-	)
-	(junction
 		(at 255.27 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b9a6f28-9d98-43a0-b08c-b3ce5dd28c8b")
 	)
 	(junction
-		(at 50.8 321.31)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "5c7a0769-ce3c-4004-8fc2-b7ca230f3020")
-	)
-	(junction
 		(at 49.53 378.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "605a969f-d145-4c74-a3c7-9b328f979ba2")
+	)
+	(junction
+		(at 40.64 321.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65bdfd10-eece-4d81-85d8-739515816110")
 	)
 	(junction
 		(at 123.19 370.84)
@@ -4555,10 +4621,10 @@
 		(uuid "69d516a6-1abf-454a-bd7a-3bce04a540ce")
 	)
 	(junction
-		(at 450.85 35.56)
+		(at 147.32 322.58)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "6ae5b29a-46b0-41cf-a5b9-42ef92f2231c")
+		(uuid "69fa53bf-f284-4f16-a620-a5e760c524b7")
 	)
 	(junction
 		(at 92.71 22.86)
@@ -4573,10 +4639,10 @@
 		(uuid "722c3328-adac-40b9-bfd7-201080221053")
 	)
 	(junction
-		(at 25.4 281.94)
+		(at 50.8 281.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "77f0f54a-1c4a-486d-aae3-5753c91e78be")
+		(uuid "77e33dfb-15b8-468b-a87a-4c93065935b9")
 	)
 	(junction
 		(at 557.53 90.17)
@@ -4591,12 +4657,6 @@
 		(uuid "800732cf-0e1d-4bab-a770-7686a5658a98")
 	)
 	(junction
-		(at 539.75 34.29)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "81cd228a-73fe-45d7-8847-2955b946c411")
-	)
-	(junction
 		(at 199.39 281.94)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4609,16 +4669,22 @@
 		(uuid "83a810bc-e820-4432-94bb-acd8ffe0f599")
 	)
 	(junction
+		(at 50.8 321.31)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "87142961-7e54-4f7d-8197-8090a5584037")
+	)
+	(junction
 		(at 138.43 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "908eabcc-b4a9-4b13-bd84-401713cbe5be")
 	)
 	(junction
-		(at 92.71 281.94)
+		(at 523.24 109.22)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "98ab9839-9569-465f-b968-e108fec5281c")
+		(uuid "91b73296-6b9b-42f5-a388-469181b4b44d")
 	)
 	(junction
 		(at 26.67 162.56)
@@ -4639,10 +4705,10 @@
 		(uuid "9b860638-e15b-485f-9bee-240900239948")
 	)
 	(junction
-		(at 514.35 31.75)
+		(at 161.29 281.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "9ec9243b-2244-44e8-84b3-50fd98630467")
+		(uuid "9c55cac4-4280-489d-ab13-66953e2ccb04")
 	)
 	(junction
 		(at 480.06 82.55)
@@ -4651,28 +4717,16 @@
 		(uuid "9f00f888-3ed0-4137-a114-fdc60fd6a20c")
 	)
 	(junction
-		(at 157.48 322.58)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9f96266d-d405-4611-8e0c-a66f9f3e27a1")
-	)
-	(junction
 		(at 71.12 49.53)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a4693bd8-8156-4711-ba74-ba64f318d3cd")
 	)
 	(junction
-		(at 25.4 321.31)
+		(at 151.13 281.94)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "a7472494-9dcf-4495-aac0-ff38aa11a7da")
-	)
-	(junction
-		(at 50.8 281.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "ac4cf98d-b3e8-475c-9a16-ca625d3dfe90")
+		(uuid "aa18a470-f8ba-4ae9-830f-6c86a7674180")
 	)
 	(junction
 		(at 140.97 148.59)
@@ -4681,16 +4735,22 @@
 		(uuid "b16d1dc1-dd9e-493a-927a-a56d284f3f70")
 	)
 	(junction
-		(at 60.96 90.17)
+		(at 448.31 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b2f3f18e-a923-4fdf-8ddf-7e75433b377c")
+		(uuid "b25060fb-f649-4bd6-a5c4-cfa5ac8888cb")
 	)
 	(junction
-		(at 161.29 281.94)
+		(at 519.43 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "b630bbbf-c35a-4665-ae76-baf898429ead")
+		(uuid "b49add23-8d36-40bd-a645-080a521a3b17")
+	)
+	(junction
+		(at 441.96 68.58)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b5e6c8da-a8f2-46ab-bcb7-dbfe1aeec2fb")
 	)
 	(junction
 		(at 477.52 147.32)
@@ -4711,18 +4771,6 @@
 		(uuid "b9c39687-bcfa-47a3-bbd8-bdf9ff1c8abd")
 	)
 	(junction
-		(at 539.75 111.76)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c1718d76-c4a3-47c7-8324-1928c6220834")
-	)
-	(junction
-		(at 514.35 109.22)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c391629a-dc99-49d2-b27e-4561778d137a")
-	)
-	(junction
 		(at 246.38 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4739,12 +4787,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c538694b-50a1-4f7f-8a58-d1a886ce3984")
-	)
-	(junction
-		(at 509.27 76.2)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "c58aed96-3605-49ba-9df9-f2f6ccf193d3")
 	)
 	(junction
 		(at 29.21 22.86)
@@ -4765,16 +4807,10 @@
 		(uuid "cf42a6ab-9549-437f-ac0e-126971ba9a7c")
 	)
 	(junction
-		(at 53.34 194.31)
+		(at 438.15 133.35)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "d5d8ce39-bbad-47ba-95ad-e8a25e2c6f12")
-	)
-	(junction
-		(at 429.26 133.35)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d6548e28-a92f-45f2-829b-dfd7295b0b02")
+		(uuid "d63ee8d5-e97e-433c-bb86-6cffc58d3343")
 	)
 	(junction
 		(at 201.93 102.87)
@@ -4801,16 +4837,16 @@
 		(uuid "dc5a0dcb-342a-4641-9941-342ae5968770")
 	)
 	(junction
+		(at 40.64 281.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ddfb66a5-50b4-432e-9102-e33278b96b60")
+	)
+	(junction
 		(at 297.18 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7fb8bf8-a7f4-41fa-bba8-ea000d04d846")
-	)
-	(junction
-		(at 135.89 281.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "efbb1750-8b5d-4d70-ad9d-8783eebf6d0c")
 	)
 	(junction
 		(at 34.29 373.38)
@@ -4825,10 +4861,10 @@
 		(uuid "f9b80797-61b2-40ca-9296-a4ad8adbcb28")
 	)
 	(junction
-		(at 454.66 135.89)
+		(at 529.59 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "fcd0c95e-0aec-4bad-ad60-1bc58b3f258a")
+		(uuid "fa12d922-c341-455b-a6fb-219d3337e0e9")
 	)
 	(junction
 		(at 299.72 81.28)
@@ -4841,14 +4877,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdd7f1f1-0398-4a6e-b82a-52070db0e61e")
-	)
-	(no_connect
-		(at 92.71 189.23)
-		(uuid "01923b13-6037-49f1-ad37-f2d01e1f4d3d")
-	)
-	(no_connect
-		(at 100.33 85.09)
-		(uuid "03965e6f-f4cf-4e09-b3f8-e4782932b301")
 	)
 	(no_connect
 		(at 76.2 30.48)
@@ -4879,10 +4907,6 @@
 		(uuid "2cd26483-69ee-4ed2-b213-4c63fc3baea7")
 	)
 	(no_connect
-		(at 54.61 87.63)
-		(uuid "2dc4b2d8-219e-41f0-87bf-f124dbfb81e0")
-	)
-	(no_connect
 		(at 314.96 273.05)
 		(uuid "39d0b10a-a2cd-4e50-9989-794f30e40a4e")
 	)
@@ -4891,16 +4915,8 @@
 		(uuid "3f766071-c04f-43a6-a433-d8de5acef36b")
 	)
 	(no_connect
-		(at 100.33 87.63)
-		(uuid "427d5963-34af-499f-a25a-48046836846c")
-	)
-	(no_connect
 		(at 330.2 358.14)
 		(uuid "5f4ba4bb-4f13-44a3-9ccd-d3ef7d8bcfd7")
-	)
-	(no_connect
-		(at 92.71 191.77)
-		(uuid "605e0732-34c4-4d77-852a-236650ad4dfd")
 	)
 	(no_connect
 		(at 382.27 200.66)
@@ -4917,10 +4933,6 @@
 	(no_connect
 		(at 382.27 307.34)
 		(uuid "71ac91ad-a52b-4b53-86c0-57f52d5fb3b7")
-	)
-	(no_connect
-		(at 100.33 140.97)
-		(uuid "7f4bafe2-bafc-4d50-96ac-29fc021c81b6")
 	)
 	(no_connect
 		(at 76.2 27.94)
@@ -4943,24 +4955,12 @@
 		(uuid "b031c9a3-56ec-41fd-aa40-18f6326befe6")
 	)
 	(no_connect
-		(at 54.61 85.09)
-		(uuid "b46899bb-3cba-483f-aa86-b44c81182460")
-	)
-	(no_connect
-		(at 100.33 138.43)
-		(uuid "c19c957f-eab5-4e7a-b241-9922a7255ad3")
-	)
-	(no_connect
 		(at 322.58 358.14)
 		(uuid "d6949e5a-b911-4334-8b66-c42137b20184")
 	)
 	(no_connect
 		(at 537.21 276.86)
 		(uuid "da4eaf1e-8bde-4564-b3fe-84f1f5e4d03f")
-	)
-	(no_connect
-		(at 55.88 140.97)
-		(uuid "e5d74a31-2183-4eef-97db-4e3f250aa080")
 	)
 	(no_connect
 		(at 327.66 358.14)
@@ -4973,10 +4973,6 @@
 	(no_connect
 		(at 314.96 290.83)
 		(uuid "fbd0deba-8f54-4584-a89a-ff9852072ba5")
-	)
-	(no_connect
-		(at 55.88 138.43)
-		(uuid "fbe8688e-206b-4062-9981-4e69345a30ef")
 	)
 	(wire
 		(pts
@@ -5020,23 +5016,23 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 85.09) (xy 69.85 81.28)
+			(xy 448.31 135.89) (xy 448.31 133.35)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "036d5063-3458-46ad-882e-a4de46f73c7e")
+		(uuid "0246a09d-bdc1-47f9-8c7c-3a8b876eddd0")
 	)
 	(wire
 		(pts
-			(xy 74.93 111.76) (xy 71.12 111.76)
+			(xy 38.1 321.31) (xy 40.64 321.31)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "0379f0e7-9358-45d3-8a1a-37f386947eb6")
+		(uuid "039d37df-4c7c-4006-8252-43342cd33902")
 	)
 	(wire
 		(pts
@@ -5090,6 +5086,26 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 34.29) (xy 83.82 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07d1ff29-0bd6-45f6-b762-04d2849e9451")
+	)
+	(wire
+		(pts
+			(xy 71.12 139.7) (xy 71.12 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0800be6f-ce19-4467-8e63-4b9f81053f4d")
+	)
+	(wire
+		(pts
 			(xy 304.8 326.39) (xy 314.96 326.39)
 		)
 		(stroke
@@ -5100,7 +5116,7 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 101.6) (xy 436.88 101.6)
+			(xy 433.07 101.6) (xy 436.88 101.6)
 		)
 		(stroke
 			(width 0)
@@ -5120,7 +5136,7 @@
 	)
 	(wire
 		(pts
-			(xy 509.27 76.2) (xy 509.27 78.74)
+			(xy 519.43 76.2) (xy 519.43 78.74)
 		)
 		(stroke
 			(width 0)
@@ -5147,16 +5163,6 @@
 			(type default)
 		)
 		(uuid "0b52eca0-81c1-46a4-a2d3-584b12c3025f")
-	)
-	(wire
-		(pts
-			(xy 450.85 35.56) (xy 450.85 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0b604da3-fbae-4e3e-b53b-712f220d47bf")
 	)
 	(wire
 		(pts
@@ -5207,16 +5213,6 @@
 			(type default)
 		)
 		(uuid "0d36ffee-43c1-45db-b24b-8ea1b95e208c")
-	)
-	(wire
-		(pts
-			(xy 60.96 143.51) (xy 60.96 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0e22c2ea-785f-4b95-a2fb-5ee5de01fab7")
 	)
 	(wire
 		(pts
@@ -5320,16 +5316,6 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 41.91) (xy 476.25 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "17202868-0829-4cc8-bb34-250ecc74cdf7")
-	)
-	(wire
-		(pts
 			(xy 87.63 370.84) (xy 106.68 370.84)
 		)
 		(stroke
@@ -5347,16 +5333,6 @@
 			(type default)
 		)
 		(uuid "19406550-c4d4-4983-a858-276ab9c2cb1a")
-	)
-	(wire
-		(pts
-			(xy 25.4 111.76) (xy 25.4 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1942af44-01aa-4ceb-b1e7-276e0895c9c4")
 	)
 	(wire
 		(pts
@@ -5400,16 +5376,6 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 215.9) (xy 63.5 215.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1b8141ef-0eae-48fd-ba2e-de0d4153a605")
-	)
-	(wire
-		(pts
 			(xy 480.06 82.55) (xy 480.06 76.2)
 		)
 		(stroke
@@ -5427,16 +5393,6 @@
 			(type default)
 		)
 		(uuid "1d299980-b468-468f-a2f5-a0f806dc9a9c")
-	)
-	(wire
-		(pts
-			(xy 53.34 194.31) (xy 53.34 195.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1d2fafdf-5651-4963-9445-0f4fd3238377")
 	)
 	(wire
 		(pts
@@ -5480,6 +5436,16 @@
 	)
 	(wire
 		(pts
+			(xy 38.1 281.94) (xy 40.64 281.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ef5accb-7e1c-4e4d-a2fb-906dc31959be")
+	)
+	(wire
+		(pts
 			(xy 524.51 363.22) (xy 532.13 363.22)
 		)
 		(stroke
@@ -5487,6 +5453,16 @@
 			(type default)
 		)
 		(uuid "1f1cc273-7388-4435-bdb5-0ed5408cc7dc")
+	)
+	(wire
+		(pts
+			(xy 15.24 90.17) (xy 34.29 90.17)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f4bb8de-66f0-4df1-a7c3-9ba92357dad7")
 	)
 	(wire
 		(pts
@@ -5540,16 +5516,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 321.31) (xy 25.4 323.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1ffe0bb2-af03-482b-9323-2dc8180b7fe7")
-	)
-	(wire
-		(pts
 			(xy 227.33 396.24) (xy 236.22 396.24)
 		)
 		(stroke
@@ -5580,16 +5546,6 @@
 	)
 	(wire
 		(pts
-			(xy 53.34 194.31) (xy 64.77 194.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "218e1463-752c-4271-a554-e2a9c2898356")
-	)
-	(wire
-		(pts
 			(xy 464.82 74.93) (xy 457.2 74.93)
 		)
 		(stroke
@@ -5610,13 +5566,23 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 320.04) (xy 95.25 321.31)
+			(xy 60.96 90.17) (xy 80.01 90.17)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "23f3ea08-01d3-4664-8544-9c974e6be710")
+		(uuid "2272a369-7aaa-484f-bf0e-b0bced766ed1")
+	)
+	(wire
+		(pts
+			(xy 40.64 321.31) (xy 40.64 323.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23119816-a114-40ea-a0f4-fb47d57022c6")
 	)
 	(wire
 		(pts
@@ -5670,13 +5636,13 @@
 	)
 	(wire
 		(pts
-			(xy 15.24 90.17) (xy 15.24 91.44)
+			(xy 74.93 44.45) (xy 74.93 34.29)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "25308349-bfc7-4524-a370-009eeedc24f6")
+		(uuid "2587b049-4a2a-48f4-871a-09bdbb7c52d5")
 	)
 	(wire
 		(pts
@@ -5720,16 +5686,6 @@
 	)
 	(wire
 		(pts
-			(xy 31.75 165.1) (xy 26.67 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "267c9a51-eacd-4177-b858-2f5bc5b106c1")
-	)
-	(wire
-		(pts
 			(xy 199.39 295.91) (xy 199.39 281.94)
 		)
 		(stroke
@@ -5760,6 +5716,16 @@
 	)
 	(wire
 		(pts
+			(xy 26.67 139.7) (xy 33.02 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27fab692-f77f-42ee-abaf-6065727eeddf")
+	)
+	(wire
+		(pts
 			(xy 63.5 213.36) (xy 68.58 213.36)
 		)
 		(stroke
@@ -5770,7 +5736,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 191.77) (xy 63.5 195.58)
+			(xy 63.5 190.5) (xy 63.5 195.58)
 		)
 		(stroke
 			(width 0)
@@ -5787,6 +5753,16 @@
 			(type default)
 		)
 		(uuid "28f41727-35ce-4cf8-8ac8-94139462db03")
+	)
+	(wire
+		(pts
+			(xy 148.59 281.94) (xy 151.13 281.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2948f936-3165-4f83-94dc-446e82f1c4bb")
 	)
 	(wire
 		(pts
@@ -5840,16 +5816,6 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 215.9) (xy 63.5 220.98)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e0476cb-db54-4bf6-b5cd-29a71fe486fe")
-	)
-	(wire
-		(pts
 			(xy 160.02 147.32) (xy 160.02 148.59)
 		)
 		(stroke
@@ -5877,6 +5843,16 @@
 			(type default)
 		)
 		(uuid "2fd0874c-17b1-41d3-9fb8-1feb173fbf44")
+	)
+	(wire
+		(pts
+			(xy 76.2 86.36) (xy 71.12 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2fe1166a-aaa2-436d-8df3-c03f0971c054")
 	)
 	(wire
 		(pts
@@ -5910,7 +5886,7 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 82.55) (xy 534.67 78.74)
+			(xy 534.67 76.2) (xy 534.67 82.55)
 		)
 		(stroke
 			(width 0)
@@ -6010,16 +5986,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 281.94) (xy 25.4 281.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "39a58330-3a2d-4974-ad7d-6f1b510a6156")
-	)
-	(wire
-		(pts
 			(xy 50.8 321.31) (xy 50.8 323.85)
 		)
 		(stroke
@@ -6110,16 +6076,6 @@
 	)
 	(wire
 		(pts
-			(xy 69.85 138.43) (xy 69.85 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3ddb14d9-612b-48d2-b2f7-8f0894f70d0e")
-	)
-	(wire
-		(pts
 			(xy 382.27 260.35) (xy 401.32 260.35)
 		)
 		(stroke
@@ -6200,17 +6156,7 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 99.06) (xy 435.61 99.06)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "403051e2-e2c0-4fa8-a025-e6741d1278df")
-	)
-	(wire
-		(pts
-			(xy 505.46 76.2) (xy 509.27 76.2)
+			(xy 515.62 76.2) (xy 519.43 76.2)
 		)
 		(stroke
 			(width 0)
@@ -6240,6 +6186,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 143.51) (xy 60.96 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "42516579-6bf4-4d76-b98b-6bf8134cad8d")
+	)
+	(wire
+		(pts
 			(xy 237.49 119.38) (xy 237.49 120.65)
 		)
 		(stroke
@@ -6250,7 +6206,7 @@
 	)
 	(wire
 		(pts
-			(xy 514.35 31.75) (xy 514.35 34.29)
+			(xy 521.97 33.02) (xy 521.97 34.29)
 		)
 		(stroke
 			(width 0)
@@ -6270,13 +6226,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 88.9) (xy 60.96 90.17)
+			(xy 34.29 78.74) (xy 26.67 78.74)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "44e2fc7a-eabc-402e-a6cd-683018176ce7")
+		(uuid "45556c54-56d8-41c7-b2b5-1279a4a15410")
 	)
 	(wire
 		(pts
@@ -6320,7 +6276,7 @@
 	)
 	(wire
 		(pts
-			(xy 24.13 85.09) (xy 24.13 81.28)
+			(xy 34.29 82.55) (xy 34.29 78.74)
 		)
 		(stroke
 			(width 0)
@@ -6390,13 +6346,13 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 189.23) (xy 62.23 185.42)
+			(xy 529.59 76.2) (xy 534.67 76.2)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "4f0541b9-d8d6-43b6-91ac-bf0774d240e7")
+		(uuid "4eee8d10-e1e3-4430-8f41-4f2d9621a6e3")
 	)
 	(wire
 		(pts
@@ -6417,16 +6373,6 @@
 			(type default)
 		)
 		(uuid "500109d2-9633-40ef-adeb-21c6b4d0b06f")
-	)
-	(wire
-		(pts
-			(xy 71.12 111.76) (xy 71.12 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "502f914b-8aeb-4210-8d4a-641d82de165c")
 	)
 	(wire
 		(pts
@@ -6520,6 +6466,16 @@
 	)
 	(wire
 		(pts
+			(xy 78.74 215.9) (xy 82.55 215.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55433f57-892a-4451-aaae-d599bd10b812")
+	)
+	(wire
+		(pts
 			(xy 176.53 322.58) (xy 181.61 322.58)
 		)
 		(stroke
@@ -6560,7 +6516,17 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 34.29) (xy 71.12 34.29)
+			(xy 15.24 90.17) (xy 15.24 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "57aa9696-2458-40fb-8cd9-2d5fb3c2b470")
+	)
+	(wire
+		(pts
+			(xy 74.93 44.45) (xy 71.12 44.45)
 		)
 		(stroke
 			(width 0)
@@ -6620,7 +6586,7 @@
 	)
 	(wire
 		(pts
-			(xy 431.8 68.58) (xy 431.8 71.12)
+			(xy 441.96 68.58) (xy 441.96 71.12)
 		)
 		(stroke
 			(width 0)
@@ -6640,7 +6606,7 @@
 	)
 	(wire
 		(pts
-			(xy 16.51 143.51) (xy 27.94 143.51)
+			(xy 16.51 143.51) (xy 36.83 143.51)
 		)
 		(stroke
 			(width 0)
@@ -6700,6 +6666,36 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 86.36) (xy 71.12 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "615aae75-81fc-487e-a8cf-8abb62b7ed6c")
+	)
+	(wire
+		(pts
+			(xy 72.39 186.69) (xy 72.39 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61791417-feed-4202-91f7-5425927b7bf5")
+	)
+	(wire
+		(pts
+			(xy 39.37 111.76) (xy 41.91 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61f60586-9ae5-4f2b-9589-d02e3486378e")
+	)
+	(wire
+		(pts
 			(xy 382.27 335.28) (xy 403.86 335.28)
 		)
 		(stroke
@@ -6707,6 +6703,16 @@
 			(type default)
 		)
 		(uuid "622c817f-cf83-4534-bfea-ce6c56920032")
+	)
+	(wire
+		(pts
+			(xy 452.12 68.58) (xy 452.12 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "628127c0-0e17-4b8f-9ac6-4f4c8904104b")
 	)
 	(wire
 		(pts
@@ -6740,16 +6746,6 @@
 	)
 	(wire
 		(pts
-			(xy 510.54 31.75) (xy 514.35 31.75)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "63665e2f-8e31-4a50-9250-71f18ba71cca")
-	)
-	(wire
-		(pts
 			(xy 382.27 312.42) (xy 403.86 312.42)
 		)
 		(stroke
@@ -6757,16 +6753,6 @@
 			(type default)
 		)
 		(uuid "63fb6f84-ab11-419f-877c-6af25d6d2243")
-	)
-	(wire
-		(pts
-			(xy 72.39 140.97) (xy 71.12 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "65166c81-dc90-486f-9b05-5a05e1896cae")
 	)
 	(wire
 		(pts
@@ -6830,6 +6816,16 @@
 	)
 	(wire
 		(pts
+			(xy 80.01 82.55) (xy 80.01 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "691221da-dd25-4b7a-9bd7-9eedf4f4b263")
+	)
+	(wire
+		(pts
 			(xy 347.98 358.14) (xy 347.98 368.3)
 		)
 		(stroke
@@ -6840,7 +6836,7 @@
 	)
 	(wire
 		(pts
-			(xy 427.99 68.58) (xy 431.8 68.58)
+			(xy 438.15 68.58) (xy 441.96 68.58)
 		)
 		(stroke
 			(width 0)
@@ -6857,16 +6853,6 @@
 			(type default)
 		)
 		(uuid "69a91f21-c774-4d18-9ffd-d69fd1e60b91")
-	)
-	(wire
-		(pts
-			(xy 29.21 111.76) (xy 25.4 111.76)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a454412-ff9e-41c3-aafb-164d703f6ae4")
 	)
 	(wire
 		(pts
@@ -6920,13 +6906,13 @@
 	)
 	(wire
 		(pts
-			(xy 135.89 281.94) (xy 135.89 284.48)
+			(xy 36.83 135.89) (xy 36.83 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6d897b3f-3e25-4edf-a131-110f14548c3a")
+		(uuid "6d482fa4-7e60-45c4-9204-c86f895d3f33")
 	)
 	(wire
 		(pts
@@ -6950,7 +6936,7 @@
 	)
 	(wire
 		(pts
-			(xy 539.75 109.22) (xy 539.75 111.76)
+			(xy 539.75 109.22) (xy 539.75 115.57)
 		)
 		(stroke
 			(width 0)
@@ -6967,16 +6953,6 @@
 			(type default)
 		)
 		(uuid "6ee5f052-8cea-4e2b-9a71-37ac34502b83")
-	)
-	(wire
-		(pts
-			(xy 454.66 139.7) (xy 454.66 135.89)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f5f4939-2534-4429-80f4-39482608e10b")
 	)
 	(wire
 		(pts
@@ -7037,6 +7013,16 @@
 			(type default)
 		)
 		(uuid "70ba2e41-a5dd-40f5-9c9e-da0357ecbfd3")
+	)
+	(wire
+		(pts
+			(xy 80.01 78.74) (xy 72.39 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71068110-a1e8-4280-8b80-c563b1199a67")
 	)
 	(wire
 		(pts
@@ -7190,26 +7176,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 138.43) (xy 25.4 134.62)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76ea3195-4944-4300-ae3b-2a2f0a369f5e")
-	)
-	(wire
-		(pts
-			(xy 26.67 165.1) (xy 26.67 170.18)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "76f9bd42-f984-4a20-8d2a-da80cd539edf")
-	)
-	(wire
-		(pts
 			(xy 382.27 322.58) (xy 403.86 322.58)
 		)
 		(stroke
@@ -7260,16 +7226,6 @@
 	)
 	(wire
 		(pts
-			(xy 132.08 322.58) (xy 132.08 325.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7965a3f3-cc21-48b5-ad5e-b0241236f5ac")
-	)
-	(wire
-		(pts
 			(xy 464.82 59.69) (xy 464.82 58.42)
 		)
 		(stroke
@@ -7277,16 +7233,6 @@
 			(type default)
 		)
 		(uuid "7a1cefa6-5237-459b-99f6-87c90e21c7ba")
-	)
-	(wire
-		(pts
-			(xy 129.54 322.58) (xy 132.08 322.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7b49ed28-46f7-47d6-b25f-5af8c38f235a")
 	)
 	(wire
 		(pts
@@ -7310,6 +7256,16 @@
 	)
 	(wire
 		(pts
+			(xy 452.12 68.58) (xy 457.2 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7bd62f27-97f3-4fab-8d60-352e3e27c955")
+	)
+	(wire
+		(pts
 			(xy 363.22 358.14) (xy 363.22 361.95)
 		)
 		(stroke
@@ -7317,6 +7273,16 @@
 			(type default)
 		)
 		(uuid "7bd8b6c8-ba58-4963-84f3-1bf506d78ca0")
+	)
+	(wire
+		(pts
+			(xy 469.9 38.1) (xy 469.9 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c8c7f65-0f32-4127-b902-926ad7148361")
 	)
 	(wire
 		(pts
@@ -7377,6 +7343,16 @@
 			(type default)
 		)
 		(uuid "7e0d04df-1d7f-46bd-a820-c4a0a327beba")
+	)
+	(wire
+		(pts
+			(xy 60.96 143.51) (xy 80.01 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e56c603-949c-4c53-ac86-589d322ac9a2")
 	)
 	(wire
 		(pts
@@ -7540,6 +7516,16 @@
 	)
 	(wire
 		(pts
+			(xy 452.12 35.56) (xy 455.93 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "87c1bc9d-3852-4e45-a294-51a462d69b3c")
+	)
+	(wire
+		(pts
 			(xy 29.21 393.7) (xy 38.1 393.7)
 		)
 		(stroke
@@ -7567,6 +7553,16 @@
 			(type default)
 		)
 		(uuid "89267a8a-1e4a-4b4e-88fc-daabc08d7d80")
+	)
+	(wire
+		(pts
+			(xy 469.9 35.56) (xy 476.25 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "898709b7-d95d-47e2-b6bd-762cac01026c")
 	)
 	(wire
 		(pts
@@ -7620,33 +7616,23 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 165.1) (xy 71.12 170.18)
+			(xy 420.37 99.06) (xy 422.91 99.06)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "8c55b14b-84a1-4a7d-8806-5f54927eaa21")
+		(uuid "8d2c031d-114d-46db-a378-1d4a585af4ed")
 	)
 	(wire
 		(pts
-			(xy 457.2 74.93) (xy 457.2 71.12)
+			(xy 457.2 68.58) (xy 457.2 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8d9ab59f-5433-40d7-af43-3b3efbd55acb")
-	)
-	(wire
-		(pts
-			(xy 27.94 140.97) (xy 26.67 140.97)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e85408d-dd69-4354-b321-57f8351c4294")
 	)
 	(wire
 		(pts
@@ -7667,6 +7653,16 @@
 			(type default)
 		)
 		(uuid "8f5f1762-8571-453e-93ba-ad5fdd89bf2e")
+	)
+	(wire
+		(pts
+			(xy 53.34 194.31) (xy 72.39 194.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8fd5cca4-2183-46b3-b990-58fcb6ccd98b")
 	)
 	(wire
 		(pts
@@ -7710,16 +7706,6 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 191.77) (xy 63.5 191.77)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9097986c-514f-435a-a690-fb5ce962918e")
-	)
-	(wire
-		(pts
 			(xy 264.16 127) (xy 264.16 128.27)
 		)
 		(stroke
@@ -7737,16 +7723,6 @@
 			(type default)
 		)
 		(uuid "91e744ae-c859-420f-ba0e-03c62ddfa42a")
-	)
-	(wire
-		(pts
-			(xy 15.24 90.17) (xy 26.67 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94f7f870-9bf7-4da3-b34c-c0a791a643c9")
 	)
 	(wire
 		(pts
@@ -7820,13 +7796,13 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 189.23) (xy 62.23 189.23)
+			(xy 534.67 31.75) (xy 539.75 31.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "9a4aa2f4-987d-440c-8e8c-8a114bbd9550")
+		(uuid "9a281d88-ae60-4535-be80-49fdf9afb945")
 	)
 	(wire
 		(pts
@@ -7840,7 +7816,7 @@
 	)
 	(wire
 		(pts
-			(xy 539.75 31.75) (xy 539.75 34.29)
+			(xy 539.75 31.75) (xy 539.75 38.1)
 		)
 		(stroke
 			(width 0)
@@ -7880,13 +7856,23 @@
 	)
 	(wire
 		(pts
-			(xy 514.35 109.22) (xy 514.35 111.76)
+			(xy 523.24 109.22) (xy 523.24 111.76)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "9c0eb99d-1eba-49e9-a2e1-03be0b7e6a9d")
+	)
+	(wire
+		(pts
+			(xy 452.12 38.1) (xy 452.12 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c67de8b-cc2a-44ae-a189-c1e200e24d5c")
 	)
 	(wire
 		(pts
@@ -7940,6 +7926,16 @@
 	)
 	(wire
 		(pts
+			(xy 532.13 31.75) (xy 534.67 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1298d71-2ae1-4580-8555-0e4e39839b3e")
+	)
+	(wire
+		(pts
 			(xy 87.63 375.92) (xy 87.63 387.35)
 		)
 		(stroke
@@ -7950,13 +7946,13 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 322.58) (xy 201.93 321.31)
+			(xy 68.58 190.5) (xy 63.5 190.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "a248a241-c263-4d2f-901a-01a1b90f3d7b")
+		(uuid "a2cd469e-fb96-4624-8228-b5bacf18333a")
 	)
 	(wire
 		(pts
@@ -8010,7 +8006,7 @@
 	)
 	(wire
 		(pts
-			(xy 447.04 35.56) (xy 450.85 35.56)
+			(xy 447.04 35.56) (xy 452.12 35.56)
 		)
 		(stroke
 			(width 0)
@@ -8030,7 +8026,7 @@
 	)
 	(wire
 		(pts
-			(xy 71.12 34.29) (xy 71.12 49.53)
+			(xy 71.12 44.45) (xy 71.12 49.53)
 		)
 		(stroke
 			(width 0)
@@ -8050,16 +8046,6 @@
 	)
 	(wire
 		(pts
-			(xy 22.86 321.31) (xy 25.4 321.31)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a5b7c69a-f237-4d6f-821a-fdd7779b3ab1")
-	)
-	(wire
-		(pts
 			(xy 461.01 82.55) (xy 462.28 82.55)
 		)
 		(stroke
@@ -8070,7 +8056,7 @@
 	)
 	(wire
 		(pts
-			(xy 476.25 35.56) (xy 476.25 38.1)
+			(xy 476.25 35.56) (xy 476.25 41.91)
 		)
 		(stroke
 			(width 0)
@@ -8127,6 +8113,16 @@
 			(type default)
 		)
 		(uuid "a96fea6f-8276-40bb-a970-cf01101c2bfe")
+	)
+	(wire
+		(pts
+			(xy 466.09 35.56) (xy 469.9 35.56)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a988cea6-b823-48ad-bcf9-18c13fdc202b")
 	)
 	(wire
 		(pts
@@ -8210,7 +8206,7 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 133.35) (xy 429.26 133.35)
+			(xy 434.34 133.35) (xy 438.15 133.35)
 		)
 		(stroke
 			(width 0)
@@ -8280,6 +8276,16 @@
 	)
 	(wire
 		(pts
+			(xy 420.37 104.14) (xy 422.91 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b032c6a3-bcd4-49a6-9a0d-c5a69d31fd55")
+	)
+	(wire
+		(pts
 			(xy 212.09 85.09) (xy 212.09 82.55)
 		)
 		(stroke
@@ -8287,6 +8293,16 @@
 			(type default)
 		)
 		(uuid "b03b1eaa-5a52-492a-9754-9f92a285b341")
+	)
+	(wire
+		(pts
+			(xy 532.13 34.29) (xy 534.67 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b080f8f2-46b8-47a4-ade5-22a3db4dc22e")
 	)
 	(wire
 		(pts
@@ -8360,13 +8376,13 @@
 	)
 	(wire
 		(pts
-			(xy 539.75 38.1) (xy 539.75 34.29)
+			(xy 455.93 38.1) (xy 452.12 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b51a37a9-32ae-4c22-a608-763b35531d91")
+		(uuid "b4790152-2e15-4cde-8331-21eb43f132b1")
 	)
 	(wire
 		(pts
@@ -8470,6 +8486,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 165.1) (xy 90.17 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b90761e0-ed25-4bbb-b5b9-d1383850929c")
+	)
+	(wire
+		(pts
 			(xy 210.82 85.09) (xy 212.09 85.09)
 		)
 		(stroke
@@ -8500,13 +8526,13 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 140.97) (xy 26.67 144.78)
+			(xy 534.67 34.29) (xy 534.67 31.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "ba032cd2-25cb-4ef3-a551-ffcc7994a44c")
+		(uuid "ba4a79d8-1c7f-4075-8ac5-f7ba3da15dea")
 	)
 	(wire
 		(pts
@@ -8560,26 +8586,6 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 85.09) (xy 24.13 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be49fac1-d3a8-43f1-bac9-46d4fa1c17f3")
-	)
-	(wire
-		(pts
-			(xy 431.8 104.14) (xy 434.34 104.14)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "be63b5a9-67f8-4f16-af0c-64ee7dc0ac5d")
-	)
-	(wire
-		(pts
 			(xy 199.39 336.55) (xy 199.39 322.58)
 		)
 		(stroke
@@ -8597,6 +8603,16 @@
 			(type default)
 		)
 		(uuid "be94e585-884d-4aa2-9e4a-c7087403a735")
+	)
+	(wire
+		(pts
+			(xy 533.4 111.76) (xy 533.4 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf63c8e4-799b-4b0e-be8b-054681da4afd")
 	)
 	(wire
 		(pts
@@ -8640,7 +8656,7 @@
 	)
 	(wire
 		(pts
-			(xy 454.66 133.35) (xy 454.66 135.89)
+			(xy 454.66 133.35) (xy 454.66 139.7)
 		)
 		(stroke
 			(width 0)
@@ -8657,6 +8673,16 @@
 			(type default)
 		)
 		(uuid "c102c4d5-e458-4bda-98a5-bb7697344651")
+	)
+	(wire
+		(pts
+			(xy 80.01 132.08) (xy 72.39 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1569aad-14c5-4009-9abd-5469864ce90b")
 	)
 	(wire
 		(pts
@@ -8720,16 +8746,6 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 138.43) (xy 69.85 138.43)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c5f847aa-3b3c-452c-a603-d06ebc6d2e87")
-	)
-	(wire
-		(pts
 			(xy 304.8 321.31) (xy 314.96 321.31)
 		)
 		(stroke
@@ -8790,7 +8806,7 @@
 	)
 	(wire
 		(pts
-			(xy 429.26 133.35) (xy 429.26 135.89)
+			(xy 438.15 133.35) (xy 438.15 135.89)
 		)
 		(stroke
 			(width 0)
@@ -8870,6 +8886,16 @@
 	)
 	(wire
 		(pts
+			(xy 41.91 165.1) (xy 45.72 165.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce970b74-7d26-4cfa-ac81-f88c4ad33b6c")
+	)
+	(wire
+		(pts
 			(xy 311.15 251.46) (xy 314.96 251.46)
 		)
 		(stroke
@@ -8920,16 +8946,6 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 165.1) (xy 71.12 165.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d3492950-d352-4bf0-8ab6-772e2577834e")
-	)
-	(wire
-		(pts
 			(xy 204.47 280.67) (xy 204.47 281.94)
 		)
 		(stroke
@@ -8947,6 +8963,16 @@
 			(type default)
 		)
 		(uuid "d58d5a08-e250-4c01-8a1b-f12390fbeaff")
+	)
+	(wire
+		(pts
+			(xy 85.09 111.76) (xy 87.63 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d5a0169f-9848-4e19-af14-5d547cbf4131")
 	)
 	(wire
 		(pts
@@ -9030,16 +9056,6 @@
 	)
 	(wire
 		(pts
-			(xy 534.67 76.2) (xy 534.67 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "da456336-5f7c-4fd4-b59e-dc762c90d912")
-	)
-	(wire
-		(pts
 			(xy 557.53 90.17) (xy 557.53 83.82)
 		)
 		(stroke
@@ -9060,6 +9076,16 @@
 	)
 	(wire
 		(pts
+			(xy 147.32 322.58) (xy 147.32 325.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbbda9a2-b9e1-429b-afa8-d95f905f9d84")
+	)
+	(wire
+		(pts
 			(xy 255.27 101.6) (xy 264.16 101.6)
 		)
 		(stroke
@@ -9067,16 +9093,6 @@
 			(type default)
 		)
 		(uuid "dc3f2309-1430-46f5-83d2-72ff0e75dc88")
-	)
-	(wire
-		(pts
-			(xy 133.35 281.94) (xy 135.89 281.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dc70b9da-4043-4895-bf44-31564d62b0f6")
 	)
 	(wire
 		(pts
@@ -9090,6 +9106,16 @@
 	)
 	(wire
 		(pts
+			(xy 151.13 281.94) (xy 151.13 284.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd220b9d-bcf7-4931-b7f8-94ae2ab43642")
+	)
+	(wire
+		(pts
 			(xy 382.27 330.2) (xy 403.86 330.2)
 		)
 		(stroke
@@ -9097,6 +9123,16 @@
 			(type default)
 		)
 		(uuid "dd69f0c7-2eba-4af1-b709-7bd893b97871")
+	)
+	(wire
+		(pts
+			(xy 448.31 133.35) (xy 454.66 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dda447d8-0631-42d8-acbd-40e8cc098a3f")
 	)
 	(wire
 		(pts
@@ -9130,13 +9166,23 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 87.63) (xy 71.12 87.63)
+			(xy 144.78 322.58) (xy 147.32 322.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e030464d-e97e-4e60-ac41-b5bf37df753c")
+		(uuid "dec80209-eeec-49b9-9150-3c9415b346ca")
+	)
+	(wire
+		(pts
+			(xy 533.4 109.22) (xy 539.75 109.22)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "decbe884-ff29-4e99-87d4-9c3d42e265ea")
 	)
 	(wire
 		(pts
@@ -9167,6 +9213,16 @@
 			(type default)
 		)
 		(uuid "e1b94e78-dfb5-4987-baf3-d0eabc867994")
+	)
+	(wire
+		(pts
+			(xy 521.97 33.02) (xy 518.16 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2806d14-889a-4207-9cfb-bd5d8c5a70ea")
 	)
 	(wire
 		(pts
@@ -9230,6 +9286,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 90.17) (xy 60.96 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5254b80-fdb9-4f0e-b023-a4286d38a32f")
+	)
+	(wire
+		(pts
 			(xy 246.38 35.56) (xy 256.54 35.56)
 		)
 		(stroke
@@ -9240,27 +9306,27 @@
 	)
 	(wire
 		(pts
-			(xy 27.94 138.43) (xy 25.4 138.43)
+			(xy 53.34 194.31) (xy 53.34 195.58)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e61a1197-b080-42dc-bb8e-9e5760f63c1c")
+		(uuid "e72b8d36-1084-4f52-afc9-8d6c84e1dc4e")
 	)
 	(wire
 		(pts
-			(xy 71.12 87.63) (xy 71.12 91.44)
+			(xy 521.97 31.75) (xy 518.16 31.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e690b505-dabc-4a89-ab8d-395fbd805d96")
+		(uuid "e75e1cf1-6fa6-45f2-ac07-24d0334911b7")
 	)
 	(wire
 		(pts
-			(xy 510.54 109.22) (xy 514.35 109.22)
+			(xy 519.43 109.22) (xy 523.24 109.22)
 		)
 		(stroke
 			(width 0)
@@ -9270,13 +9336,13 @@
 	)
 	(wire
 		(pts
-			(xy 457.2 68.58) (xy 457.2 71.12)
+			(xy 518.16 33.02) (xy 518.16 31.75)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "e8d2dad5-287f-46ee-9979-bc59185e261b")
+		(uuid "e8b43971-8aee-45d2-a28a-abbfc7183f06")
 	)
 	(wire
 		(pts
@@ -9327,16 +9393,6 @@
 			(type default)
 		)
 		(uuid "eb7364da-a9b3-4281-831c-ee20dea5e5da")
-	)
-	(wire
-		(pts
-			(xy 60.96 90.17) (xy 72.39 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ebeaedf7-6beb-4702-a0ca-fad084b38434")
 	)
 	(wire
 		(pts
@@ -9430,6 +9486,16 @@
 	)
 	(wire
 		(pts
+			(xy 72.39 182.88) (xy 64.77 182.88)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef2450da-8be0-4398-901f-8870b1637704")
+	)
+	(wire
+		(pts
 			(xy 547.37 306.07) (xy 548.64 306.07)
 		)
 		(stroke
@@ -9447,16 +9513,6 @@
 			(type default)
 		)
 		(uuid "efc475ad-7230-448e-aa0a-f5175da33bd9")
-	)
-	(wire
-		(pts
-			(xy 201.93 281.94) (xy 201.93 280.67)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "efdf3fc0-e396-4faf-8b45-8bf16a332d41")
 	)
 	(wire
 		(pts
@@ -9510,7 +9566,7 @@
 	)
 	(wire
 		(pts
-			(xy 26.67 87.63) (xy 25.4 87.63)
+			(xy 30.48 86.36) (xy 25.4 86.36)
 		)
 		(stroke
 			(width 0)
@@ -9520,7 +9576,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 90.17) (xy 60.96 91.44)
+			(xy 60.96 88.9) (xy 60.96 90.17)
 		)
 		(stroke
 			(width 0)
@@ -9530,23 +9586,23 @@
 	)
 	(wire
 		(pts
-			(xy 539.75 115.57) (xy 539.75 111.76)
+			(xy 76.2 139.7) (xy 71.12 139.7)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f5773900-e442-486a-ad56-6620975a59ab")
+		(uuid "f4bf744e-f553-4ba3-87cc-a78931e5a80b")
 	)
 	(wire
 		(pts
-			(xy 71.12 140.97) (xy 71.12 144.78)
+			(xy 80.01 135.89) (xy 80.01 132.08)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f5a60355-d407-40c8-88fb-391c331b0820")
+		(uuid "f532c64a-df35-4794-86f1-a4d4960e2f45")
 	)
 	(wire
 		(pts
@@ -9570,13 +9626,23 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 143.51) (xy 72.39 143.51)
+			(xy 466.09 38.1) (xy 469.9 38.1)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "f94d54a9-27a5-4c77-b028-97f833594127")
+		(uuid "f6d6393a-dd4e-481c-af87-f236ee073ea0")
+	)
+	(wire
+		(pts
+			(xy 36.83 132.08) (xy 29.21 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f6fb32a0-e2be-4a07-8391-b305b1b557a6")
 	)
 	(wire
 		(pts
@@ -9600,13 +9666,13 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 85.09) (xy 69.85 85.09)
+			(xy 40.64 281.94) (xy 40.64 284.48)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "fab2748f-f7f7-4795-b4c9-d72ed38add44")
+		(uuid "fad17760-8478-41ff-86f3-f5973ee63515")
 	)
 	(wire
 		(pts
@@ -9617,6 +9683,16 @@
 			(type default)
 		)
 		(uuid "fb124a0e-c8c9-4a7d-8771-af43aadca81c")
+	)
+	(wire
+		(pts
+			(xy 26.67 139.7) (xy 26.67 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fb246078-f033-473f-89e8-b0dcac550c3a")
 	)
 	(wire
 		(pts
@@ -9640,6 +9716,16 @@
 	)
 	(wire
 		(pts
+			(xy 529.59 76.2) (xy 529.59 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fbcbfe59-207e-4d76-888d-73a6c536e3bc")
+	)
+	(wire
+		(pts
 			(xy 16.51 162.56) (xy 26.67 162.56)
 		)
 		(stroke
@@ -9660,23 +9746,13 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 87.63) (xy 25.4 91.44)
+			(xy 25.4 86.36) (xy 25.4 91.44)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "fe100fba-e16b-45ca-a9e2-2890c30b5281")
-	)
-	(wire
-		(pts
-			(xy 25.4 281.94) (xy 25.4 284.48)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fe4e1bac-55e9-4eb3-9b46-b6e1fa067145")
 	)
 	(wire
 		(pts
@@ -9978,6 +10054,28 @@
 			)
 		)
 	)
+	(global_label "12V"
+		(shape output)
+		(at 29.21 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "025d3007-ab58-4f76-ae1f-c20c08d585cc")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 22.7172 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "GPIO2"
 		(shape input)
 		(at 567.69 123.19 0)
@@ -10112,6 +10210,28 @@
 	)
 	(global_label "12V"
 		(shape output)
+		(at 148.59 281.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "0ff9184e-d7f7-4cdf-a3e5-a95f0af5fc60")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 142.0972 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V"
+		(shape output)
 		(at 151.13 99.06 90)
 		(fields_autoplaced yes)
 		(effects
@@ -10200,29 +10320,7 @@
 	)
 	(global_label "FRWSS_in"
 		(shape output)
-		(at 95.25 281.94 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "13bdbee8-dfb4-430a-b7d7-56a2e1fd2f3d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.25 293.8756 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "12V"
-		(shape output)
-		(at 69.85 81.28 90)
+		(at 95.25 271.78 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10230,9 +10328,9 @@
 			)
 			(justify left)
 		)
-		(uuid "15251825-d67b-46e8-87bc-a1cbd2e4fe73")
+		(uuid "13bdbee8-dfb4-430a-b7d7-56a2e1fd2f3d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.85 74.7872 90)
+			(at 95.25 259.8444 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10310,7 +10408,7 @@
 	)
 	(global_label "12V"
 		(shape output)
-		(at 427.99 68.58 180)
+		(at 438.15 68.58 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10320,7 +10418,7 @@
 		)
 		(uuid "1db4efd3-1293-4636-aac5-5d7c0b9821e6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 421.4972 68.58 0)
+			(at 431.6572 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10387,28 +10485,6 @@
 		(uuid "228e285f-ced5-4730-9045-14d1e21f4b53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 295.5253 308.61 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "APPS2"
-		(shape input)
-		(at 71.12 116.84 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "23eed23e-79fd-4c8b-8349-a777611aeda4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.12 125.8728 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10506,6 +10582,28 @@
 			)
 		)
 	)
+	(global_label "12V"
+		(shape output)
+		(at 144.78 322.58 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "295a0b3f-b013-49e0-9921-228a5bda059e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 138.2872 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "APPS1_EXT"
 		(shape output)
 		(at 529.59 269.24 180)
@@ -10568,6 +10666,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "RBPS"
+		(shape input)
+		(at 90.17 165.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "2d1e3250-f5b2-4b62-94a8-c04ee62cfdea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 98.1747 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10660,28 +10780,6 @@
 			)
 		)
 	)
-	(global_label "12V"
-		(shape output)
-		(at 62.23 185.42 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "337d2c3a-84ba-47cb-9190-8ca89a045123")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.23 178.9272 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "GPIO3"
 		(shape output)
 		(at 548.64 311.15 0)
@@ -10739,28 +10837,6 @@
 		(uuid "37b597e8-4b56-4fbb-8b08-9e1beca80de2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 520.5572 245.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "12V"
-		(shape output)
-		(at 129.54 322.58 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "3b26f691-3377-4bcc-baba-ddb395aa963b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 123.0472 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10876,28 +10952,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ADC5"
-		(shape input)
-		(at 63.5 220.98 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "467c4355-46bb-4ff7-95a7-21b14af2ee9d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 63.5 228.8033 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -11135,28 +11189,6 @@
 		(uuid "4e8a12fb-2136-4ec4-988c-1fe83234fa60")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 350.52 379.0866 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "12V"
-		(shape output)
-		(at 22.86 321.31 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "4ee3ced3-523b-48f5-8751-1dd0241ea1e9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.3672 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11630,22 +11662,44 @@
 	)
 	(global_label "RLWSS_in"
 		(shape output)
-		(at 201.93 322.58 270)
+		(at 201.93 311.15 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "727e4ea5-22e2-40d6-ad3d-955d23501646")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 334.4551 90)
+			(at 201.93 299.2749 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "APPS1"
+		(shape input)
+		(at 41.91 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "72839239-8017-473e-abd1-3694e6912f95")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 50.9428 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -11762,7 +11816,7 @@
 	)
 	(global_label "12V"
 		(shape output)
-		(at 425.45 133.35 180)
+		(at 434.34 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11772,7 +11826,29 @@
 		)
 		(uuid "77fdcc45-85af-4b08-9416-b9f79bbd2d20")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 418.9572 133.35 0)
+			(at 427.8472 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V"
+		(shape output)
+		(at 38.1 321.31 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "7ad522df-5ecd-4da1-aca6-d154ef8fe4ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.6072 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11872,22 +11948,22 @@
 	)
 	(global_label "12V"
 		(shape output)
-		(at 434.34 104.14 0)
+		(at 420.37 104.14 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "810081fa-518a-4be3-8148-f4f31cd689f6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 440.8328 104.14 0)
+			(at 413.8772 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -11914,46 +11990,24 @@
 			)
 		)
 	)
-	(global_label "RBPS"
-		(shape input)
-		(at 71.12 170.18 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "8127d8f2-5746-4c65-830e-36d8f04dc726")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.12 178.1847 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "RRWSS_in"
 		(shape output)
-		(at 95.25 321.31 270)
+		(at 95.25 309.88 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "84b1dc65-357d-4ab4-a558-2487588b1bad")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 95.25 333.427 90)
+			(at 95.25 297.763 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12092,7 +12146,7 @@
 	)
 	(global_label "12V"
 		(shape output)
-		(at 510.54 109.22 180)
+		(at 519.43 109.22 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12102,7 +12156,7 @@
 		)
 		(uuid "8d3005ec-16e4-47f1-a36c-b2d0cb02c255")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 504.0472 109.22 0)
+			(at 512.9372 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12136,7 +12190,7 @@
 	)
 	(global_label "12V"
 		(shape output)
-		(at 510.54 31.75 180)
+		(at 518.16 31.75 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -12146,7 +12200,7 @@
 		)
 		(uuid "8dce6f5c-8f77-4e62-aee2-1645a8f4b6de")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 504.0472 31.75 0)
+			(at 511.6672 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12356,22 +12410,22 @@
 	)
 	(global_label "FLWSS_in"
 		(shape output)
-		(at 201.93 281.94 270)
+		(at 201.93 270.51 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "a3b64061-7e72-49b1-a48b-1caa41480593")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 201.93 293.6337 90)
+			(at 201.93 258.8163 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -12420,28 +12474,6 @@
 			)
 		)
 	)
-	(global_label "12V"
-		(shape output)
-		(at 25.4 134.62 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a6c406ce-2f43-4274-8d52-7d0e7fbca9cc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.4 128.1272 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "ADC5"
 		(shape output)
 		(at 303.53 313.69 180)
@@ -12455,6 +12487,50 @@
 		(uuid "a9ba03d4-57aa-4936-b4b9-f4bc6e845bed")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 295.7067 313.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V"
+		(shape output)
+		(at 64.77 182.88 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "aa0a6181-c0b3-4aae-b15a-16eb0f44ad30")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 58.2772 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "12V"
+		(shape output)
+		(at 72.39 132.08 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "adeee125-d67b-4831-a903-1bdcc69b24c6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 65.8972 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12574,6 +12650,28 @@
 			)
 		)
 	)
+	(global_label "12V"
+		(shape output)
+		(at 38.1 281.94 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "be846433-969a-40a4-b9fe-f309767a15d3")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 31.6072 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SCK_5V"
 		(shape output)
 		(at 524.51 363.22 180)
@@ -12592,28 +12690,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "12V"
-		(shape output)
-		(at 69.85 134.62 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "c1611cc2-d83b-49ca-93a3-1c303de74f2d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 69.85 128.1272 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 				(hide yes)
 			)
 		)
@@ -12970,6 +13046,28 @@
 			)
 		)
 	)
+	(global_label "12V"
+		(shape output)
+		(at 72.39 78.74 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "d5c85eaa-7040-4dbe-aa2c-466d61272fdd")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 65.8972 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MISO_5V"
 		(shape output)
 		(at 401.32 260.35 0)
@@ -13014,24 +13112,24 @@
 			)
 		)
 	)
-	(global_label "FBPS"
+	(global_label "ADC5"
 		(shape input)
-		(at 26.67 170.18 270)
+		(at 82.55 215.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
-		(uuid "da42582a-bf1e-4b85-bad4-b4b8f086908a")
+		(uuid "d8d51a29-f486-4f40-adb7-94c125c2cc45")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 26.67 178.0033 90)
+			(at 90.3733 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -13104,22 +13202,22 @@
 	)
 	(global_label "12V"
 		(shape output)
-		(at 24.13 81.28 90)
+		(at 26.67 78.74 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "e0e0deb4-c15a-4bc2-a8ae-fd8974c61ec7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 24.13 74.7872 90)
+			(at 20.1772 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -13236,7 +13334,7 @@
 	)
 	(global_label "12V"
 		(shape output)
-		(at 505.46 76.2 180)
+		(at 515.62 76.2 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -13246,29 +13344,7 @@
 		)
 		(uuid "e608d507-076a-4fee-8ec9-f7b99d75fde0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 498.9672 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "12V"
-		(shape output)
-		(at 22.86 281.94 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "e65916ac-2ea9-4097-80d5-22f4fdf96032")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 16.3672 281.94 0)
+			(at 509.1272 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13313,6 +13389,28 @@
 		(uuid "ec0f5fc8-38af-4a35-a0ca-946fc85ff704")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 404.1842 223.52 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "FBPS"
+		(shape input)
+		(at 45.72 165.1 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ecfccb23-de75-440d-af5f-1caeb47bb694")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 53.5433 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13410,28 +13508,6 @@
 			)
 		)
 	)
-	(global_label "APPS1"
-		(shape input)
-		(at 25.4 116.84 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f04c5dfe-7759-4a36-a517-067c66917d00")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 25.4 125.8728 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "BrakeLight_cmd"
 		(shape output)
 		(at 525.78 306.07 180)
@@ -13489,28 +13565,6 @@
 		(uuid "f373e983-38b3-4212-85cf-e8a5a1240430")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 516.6264 208.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "12V"
-		(shape output)
-		(at 133.35 281.94 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f4d6a554-c8d9-4ef8-9c87-49742a1737fc")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 126.8572 281.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13626,6 +13680,28 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "APPS2"
+		(shape input)
+		(at 87.63 111.76 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f6713bb5-c143-4a12-8147-2686bb54e64a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 96.6628 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -14724,6 +14800,169 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 528.32 111.76 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0d157545-6d64-4bce-9c6a-66e579188f00")
+		(property "Reference" "SW11"
+			(at 528.32 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "7914J-1-000E"
+			(at 528.32 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "7914J1000E"
+			(at 528.32 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
+			(at 528.32 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
+			(at 528.32 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 528.32 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "c1937229-11c7-4ddd-93ac-cca63486e0fa")
+		)
+		(pin "2"
+			(uuid "ad8e23e7-6dc9-4784-8302-d3e624aa0d64")
+		)
+		(pin "4"
+			(uuid "c0dafdbb-5046-4e74-84ca-a14147188ca6")
+		)
+		(pin "1"
+			(uuid "fd992fe4-0d60-4e7e-82fb-ab78c16a1831")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 73.66 215.9 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0e18b2f1-2517-4944-8340-dc376a252553")
+		(property "Reference" "SW5"
+			(at 73.66 207.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 73.66 209.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 73.66 205.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 73.66 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 73.66 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 73.66 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "dda69cf9-7ded-45d6-b523-4e7253bc40bf")
+		)
+		(pin "2"
+			(uuid "8767cc11-a95f-4d38-8e5b-33ffaebdee57")
+		)
+		(pin "1"
+			(uuid "8a6c9b6c-31bb-4536-8572-5ec67116474c")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EPSA_lib:Résistance RK73H2BLTDD2152F")
 		(at 63.5 213.36 90)
 		(unit 1)
@@ -15099,135 +15338,6 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "R25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Potentiomètre:PTV09A-4015U-A503")
-		(at 26.67 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "11245ebd-749b-48aa-b446-88b51d60c767")
-		(property "Reference" "VR1"
-			(at 40.64 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PTV09A-4015U-A503"
-			(at 40.64 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PTV09A4015UA503"
-			(at 50.8 180.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
-			(at 50.8 280.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
-			(at 26.67 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "15.5"
-			(at 50.8 480.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-PTV09A4015UA503"
-			(at 50.8 580.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4015U-A503?qs=fgHA1UgJI8C5H6fRowZ2UQ%3D%3D"
-			(at 50.8 680.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 50.8 780.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
-			(at 50.8 880.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e4a83146-7f8a-49c3-8565-5fdf1d733b1e")
-		)
-		(pin "MH2"
-			(uuid "8b3cf1f9-e39e-4cdb-84d3-3ed5995c9746")
-		)
-		(pin "2"
-			(uuid "9926a237-9a05-4156-be76-86d56ae8b5ed")
-		)
-		(pin "3"
-			(uuid "c90729a8-0c95-4819-ad66-ad68b54fbfbe")
-		)
-		(pin "MH1"
-			(uuid "fc1652dd-58c1-4692-95ff-1cb6e4d9eec4")
-		)
-		(instances
-			(project ""
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "VR1")
 					(unit 1)
 				)
 			)
@@ -16016,6 +16126,171 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 156.21 284.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18401f15-1ae3-47b8-9da4-31379e9ded55")
+		(property "Reference" "SW14"
+			(at 156.21 274.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "7914J-1-000E"
+			(at 156.21 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "7914J1000E"
+			(at 156.21 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
+			(at 156.21 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
+			(at 156.21 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 156.21 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "a341d603-28b5-42e3-9045-6091e69f96cc")
+		)
+		(pin "2"
+			(uuid "e01802b7-0d90-4b37-8a64-ffe347999765")
+		)
+		(pin "4"
+			(uuid "a23bb480-c907-4f0f-8230-ee99a065745f")
+		)
+		(pin "1"
+			(uuid "c95868ae-87ea-46ef-9e60-c834027c01b3")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 95.25 276.86 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "18546b0b-23a5-4e35-9579-ff6003c5b2ed")
+		(property "Reference" "SW17"
+			(at 100.33 275.5899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 100.33 278.1299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 85.09 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 87.63 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 95.25 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 95.25 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "68c70adb-8cce-4750-b641-f46ec4ca0d37")
+		)
+		(pin "2"
+			(uuid "3c4f798f-ad94-4936-9841-e74f71a2f566")
+		)
+		(pin "1"
+			(uuid "047c4404-0de9-4f0f-936f-0f86a825b08b")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Blue LED:LB_T64G-V2CA-59-Z484")
 		(at 195.58 85.09 0)
 		(unit 1)
@@ -16131,6 +16406,89 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "BLUE3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 524.51 78.74 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "19d61455-b3cd-4b0e-8336-e64d05884b4a")
+		(property "Reference" "SW9"
+			(at 524.51 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "7914J-1-000E"
+			(at 524.51 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "7914J1000E"
+			(at 524.51 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
+			(at 524.51 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
+			(at 524.51 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 524.51 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "072bf865-b8d2-4890-91b4-27e8ce2e0c1f")
+		)
+		(pin "2"
+			(uuid "c9462f01-59fb-4066-af1d-9dde3bf9a43f")
+		)
+		(pin "4"
+			(uuid "08b17699-3291-46e9-ad54-86a042639b7f")
+		)
+		(pin "1"
+			(uuid "344d7033-49d1-4589-93b8-306a3dda19ef")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW9")
 					(unit 1)
 				)
 			)
@@ -16321,130 +16679,6 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "R46")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 76.2 162.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "1a9d15da-3dde-4bbd-aee5-850a9b2ff1e3")
-		(property "Reference" "S4"
-			(at 84.836 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 77.724 173.736 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 92.71 257.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 92.71 357.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 76.2 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "28"
-			(at 92.71 557.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 92.71 657.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 92.71 757.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 92.71 857.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 92.71 957.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "cff49ad2-87f9-41e3-af99-27f8d3e089a7")
-		)
-		(pin "1"
-			(uuid "55a0607f-3b15-4ae5-99a1-17d46921545f")
-		)
-		(pin "3"
-			(uuid "361e00b5-916e-476b-9044-78a6a40ed138")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S4")
 					(unit 1)
 				)
 			)
@@ -16830,130 +17064,6 @@
 		)
 	)
 	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 199.39 321.31 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "242ddfaf-54ff-4d05-a631-04613deeabb1")
-		(property "Reference" "S20"
-			(at 208.28 312.674 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 210.566 319.786 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 294.31 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 394.31 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 199.39 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "28"
-			(at 594.31 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 694.31 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 794.31 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 894.31 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 994.31 304.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "5f5ae8a1-f670-4d9b-bde8-5f47d7bce198")
-		)
-		(pin "1"
-			(uuid "8bc3d3ee-ca83-46e9-8caa-6ec85d98d168")
-		)
-		(pin "3"
-			(uuid "fba6d091-0fe4-469d-a5a0-ee39cc37fd3c")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S20")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connecteur microsd:DM3AT-SF-PEJM5_40_")
 		(at 227.33 401.32 180)
 		(unit 1)
@@ -17110,6 +17220,95 @@
 		)
 	)
 	(symbol
+		(lib_name "R_Potentiometer_1")
+		(lib_id "Device:R_Potentiometer")
+		(at 80.01 139.7 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "24c360f6-d07a-4a2e-aaf7-df00e44b3f8b")
+		(property "Reference" "RV4"
+			(at 81.026 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R_Potentiometer"
+			(at 81.026 144.272 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PTV09A4015UA503"
+			(at 79.756 134.112 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
+			(at 75.692 129.032 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
+			(at 77.47 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
+			(at 80.01 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "4ecda179-e315-4f69-8a97-4ae17829b661")
+		)
+		(pin "1"
+			(uuid "ed4a7df7-0ba3-4407-b5d3-fdf9ad853b41")
+		)
+		(pin "2"
+			(uuid "e96d0caa-7e6d-41c3-8499-60448dc166fd")
+		)
+		(pin "MH1"
+			(uuid "d65d9da1-1adc-4994-86c2-845a9cfe43e9")
+		)
+		(pin "MH2"
+			(uuid "dd9123da-f3b6-4dea-a76d-b4b86866b87f")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "RV4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "VFJD1105W-5C63A-TR:VFJD1105W-5C63A-TR")
 		(at 69.85 321.31 0)
 		(mirror y)
@@ -17224,6 +17423,86 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "GREEN10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 34.29 111.76 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "26966787-832e-426a-8e7a-cd5fafd045aa")
+		(property "Reference" "SW1"
+			(at 34.29 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 34.29 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 34.29 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 34.29 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 34.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 34.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "3f2fd36b-7eb4-45f7-8f9d-9fc7d14b0518")
+		)
+		(pin "2"
+			(uuid "a8a4aee1-3fd5-474e-9adb-b5be37d12de2")
+		)
+		(pin "1"
+			(uuid "381156b7-cb9f-478f-8bb4-b63fbb4284e1")
+		)
+		(instances
+			(project ""
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW1")
 					(unit 1)
 				)
 			)
@@ -18497,6 +18776,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 80.01 111.76 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2dd6500c-da14-456f-9084-eb5f98d38ade")
+		(property "Reference" "SW2"
+			(at 80.01 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 80.01 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 80.01 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 80.01 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "4b7a3c4e-2530-4453-972c-922890dc58ec")
+		)
+		(pin "2"
+			(uuid "88f73b0b-8d63-4e6e-bcbe-298c330af0d8")
+		)
+		(pin "1"
+			(uuid "ab0ce76e-5438-4607-acab-85af9977554a")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EPSA_lib:Résistance RK73H2BLTDD2152F")
 		(at 138.43 38.1 270)
 		(unit 1)
@@ -19644,132 +20003,6 @@
 		)
 	)
 	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 509.27 76.2 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3718cae5-a1a5-41ff-bf1e-6ab513eb73ae")
-		(property "Reference" "S9"
-			(at 521.97 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7914J-1-000E"
-			(at 521.97 71.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "7914J1000E"
-			(at 530.86 171.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 530.86 271.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 509.27 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 530.86 471.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 530.86 571.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 530.86 671.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 530.86 771.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 530.86 871.12 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "6dd992f7-52db-4ebe-b611-f125ea04cb42")
-		)
-		(pin "2"
-			(uuid "a1812f29-4aa6-43ad-a80e-cde6aa889d45")
-		)
-		(pin "3"
-			(uuid "beef7c1d-3c2e-49d3-9a87-ce99eb40b1ee")
-		)
-		(pin "1"
-			(uuid "985f9d52-71d4-4e8a-b073-2671c96fe03c")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 478.79 119.38 90)
 		(unit 1)
@@ -19831,6 +20064,89 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "#PWR016")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 447.04 71.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3a87ae6b-4ab3-4812-aff9-e3a8ed9c550d")
+		(property "Reference" "SW8"
+			(at 447.04 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "7914J-1-000E"
+			(at 447.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "7914J1000E"
+			(at 447.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
+			(at 447.04 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
+			(at 447.04 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 447.04 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "7794ae92-3a46-44a8-82b6-a11ed5191822")
+		)
+		(pin "2"
+			(uuid "7b1b2b27-1457-43ff-a32e-f781fe9a950e")
+		)
+		(pin "4"
+			(uuid "951c0778-67b3-4c51-b402-4cabf6f7b5ff")
+		)
+		(pin "1"
+			(uuid "b3fbdcc2-4c9f-4e62-9ea4-0fe23f709864")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW8")
 					(unit 1)
 				)
 			)
@@ -20743,6 +21059,89 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "#PWR02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 461.01 38.1 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "44de0b39-fdb8-4541-80e6-343e84e2f4d0")
+		(property "Reference" "SW6"
+			(at 461.01 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "7914J-1-000E"
+			(at 461.01 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "7914J1000E"
+			(at 461.01 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
+			(at 461.01 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
+			(at 461.01 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 461.01 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "485bcbad-6a0d-49a8-b784-7524fef0bbd6")
+		)
+		(pin "2"
+			(uuid "a0342107-3bf0-41c1-837a-3d8ea395d461")
+		)
+		(pin "4"
+			(uuid "4cb1d9c3-9059-46e1-acd7-173be181981f")
+		)
+		(pin "1"
+			(uuid "d25f39c4-8428-43f6-b4de-d77ce9232cfd")
+		)
+		(instances
+			(project ""
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW6")
 					(unit 1)
 				)
 			)
@@ -21823,6 +22222,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 36.83 165.1 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5737f91e-012d-46ff-97f8-f255f976fa7b")
+		(property "Reference" "SW3"
+			(at 36.83 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 36.83 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 36.83 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 36.83 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 36.83 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 36.83 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "b2bcfac2-0322-4cbf-8227-ef8652e622ee")
+		)
+		(pin "2"
+			(uuid "de47a2f6-976e-46ab-8190-0b343209965d")
+		)
+		(pin "1"
+			(uuid "3ea4a4f0-981e-46d1-a466-4cf95f676aac")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 311.15 248.92 270)
 		(unit 1)
@@ -22388,6 +22867,86 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "R39")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 427.99 101.6 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5d2d6958-b522-4b00-8e82-c89fd9d036ed")
+		(property "Reference" "SW10"
+			(at 427.99 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 427.99 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 427.99 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 427.99 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 427.99 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 427.99 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "7072ec10-442c-46ff-829f-4d7bc4ecf800")
+		)
+		(pin "2"
+			(uuid "ae71473a-3191-48fe-94ef-079727e6ffb7")
+		)
+		(pin "1"
+			(uuid "8a1b89ce-a7e0-4510-a97b-e11adc864e26")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW10")
 					(unit 1)
 				)
 			)
@@ -23376,53 +23935,33 @@
 		)
 	)
 	(symbol
-		(lib_id "Potentiomètre:PTV09A-4015U-A503")
-		(at 64.77 189.23 0)
+		(lib_id "Switch:SW_MEC_5E")
+		(at 443.23 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "6721374a-2d27-4400-a256-77d5eefc64f1")
-		(property "Reference" "VR5"
-			(at 78.74 181.61 0)
+		(uuid "66e76dc5-5568-4368-8b1b-6869c4ab1175")
+		(property "Reference" "SW12"
+			(at 443.23 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "PTV09A-4015U-A503"
-			(at 78.74 184.15 0)
+		(property "Value" "7914J-1-000E"
+			(at 443.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "PTV09A4015UA503"
-			(at 88.9 284.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
-			(at 88.9 384.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
-			(at 64.77 189.23 0)
+		(property "Footprint" "7914J1000E"
+			(at 443.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23430,75 +23969,49 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "15.5"
-			(at 88.9 584.15 0)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
+			(at 443.23 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "652-PTV09A4015UA503"
-			(at 88.9 684.15 0)
+		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
+			(at 443.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4015U-A503?qs=fgHA1UgJI8C5H6fRowZ2UQ%3D%3D"
-			(at 88.9 784.15 0)
+		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 443.23 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 88.9 884.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
-			(at 88.9 984.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "917bc6b0-90c8-464f-acbe-baf2124e16cc")
-		)
-		(pin "MH2"
-			(uuid "0698145d-c6e1-4489-89dc-d21bafb865d6")
-		)
-		(pin "2"
-			(uuid "54e5b08c-c037-45de-ac80-9c49490ad5bd")
 		)
 		(pin "3"
-			(uuid "000127de-a2f0-4520-852f-03be4f0bea85")
+			(uuid "67e47e95-4b9e-43df-a8e3-c09317a3e619")
 		)
-		(pin "MH1"
-			(uuid "968c2579-2df4-4381-ac9b-849596ec25bd")
+		(pin "2"
+			(uuid "129ad739-7ca1-4baf-8f2d-73fb32f6b9da")
+		)
+		(pin "4"
+			(uuid "16d56f84-b87a-43d6-ae90-e63063832379")
+		)
+		(pin "1"
+			(uuid "6a85c9e3-9d9e-4ded-ab81-d6d9bd2d6fe0")
 		)
 		(instances
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "VR5")
+					(reference "SW12")
 					(unit 1)
 				)
 			)
@@ -23946,6 +24459,88 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 201.93 316.23 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f9d4cf2-abbd-4c5f-959a-650544affb5f")
+		(property "Reference" "SW20"
+			(at 207.01 314.9599 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 207.01 317.4999 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 191.77 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 194.31 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 201.93 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 201.93 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "dba3aa1a-77b3-4aa9-93e9-dc668ad1121c")
+		)
+		(pin "2"
+			(uuid "be422dca-0a72-4dfd-af7e-68aa1f29e299")
+		)
+		(pin "1"
+			(uuid "657680d6-1449-4e2a-9133-653701142104")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW20")
 					(unit 1)
 				)
 			)
@@ -24665,130 +25260,6 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 92.71 281.94 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "74271380-9b7d-4a5b-96fe-506564700f1b")
-		(property "Reference" "S17"
-			(at 101.6 273.304 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 103.886 280.416 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 187.63 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 287.63 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 92.71 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "28"
-			(at 487.63 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 587.63 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 687.63 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 787.63 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 887.63 265.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "bf7887aa-60a4-4da1-b27d-23d63932761e")
-		)
-		(pin "1"
-			(uuid "9b23d809-b98a-4ba0-a217-77e441bd8b8e")
-		)
-		(pin "3"
-			(uuid "f10bcf54-ab69-4baf-96ef-d68d899126dd")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S17")
 					(unit 1)
 				)
 			)
@@ -26399,258 +26870,6 @@
 		)
 	)
 	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 514.35 31.75 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8188fe8e-80e4-4918-8e30-202b1754f651")
-		(property "Reference" "S7"
-			(at 527.05 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7914J-1-000E"
-			(at 527.05 26.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "7914J1000E"
-			(at 535.94 126.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 535.94 226.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 514.35 31.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 535.94 426.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 535.94 526.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 535.94 626.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 535.94 726.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 535.94 826.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "d823ba44-997e-4053-a05c-c47254bb0b33")
-		)
-		(pin "2"
-			(uuid "17ca65e0-b861-4e52-b2a6-c16cd0678daa")
-		)
-		(pin "3"
-			(uuid "f6f9336c-c80e-4f99-9ddb-f76f141fbb0e")
-		)
-		(pin "1"
-			(uuid "bb36683d-ab38-4139-9d22-e57dbdd7717a")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 431.8 68.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "823291f7-660a-4fba-90f2-c61c1f1de3a8")
-		(property "Reference" "S8"
-			(at 444.5 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7914J-1-000E"
-			(at 444.5 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "7914J1000E"
-			(at 453.39 163.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 453.39 263.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 431.8 68.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 453.39 463.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 453.39 563.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 453.39 663.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 453.39 763.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 453.39 863.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "6c114130-fbbd-45c8-bdba-bce2071324fd")
-		)
-		(pin "2"
-			(uuid "af672bb7-7704-4c62-81b7-1f09af5ac97d")
-		)
-		(pin "3"
-			(uuid "81d10eb5-abc9-4436-b91e-cf3b42a4e271")
-		)
-		(pin "1"
-			(uuid "32a093c0-55c5-408f-a03f-26935250104b")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S8")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "EPSA_lib:2P Droit 2-11-2022")
 		(at 537.21 349.25 0)
 		(unit 1)
@@ -27289,137 +27508,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Potentiomètre:PTV09A-4015U-A503")
-		(at 27.94 138.43 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "86b1894f-b574-4c42-8fd3-6f603fe83f29")
-		(property "Reference" "VR3"
-			(at 41.91 130.81 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PTV09A-4015U-A503"
-			(at 41.91 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PTV09A4015UA503"
-			(at 52.07 233.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
-			(at 52.07 333.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
-			(at 27.94 138.43 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "15.5"
-			(at 52.07 533.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-PTV09A4015UA503"
-			(at 52.07 633.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4015U-A503?qs=fgHA1UgJI8C5H6fRowZ2UQ%3D%3D"
-			(at 52.07 733.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 52.07 833.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
-			(at 52.07 933.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "e1b53819-8e03-497c-a37c-66ffba312bcd")
-		)
-		(pin "MH2"
-			(uuid "fdb40a39-1aaf-42da-980c-912032a3f732")
-		)
-		(pin "2"
-			(uuid "8a2f8d20-6759-4d21-82f0-36215f8dc648")
-		)
-		(pin "3"
-			(uuid "7848d78d-86e2-4d0d-babd-e10466839619")
-		)
-		(pin "MH1"
-			(uuid "8319c0a3-d7ba-463b-a701-84159276e6ad")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "VR3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
-		(at 435.61 99.06 90)
+		(at 420.37 99.06 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27428,7 +27518,7 @@
 		(fields_autoplaced yes)
 		(uuid "86cfb4df-8d20-4569-9eb2-c670b6001b80")
 		(property "Reference" "#PWR015"
-			(at 441.96 99.06 0)
+			(at 414.02 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27437,7 +27527,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 439.42 99.0599 90)
+			(at 416.56 99.0599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27446,7 +27536,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 435.61 99.06 0)
+			(at 420.37 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27455,7 +27545,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 435.61 99.06 0)
+			(at 420.37 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27464,7 +27554,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 435.61 99.06 0)
+			(at 420.37 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27813,17 +27903,17 @@
 		)
 	)
 	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 25.4 281.94 0)
+		(lib_id "Switch:SW_MEC_5E")
+		(at 45.72 284.48 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "8c2ff159-f5af-498e-9520-6c74e57e0052")
-		(property "Reference" "S13"
-			(at 38.1 274.32 0)
+		(uuid "8b537baa-3ab5-4ff4-8c5d-b4e960b9cd69")
+		(property "Reference" "SW13"
+			(at 45.72 274.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27831,7 +27921,7 @@
 			)
 		)
 		(property "Value" "7914J-1-000E"
-			(at 38.1 276.86 0)
+			(at 45.72 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27839,100 +27929,57 @@
 			)
 		)
 		(property "Footprint" "7914J1000E"
-			(at 46.99 376.86 0)
+			(at 45.72 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 46.99 476.86 0)
+			(at 45.72 276.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 25.4 281.94 0)
+			(at 45.72 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 46.99 676.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 46.99 776.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 46.99 876.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 46.99 976.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 46.99 1076.86 0)
+			(at 45.72 284.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "4"
-			(uuid "b39eb807-dda2-46ce-8397-5680e6edf074")
+		(pin "3"
+			(uuid "040b7532-e095-48a6-a256-4e1975e10f8f")
 		)
 		(pin "2"
-			(uuid "4cc944e9-f99e-4178-b9ff-f6aff5c0f27d")
+			(uuid "d6278467-ad55-4dbe-aabe-d2b766f3de92")
 		)
-		(pin "3"
-			(uuid "ff790b4a-d06f-48a4-ab48-72bf6a8963fe")
+		(pin "4"
+			(uuid "2fd53058-8414-466e-8ab2-7c79ff3c0b4e")
 		)
 		(pin "1"
-			(uuid "e86b2e2e-2da0-4127-800e-9630b3081f9a")
+			(uuid "4485e6af-e434-4e22-ad98-8f2bd011d020")
 		)
 		(instances
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S13")
+					(reference "SW13")
 					(unit 1)
 				)
 			)
@@ -29422,6 +29469,89 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 527.05 34.29 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a63b0485-59a2-4214-8efd-2168d7b983e0")
+		(property "Reference" "SW7"
+			(at 527.05 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "7914J-1-000E"
+			(at 527.05 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "7914J1000E"
+			(at 527.05 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
+			(at 527.05 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
+			(at 527.05 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 527.05 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "bb76488b-75bf-437b-b8b6-6d0594708eb7")
+		)
+		(pin "2"
+			(uuid "638741f8-c505-429c-92db-8b29e394dfe9")
+		)
+		(pin "4"
+			(uuid "9224e488-ea81-40ce-a91c-2354fc7de9d4")
+		)
+		(pin "1"
+			(uuid "a8ced041-ec65-48a3-a246-232da4c7289a")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EPSA_lib:Résistance RK73H2BLTDD2152F")
 		(at 562.61 116.84 270)
 		(mirror x)
@@ -30240,378 +30370,6 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "#PWR025")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 74.93 109.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ade811ba-b563-4891-8400-2ff00a6b83d1")
-		(property "Reference" "S2"
-			(at 83.566 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 76.454 120.396 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 91.44 204.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 91.44 304.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 74.93 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "28"
-			(at 91.44 504.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 91.44 604.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 91.44 704.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 91.44 804.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 91.44 904.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "04996d58-2256-482e-9cfc-cedc834fece3")
-		)
-		(pin "1"
-			(uuid "eaa7b1c2-c401-4910-a3e9-876f662f6e3a")
-		)
-		(pin "3"
-			(uuid "343111f5-c24c-4dd7-8e4d-aa34a0572f40")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 92.71 320.04 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "afb640a2-080c-49f9-8589-1acec4901e7d")
-		(property "Reference" "S19"
-			(at 101.6 311.404 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 103.886 318.516 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 187.63 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 287.63 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 92.71 320.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "28"
-			(at 487.63 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 587.63 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 687.63 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 787.63 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 887.63 303.53 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "94f73c73-0bca-4205-a9f3-fda7c8d5de7b")
-		)
-		(pin "1"
-			(uuid "5d8ec7f8-c9b6-48e3-9bc2-a9605bcd28c5")
-		)
-		(pin "3"
-			(uuid "f7f88de1-a839-46b6-818d-34ab10390724")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S19")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 68.58 213.36 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "b23f4ddd-cf28-4022-8e19-a336a7eaed14")
-		(property "Reference" "S5"
-			(at 77.216 222.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 70.104 224.536 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 85.09 308.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 85.09 408.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 68.58 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "28"
-			(at 85.09 608.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 85.09 708.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 85.09 808.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 85.09 908.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 85.09 1008.28 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "c430865d-d19b-424d-8016-b086c2b98d8d")
-		)
-		(pin "1"
-			(uuid "ca9fe8e0-c4df-4f01-96b7-b33aea77d853")
-		)
-		(pin "3"
-			(uuid "8b7ebd57-c5a6-4bbc-bf77-1b4b87cf9f75")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S5")
 					(unit 1)
 				)
 			)
@@ -33203,258 +32961,6 @@
 		)
 	)
 	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 25.4 321.31 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c5bf5304-25f5-4a5f-b8aa-03ed233a2679")
-		(property "Reference" "S15"
-			(at 38.1 313.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7914J-1-000E"
-			(at 38.1 316.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "7914J1000E"
-			(at 46.99 416.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 46.99 516.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 25.4 321.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 46.99 716.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 46.99 816.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 46.99 916.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 46.99 1016.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 46.99 1116.23 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "b946201b-1fe4-4c7e-94df-040ec3d87db7")
-		)
-		(pin "2"
-			(uuid "afef3eb7-b652-4fc4-b6b8-dfc75173cebe")
-		)
-		(pin "3"
-			(uuid "a79272d1-e16e-4e0e-b199-e340d7fecca7")
-		)
-		(pin "1"
-			(uuid "a92dee4d-7279-4d26-a71c-95f7b0a9cf6e")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S15")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 132.08 322.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "c77c9f88-8a4a-43fc-81eb-679d6e984ba2")
-		(property "Reference" "S16"
-			(at 144.78 314.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7914J-1-000E"
-			(at 144.78 317.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "7914J1000E"
-			(at 153.67 417.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 153.67 517.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 132.08 322.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 153.67 717.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 153.67 817.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 153.67 917.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 153.67 1017.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 153.67 1117.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "2d668e63-c4d3-4c9f-a19f-4703de0eaff7")
-		)
-		(pin "2"
-			(uuid "93ca0bdb-0e4d-4809-9295-77459a4c9158")
-		)
-		(pin "3"
-			(uuid "5fd7f8ca-5eed-40a9-9b40-426baa9b678b")
-		)
-		(pin "1"
-			(uuid "e06def41-5000-4b54-ae59-b59ba97e3979")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S16")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Blue LED:LB_T64G-V2CA-59-Z484")
 		(at 248.92 147.32 0)
 		(unit 1)
@@ -33570,632 +33076,6 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "BLUE6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 29.21 109.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "c9ef5844-ea58-49c0-a5fe-4bf5fda9e31e")
-		(property "Reference" "S1"
-			(at 37.846 118.11 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 30.734 120.396 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 45.72 204.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 45.72 304.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 29.21 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "28"
-			(at 45.72 504.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 45.72 604.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 45.72 704.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 45.72 804.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 45.72 904.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "546ac2d3-6a56-4acf-84c0-4f87f68841ba")
-		)
-		(pin "1"
-			(uuid "d5bac5aa-494e-4b12-9cc6-905c8b9fd6c9")
-		)
-		(pin "3"
-			(uuid "3b38f806-ec72-45d3-9e19-995666e87a97")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 135.89 281.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ca43d466-cc31-4edd-83ea-b530b9bf0335")
-		(property "Reference" "S14"
-			(at 148.59 274.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7914J-1-000E"
-			(at 148.59 276.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "7914J1000E"
-			(at 157.48 376.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 157.48 476.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 135.89 281.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 157.48 676.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 157.48 776.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 157.48 876.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 157.48 976.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 157.48 1076.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "814baf9b-74e8-4a88-bb50-a01cc49acf13")
-		)
-		(pin "2"
-			(uuid "14df9975-f90d-4c72-81c2-a48c5b39d03c")
-		)
-		(pin "3"
-			(uuid "9aa71d16-36a5-4e9f-be67-25ce200f6458")
-		)
-		(pin "1"
-			(uuid "19898942-6187-477c-86b0-cd019f3b8a47")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S14")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 514.35 109.22 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "caea34a6-f4b0-48cb-90b0-31d3fd528d37")
-		(property "Reference" "S11"
-			(at 527.05 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7914J-1-000E"
-			(at 527.05 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "7914J1000E"
-			(at 535.94 204.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 535.94 304.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 514.35 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 535.94 504.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 535.94 604.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 535.94 704.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 535.94 804.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 535.94 904.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "8049f5f0-5de6-48e8-8a62-9f5f4c40e948")
-		)
-		(pin "2"
-			(uuid "b1de12ea-a760-4e03-831b-4e413bd1cf6c")
-		)
-		(pin "3"
-			(uuid "66d135d8-9681-4525-af4c-1789d41bb885")
-		)
-		(pin "1"
-			(uuid "cf798e1e-1292-429e-a895-c42cb0c0a7c6")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S11")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 429.26 133.35 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "cda86923-847c-4500-9b9a-3c5dccf82114")
-		(property "Reference" "S12"
-			(at 441.96 125.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "7914J-1-000E"
-			(at 441.96 128.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "7914J1000E"
-			(at 450.85 228.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 450.85 328.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 429.26 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 450.85 528.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 450.85 628.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 450.85 728.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 450.85 828.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 450.85 928.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "4"
-			(uuid "e50c6238-12c7-4b12-9ac1-5f0e4c45e3bd")
-		)
-		(pin "2"
-			(uuid "d8c7be7f-ba66-41e1-a33d-71d297ac84b9")
-		)
-		(pin "3"
-			(uuid "fed2022b-dd45-4851-8f4b-2ace9f4f3695")
-		)
-		(pin "1"
-			(uuid "46688f28-405c-46da-bb61-cc9920277ebf")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S12")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 31.75 162.56 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "cfa031ef-9d96-4b9d-bf4f-0a0f73cf41a2")
-		(property "Reference" "S3"
-			(at 40.386 171.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 33.274 173.736 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 48.26 257.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 48.26 357.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 31.75 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "28"
-			(at 48.26 557.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 48.26 657.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 48.26 757.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 48.26 857.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 48.26 957.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "78656167-a6c2-42da-8a82-809bf49e4bdc")
-		)
-		(pin "1"
-			(uuid "e4bcd8e1-9e80-45e0-93e5-29cc8b984a3b")
-		)
-		(pin "3"
-			(uuid "e21b8b25-77f1-4e8f-b19c-d6778ae57ba2")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S3")
 					(unit 1)
 				)
 			)
@@ -34998,6 +33878,86 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 81.28 165.1 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d2a95820-b94e-42e4-872c-1d5a493f59ba")
+		(property "Reference" "SW4"
+			(at 81.28 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 81.28 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 81.28 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 81.28 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 81.28 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 81.28 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "5f7ee45d-11f9-4f22-ae04-10da2f8c2c47")
+		)
+		(pin "2"
+			(uuid "cbbe7340-dfac-44b7-b5a0-acd00eedb639")
+		)
+		(pin "1"
+			(uuid "a369c919-9878-416b-8f14-f10283726daa")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 60.96 50.8 0)
 		(unit 1)
@@ -35246,6 +34206,89 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_MEC_5E")
+		(at 152.4 325.12 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d56b5966-9242-48ca-a43b-dd4053f9d91a")
+		(property "Reference" "SW16"
+			(at 152.4 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "7914J-1-000E"
+			(at 152.4 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "7914J1000E"
+			(at 152.4 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
+			(at 152.4 317.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
+			(at 152.4 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 152.4 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "d7fa4bb1-cb6b-4e18-a035-89861a47933d")
+		)
+		(pin "2"
+			(uuid "bdd77080-4191-465b-b182-1af81f86cfb6")
+		)
+		(pin "4"
+			(uuid "251e7ed0-4f0a-4a99-ae42-2c92dbaaad2b")
+		)
+		(pin "1"
+			(uuid "aee51e94-2c4f-4f64-92f3-6c228cdd11b0")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW16")
 					(unit 1)
 				)
 			)
@@ -36353,53 +35396,35 @@
 		)
 	)
 	(symbol
-		(lib_id "Potentiomètre:PTV09A-4015U-A503")
-		(at 72.39 138.43 0)
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 201.93 275.59 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "def44a53-30ec-4744-a894-2ae2de838ce5")
-		(property "Reference" "VR4"
-			(at 86.36 130.81 0)
+		(uuid "dfab44b4-c95a-4a8b-b6df-3fdafc86bd78")
+		(property "Reference" "SW18"
+			(at 207.01 274.3199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Value" "PTV09A-4015U-A503"
-			(at 86.36 133.35 0)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 207.01 276.8599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
-		(property "Footprint" "PTV09A4015UA503"
-			(at 96.52 233.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
-			(at 96.52 333.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
-			(at 72.39 138.43 0)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 191.77 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36407,75 +35432,46 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "15.5"
-			(at 96.52 533.35 0)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 194.31 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "652-PTV09A4015UA503"
-			(at 96.52 633.35 0)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 201.93 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4015U-A503?qs=fgHA1UgJI8C5H6fRowZ2UQ%3D%3D"
-			(at 96.52 733.35 0)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 201.93 275.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 96.52 833.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
-			(at 96.52 933.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "00139a5c-1e6f-4ee7-8728-c7ee0f0fe638")
-		)
-		(pin "MH2"
-			(uuid "01165e6d-ea0e-4285-9445-cdeef2fb6a04")
-		)
-		(pin "2"
-			(uuid "1c334922-2839-40bf-87cb-ca7e0d82fcef")
 		)
 		(pin "3"
-			(uuid "5b988039-fadb-4a6e-adf9-34897636a2f6")
+			(uuid "3307c6f8-bc69-4dcb-8f08-5dbe797219fc")
 		)
-		(pin "MH1"
-			(uuid "49e0f702-8d4f-4233-9b25-805a3579dbf0")
+		(pin "2"
+			(uuid "dfa550d9-aaa7-43cf-9eca-5f30a49d6ade")
+		)
+		(pin "1"
+			(uuid "8afbe261-9410-417c-8330-710311ae7cd9")
 		)
 		(instances
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "VR4")
+					(reference "SW18")
 					(unit 1)
 				)
 			)
@@ -36799,17 +35795,17 @@
 		)
 	)
 	(symbol
-		(lib_id "7914J-1-000E:7914J-1-000E")
-		(at 450.85 35.56 0)
+		(lib_id "Switch:SW_MEC_5E")
+		(at 45.72 323.85 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "e1f9f7d1-931b-4ece-929d-c23dab185f8f")
-		(property "Reference" "S6"
-			(at 463.55 27.94 0)
+		(uuid "e1a2fced-48c0-4295-acac-51c65bfa98ff")
+		(property "Reference" "SW15"
+			(at 45.72 313.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36817,7 +35813,7 @@
 			)
 		)
 		(property "Value" "7914J-1-000E"
-			(at 463.55 30.48 0)
+			(at 45.72 316.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36825,100 +35821,57 @@
 			)
 		)
 		(property "Footprint" "7914J1000E"
-			(at 472.44 130.48 0)
+			(at 45.72 316.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" "http://www.bourns.com/docs/Product-Datasheets/7914.pdf"
-			(at 472.44 230.48 0)
+			(at 45.72 316.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Description" "BOURNS - 7914J-1-000E - SWITCH, SPST, 0.1A, 16V, J LEGS"
-			(at 450.85 35.56 0)
+			(at 45.72 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(hide yes)
-			)
-		)
-		(property "Height" "4"
-			(at 472.44 430.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-7914J-1-000E"
-			(at 472.44 530.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/7914J-1-000E?qs=kSSonJSvPGpYnPbRlGle1w%3D%3D"
-			(at 472.44 630.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 472.44 730.48 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
 				(hide yes)
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
-			(at 472.44 830.48 0)
+			(at 45.72 323.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(pin "4"
-			(uuid "16e08e12-3309-470c-9b24-4c1bcc2ea366")
+		(pin "3"
+			(uuid "66dde539-2032-4360-aeeb-2d2bf1377a67")
 		)
 		(pin "2"
-			(uuid "cabefa5a-f05f-4871-8319-53f44807ce50")
+			(uuid "8265b54a-dfd9-4dd6-9444-dfa7dd751939")
 		)
-		(pin "3"
-			(uuid "a902cab3-f0be-45d7-b122-cd2aa828fb88")
+		(pin "4"
+			(uuid "34ae14f7-c6fd-42d4-8aa2-8c6a4adc865a")
 		)
 		(pin "1"
-			(uuid "854887a9-0f7c-4ece-956a-de8fb2bd9f8e")
+			(uuid "b158a9fa-ef40-49d6-b0c9-562053c91ff6")
 		)
 		(instances
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S6")
+					(reference "SW15")
 					(unit 1)
 				)
 			)
@@ -36991,52 +35944,36 @@
 		)
 	)
 	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 431.8 104.14 180)
+		(lib_name "R_Potentiometer_1")
+		(lib_id "Device:R_Potentiometer")
+		(at 80.01 86.36 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "e43387ea-890b-46b1-9d01-344d842cec68")
-		(property "Reference" "S10"
-			(at 422.148 95.758 0)
+		(uuid "e4861ca5-22b1-4110-95e2-bd1703e0d9a9")
+		(property "Reference" "RV2"
+			(at 81.026 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 422.402 107.95 0)
+		(property "Value" "R_Potentiometer"
+			(at 81.026 90.932 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 415.29 9.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 415.29 -90.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 431.8 104.14 0)
+		(property "Footprint" "PTV09A4015UA503"
+			(at 79.756 80.772 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37044,69 +35981,52 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "28"
-			(at 415.29 -290.78 0)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
+			(at 75.692 75.692 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 415.29 -390.78 0)
+		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
+			(at 77.47 78.74 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 415.29 -490.78 0)
+		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
+			(at 80.01 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 415.29 -590.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 415.29 -690.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "ff2ea4f4-d031-4609-8c4a-41a4a4c8ebd3")
-		)
-		(pin "1"
-			(uuid "d7367f50-051c-44d0-b82e-6eb165172556")
 		)
 		(pin "3"
-			(uuid "4f95162d-e945-4a1d-9035-503fc4c411e6")
+			(uuid "34ef3876-307c-497b-827e-acc603fe4af4")
+		)
+		(pin "1"
+			(uuid "88af123c-d957-4b3a-b4ed-0a69b5fcdc49")
+		)
+		(pin "2"
+			(uuid "c00b1044-ee31-431b-8b32-c758f886a0bd")
+		)
+		(pin "MH1"
+			(uuid "2230a8d9-9bb7-4d3a-93ee-3eb93ef8401f")
+		)
+		(pin "MH2"
+			(uuid "3c84d4f3-912e-455e-af77-dfc413efcfcd")
 		)
 		(instances
-			(project ""
+			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S10")
+					(reference "RV2")
 					(unit 1)
 				)
 			)
@@ -37364,135 +36284,6 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "#PWR049")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Potentiomètre:PTV09A-4015U-A503")
-		(at 72.39 85.09 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e81fc717-2dda-45ce-9119-08ba0755596f")
-		(property "Reference" "VR2"
-			(at 86.36 77.47 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "PTV09A-4015U-A503"
-			(at 86.36 80.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "PTV09A4015UA503"
-			(at 96.52 180.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
-			(at 96.52 280.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
-			(at 72.39 85.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "15.5"
-			(at 96.52 480.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" "652-PTV09A4015UA503"
-			(at 96.52 580.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Bourns/PTV09A-4015U-A503?qs=fgHA1UgJI8C5H6fRowZ2UQ%3D%3D"
-			(at 96.52 680.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Bourns"
-			(at 96.52 780.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
-			(at 96.52 880.01 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "3cbfa210-a27d-4c43-b7a0-6866d0aaaa1d")
-		)
-		(pin "MH2"
-			(uuid "ecdb42d2-0621-4716-af9a-ade86b767b5a")
-		)
-		(pin "2"
-			(uuid "26ff0188-cfd4-49ff-9075-ff0699913f25")
-		)
-		(pin "3"
-			(uuid "8a8ae2ab-68de-4de1-80c9-fd21eb19562e")
-		)
-		(pin "MH1"
-			(uuid "fb1e4d3a-cd4b-4180-abbf-1b07929928f8")
-		)
-		(instances
-			(project "Schematics_banc"
-				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "VR2")
 					(unit 1)
 				)
 			)
@@ -38004,6 +36795,88 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Nidec_CAS-120A1")
+		(at 95.25 314.96 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eeb4b6e4-d496-4d71-a50a-4ff48d1b321b")
+		(property "Reference" "SW19"
+			(at 100.33 313.6899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "100SP1T1B4M2QE"
+			(at 100.33 316.2299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "100SP1T1B4M2QE"
+			(at 85.09 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
+			(at 87.63 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
+			(at 95.25 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 95.25 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "496fb68a-a900-4367-9a97-8fdf3110af3e")
+		)
+		(pin "2"
+			(uuid "64270b9e-4e91-4b8b-b7db-22875dd5dee1")
+		)
+		(pin "1"
+			(uuid "549fdd64-02a5-47a1-a40b-6de3c7426368")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "SW19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "EPSA_lib:Résistance RK73H2BLTDD2152F")
 		(at 462.28 82.55 0)
 		(unit 1)
@@ -38446,6 +37319,95 @@
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
 					(reference "#PWR041")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "R_Potentiometer_1")
+		(lib_id "Device:R_Potentiometer")
+		(at 34.29 86.36 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f58ce597-40e4-4e78-aeef-ddaca34d0fc1")
+		(property "Reference" "RV1"
+			(at 35.306 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R_Potentiometer"
+			(at 35.306 90.932 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PTV09A4015UA503"
+			(at 34.036 80.772 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
+			(at 29.972 75.692 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
+			(at 31.75 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
+			(at 34.29 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "5dbec82f-ebdd-419f-93da-5d17a2013bfe")
+		)
+		(pin "1"
+			(uuid "e9002b72-b100-4ffe-8061-7cb0accf8bdf")
+		)
+		(pin "2"
+			(uuid "28383b58-b715-4821-b71b-bdbab8219aff")
+		)
+		(pin "MH1"
+			(uuid "2a078b31-847b-4bbe-b932-674549e6094a")
+		)
+		(pin "MH2"
+			(uuid "ef959916-a8e0-4da5-9afb-5c4305fbb7ad")
+		)
+		(instances
+			(project ""
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "RV1")
 					(unit 1)
 				)
 			)
@@ -39005,6 +37967,95 @@
 		)
 	)
 	(symbol
+		(lib_name "R_Potentiometer_1")
+		(lib_id "Device:R_Potentiometer")
+		(at 72.39 190.5 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f93a5c93-ef63-4e56-93b6-54dcc2931e95")
+		(property "Reference" "RV5"
+			(at 73.406 196.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "R_Potentiometer"
+			(at 73.406 195.072 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "PTV09A4015UA503"
+			(at 72.136 184.912 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
+			(at 68.072 179.832 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
+			(at 69.85 182.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
+			(at 72.39 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "e6653f3a-0bb8-4412-8bc4-099947a5ac44")
+		)
+		(pin "1"
+			(uuid "762ead98-9923-42fa-b3c9-838f5f494931")
+		)
+		(pin "2"
+			(uuid "9765c71d-2142-4e0d-b4b3-040a6c9a0a40")
+		)
+		(pin "MH1"
+			(uuid "71423df7-2c75-49fa-85bb-b3f647319d29")
+		)
+		(pin "MH2"
+			(uuid "ae87c54c-756a-49bc-a76d-4e853eba2aa8")
+		)
+		(instances
+			(project "Schematics_banc"
+				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
+					(reference "RV5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 387.35 190.5 90)
 		(unit 1)
@@ -39270,54 +38321,36 @@
 		)
 	)
 	(symbol
-		(lib_id "100SP1T1B4M2QE:100SP1T1B4M2QE")
-		(at 199.39 280.67 90)
+		(lib_name "R_Potentiometer_1")
+		(lib_id "Device:R_Potentiometer")
+		(at 36.83 139.7 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "fe08549b-4bc2-47f5-bba4-c22d2f259415")
-		(property "Reference" "S18"
-			(at 208.28 272.034 0)
+		(uuid "fc800094-8588-45aa-b13a-7c22828e02de")
+		(property "Reference" "RV3"
+			(at 37.846 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Value" "100SP1T1B4M2QE"
-			(at 210.566 279.146 0)
+		(property "Value" "R_Potentiometer"
+			(at 37.846 144.272 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(property "Footprint" "100SP1T1B4M2QE"
-			(at 294.31 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 394.31 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 199.39 280.67 0)
+		(property "Footprint" "PTV09A4015UA503"
+			(at 36.576 134.112 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -39325,69 +38358,52 @@
 				(hide yes)
 			)
 		)
-		(property "Height" "28"
-			(at 594.31 264.16 0)
+		(property "Datasheet" "https://www.bourns.com/docs/product-datasheets/PTV09.pdf"
+			(at 32.512 129.032 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Part Number" "612-100-A1421"
-			(at 694.31 264.16 0)
+		(property "Description" "Potentiometers PANEL CONTROL - 9MM-ST-CARBON 50 kohms 15 mm"
+			(at 34.29 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
 		)
-		(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/E-Switch/100SP1T1B4M2QE?qs=YXf4ACKMM4xJ0mJK%2FyIa1g%3D%3D"
-			(at 794.31 264.16 0)
+		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
+			(at 36.83 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left top)
 				(hide yes)
 			)
-		)
-		(property "Manufacturer_Name" "E-Switch"
-			(at 894.31 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
-			(at 994.31 264.16 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "0df4268e-357c-4294-9020-168aa92dcd6c")
-		)
-		(pin "1"
-			(uuid "27ad9ba9-d0b9-4af3-9503-a8923afdfd84")
 		)
 		(pin "3"
-			(uuid "c6046196-bc3b-4e19-b78c-15b2a9d0df1c")
+			(uuid "0cd68bbf-b531-46ca-8a46-d4e637dffb63")
+		)
+		(pin "1"
+			(uuid "06a03c40-a5f8-4b6e-ab83-0d2993ef363b")
+		)
+		(pin "2"
+			(uuid "2388ef96-22fe-4a66-b334-f6657d1fe72a")
+		)
+		(pin "MH1"
+			(uuid "26fe7952-f805-4470-b612-29c8276ca4cb")
+		)
+		(pin "MH2"
+			(uuid "95a4ae53-6d10-423e-bd5a-89ddd8e56fdd")
 		)
 		(instances
 			(project "Schematics_banc"
 				(path "/dd08fb6f-dd66-4a0d-b948-6033452b3f3b"
-					(reference "S18")
+					(reference "RV3")
 					(unit 1)
 				)
 			)
