@@ -4,6 +4,7 @@
 d_f=1;          %Longueur inter-roues avant
 d_r=1;          %Longueur inter-roues arrière
 R=[0.52 0.52 0.52 0.52];    %Matrice contenant les rayons des roues
+Mroue=[5 5 5 5];
 
 %-------------------------------------------------------------------------%
 %Grandeurs issues de la simulation
@@ -16,8 +17,8 @@ A_L=1;                      %Surface offerte au vent de face (m^2)
 A_S=3;                      %Surface offerte au vent latéralement (m^2)
 Iz=500;                     %Inertie du véhicule selon son axe vertical (kg.m^2)
 C_aero=0.2.*[1 1 1];        %Matrice des coefficients de trainée dans la direction i
+J=Mroue.*R.^2./2;                %Matrice des inerties selon l'axe de rotation pour chaque roue
 f=0.1;                      %Coef cr_mot
-EPSILON = 1e-9;             %Constante de test pour les valeurs négligeables
 %-------------------------------------------------------------------------%
 %Constantes générales
 %-------------------------------------------------------------------------%
@@ -32,5 +33,3 @@ m=M/4.*[l_f/L l_f/L l_r/L l_r/L];        %Matrice des masses équivalentes port�
 rho=1;             %Masse volumique de l'air (kg/m^3)
 P=20e3;         %Puissance du moteur choisi (W)
 C_M=1000;          %Couple moteur choisi (Nm)
-mr = 5;         %kg masse des pneus
-J=mr/2*R.^2;                %Matrice des inerties selon l'axe de rotation pour chaque roue
