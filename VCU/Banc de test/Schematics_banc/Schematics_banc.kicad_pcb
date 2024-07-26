@@ -1627,7 +1627,7 @@
 			)
 		)
 		(property "Value" "21.5k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "9b4e7f55-e769-43c4-aa9b-3cf0df33d866")
@@ -1928,7 +1928,7 @@
 			(uuid "17b13db5-b58b-4e55-aeed-b8f1cae8be2f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "45076b18-9085-4862-8abd-3f16ce60a420")
 			(effects
@@ -1984,7 +1984,7 @@
 			)
 		)
 		(property "Value" "21.5k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "71826a1c-9456-4167-8e08-58dfdffbc362")
@@ -2285,7 +2285,7 @@
 			(uuid "e68106d7-ec30-4c27-baa5-5f9e7f132b44")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "c834ef59-4d8b-405e-8d0b-0755e2c8be16")
 			(effects
@@ -2625,7 +2625,7 @@
 			)
 		)
 		(property "Value" "11k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "37e5f23d-4aa1-468f-b2e0-69fbf6b869e1")
@@ -2926,7 +2926,7 @@
 			(uuid "2913aae7-ad79-45bd-a669-aa4a92e5c044")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "e354af6e-f0a0-4ec9-851c-483fd862693c")
 			(effects
@@ -3309,7 +3309,7 @@
 			)
 		)
 		(property "Value" "11k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "892cca84-9242-4c7e-b8c4-1ec342583b38")
@@ -3610,7 +3610,7 @@
 			(uuid "9f8b7efe-4752-4509-a48e-bad62cba5b8c")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.12 -1.59 360)
+			(at -5.12 -1.59 0)
 			(layer "F.Fab")
 			(uuid "50ae2e5c-e5cd-4d7d-ac3b-6945a5a4a0f3")
 			(effects
@@ -6035,7 +6035,7 @@
 			)
 		)
 		(property "Value" "VFJD1105W-5C63A-TR"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "a6a03603-2bdb-43f3-b3ba-db26a4410bee")
@@ -6047,7 +6047,7 @@
 			)
 		)
 		(property "Footprint" "LEDC3216X195N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "410ceeec-2c2f-4131-9ec6-dbeeec7f5afe")
@@ -6059,7 +6059,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.stanley-components.com/php/downloaddatafile.php?rp=0,VFJD1105W-5C63A-TR_e.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8ed384a0-bf84-4db0-aa51-60566838bbf3")
@@ -6071,7 +6071,7 @@
 			)
 		)
 		(property "Description" "Standard LEDs - SMD Surface Mount LED"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd1342a4-1330-417d-9d32-f06d2ab12fec")
@@ -6272,7 +6272,7 @@
 			(uuid "2d31b275-f313-4703-8f4f-f71b8250631b")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "0be01aca-b983-4451-8f57-24802f9254f8")
 			(effects
@@ -10856,7 +10856,7 @@
 			)
 		)
 		(property "Value" "21.5k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "b07ecdd8-95eb-4605-bff9-21b44c9ccc99")
@@ -11157,7 +11157,7 @@
 			(uuid "8fdf8ae7-9171-483c-aa90-20eecb8b4cf9")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "0f104665-dfa6-4d42-8753-6671456f0f5d")
 			(effects
@@ -13911,7 +13911,7 @@
 			)
 		)
 		(property "Value" "11k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "5f8e5d32-4d7f-4581-99e2-947b46206d37")
@@ -14212,7 +14212,7 @@
 			(uuid "82d246c7-9411-41b5-907d-64557bc5894f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "3e5062c6-f16d-4afd-9c7f-a81aa192d0cf")
 			(effects
@@ -17775,7 +17775,7 @@
 		(descr "100SP1T1B4M2QE")
 		(tags "Switch")
 		(property "Reference" "SW10"
-			(at 32.128962 -16.3868 360)
+			(at 32.128962 -16.3868 0)
 			(layer "B.SilkS")
 			(uuid "f0a09add-8e00-4c17-808b-ebf24369fa97")
 			(effects
@@ -17787,7 +17787,7 @@
 			)
 		)
 		(property "Value" "100SP1T1B4M2QE"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e108e606-112c-41ea-8ea6-07277991fe3a")
@@ -17799,7 +17799,7 @@
 			)
 		)
 		(property "Footprint" "100SP1T1B4M2QE"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0fc3034b-9603-489c-afde-876c00c1b3af")
@@ -17811,7 +17811,7 @@
 			)
 		)
 		(property "Datasheet" "https://configured-product-images.s3.amazonaws.com/2D/specs/100SP1T1B4M2QE.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ec877fd7-1f70-48ba-bf83-dccdfdba908b")
@@ -17823,7 +17823,7 @@
 			)
 		)
 		(property "Description" "TOGGLE, 5A 120VAC/28VDC, SPDT On-On, Through Hole PC Pin"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cfecc920-a354-4133-98b9-3ac2cd2f3f98")
@@ -18015,7 +18015,7 @@
 			(uuid "cb1d843b-633c-4903-852d-50644f9b9daa")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 32.128962 -16.3868 360)
+			(at 32.128962 -16.3868 0)
 			(layer "B.Fab")
 			(uuid "ab6bda09-03a7-4ff3-917a-c8e7d66abf00")
 			(effects
@@ -19025,7 +19025,7 @@
 			)
 		)
 		(property "Value" "11k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "08289b57-5c7a-43c5-9571-484aaa1735da")
@@ -19326,7 +19326,7 @@
 			(uuid "2595fd97-fe31-4d03-be94-367abc7f6f83")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "799a48eb-8a9c-4b77-89b4-b0abb62dc648")
 			(effects
@@ -20412,7 +20412,7 @@
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "08cd3c2a-4f42-4108-92cc-3df9943fe822")
+			(uuid "5ad3e45a-1286-4f2c-8d0e-0b0c5704d7f0")
 			(effects
 				(font
 					(size 1 1)
@@ -20423,7 +20423,7 @@
 		(property "Value" "MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "384f2e0f-2c4c-4473-9c57-d88b500e4c7a")
+			(uuid "d89e8373-db9b-44e8-9042-5d95d2f705d0")
 			(effects
 				(font
 					(size 1 1)
@@ -20480,7 +20480,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "c111787a-8bc9-4d2f-89b4-7954a3232150")
+			(uuid "3010e293-e961-4d7c-9b7d-5042f204eb24")
 		)
 		(fp_circle
 			(center 0 0)
@@ -20491,12 +20491,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "dc19858e-593d-47e1-b1be-4f83801fcd5c")
+			(uuid "fdabbc24-e1f1-402d-b90c-dec540cec7ba")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "95ac7859-088b-41d6-be45-604aaacfd5dd")
+			(uuid "9aeafa3f-1504-46ec-849d-765328280ad0")
 			(effects
 				(font
 					(size 1 1)
@@ -20510,7 +20510,7 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "64be14e5-3996-473d-b641-d2c9cfae39e3")
+			(uuid "8f7e40b9-4108-4a4b-b40b-501c757da460")
 		)
 	)
 	(footprint "Footprints:PTV09A4015UA503"
@@ -20884,7 +20884,7 @@
 			)
 		)
 		(property "Value" "21.5k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "607d7336-c4e7-4a5a-8862-31dde0919ed3")
@@ -21185,7 +21185,7 @@
 			(uuid "1a2bd414-1494-47a4-ac9d-c7d6a0e22ef6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "f354d423-7d66-41d9-b630-e8fec9827935")
 			(effects
@@ -24322,7 +24322,7 @@
 		(descr "2B(1206)")
 		(tags "Resistor")
 		(property "Reference" "R66"
-			(at 0.7112 -2.16 360)
+			(at 0.7112 -2.16 0)
 			(layer "F.SilkS")
 			(uuid "5b887770-2e76-40c6-a700-d1a82729dff6")
 			(effects
@@ -24333,7 +24333,7 @@
 			)
 		)
 		(property "Value" "20k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4c530678-4ddd-4525-9192-bdc67499a49d")
@@ -24634,7 +24634,7 @@
 			(uuid "db0db36c-459a-4c1a-ad36-3b2742745278")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "6284ca77-b4f9-4871-b777-fff259228e2e")
 			(effects
@@ -27443,7 +27443,7 @@
 			)
 		)
 		(property "Value" "21.5k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "05f1bfe8-9bef-4041-a1fc-2f03e460db73")
@@ -27744,7 +27744,7 @@
 			(uuid "0694b443-661a-491b-85d5-d0c29e1770df")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "62a9e573-a24d-4e21-9c9c-606a595c13fa")
 			(effects
@@ -29102,7 +29102,7 @@
 			)
 		)
 		(property "Value" "21.5k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "90901ce3-61ae-4ebf-b8f9-c86ce6bcd325")
@@ -29403,7 +29403,7 @@
 			(uuid "d295635d-5a6f-41b9-8b51-cecc6027aeb7")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "74253e41-1d5f-49eb-8420-74be4ed6d7d4")
 			(effects
@@ -29760,7 +29760,7 @@
 			)
 		)
 		(property "Value" "21.5k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "3ecf345c-9cdd-40db-85eb-a9a5b84b5aa3")
@@ -30061,7 +30061,7 @@
 			(uuid "fcd2697a-274e-4e6d-831e-17526a57991a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "53f4e760-b5c0-43b3-b38b-b43e34022ec1")
 			(effects
@@ -31451,7 +31451,7 @@
 		(descr "0805-ren3")
 		(tags "Capacitor")
 		(property "Reference" "C2"
-			(at 0 -1.8 360)
+			(at 0 -1.8 0)
 			(layer "F.SilkS")
 			(uuid "2ed1410e-5fb2-4558-8bed-2e9371c249f3")
 			(effects
@@ -31462,7 +31462,7 @@
 			)
 		)
 		(property "Value" "100n"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "0d5d2ddb-e792-48f4-bc52-60ebccd40d4d")
@@ -31701,7 +31701,7 @@
 			(uuid "43fc04a7-80e8-4536-a924-076fb8840474")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4 -5.5 360)
+			(at -4 -5.5 0)
 			(layer "F.Fab")
 			(uuid "32098c77-5e0a-4fa2-933d-109d2fbd2dd1")
 			(effects
@@ -32462,7 +32462,7 @@
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "08cd3c2a-4f42-4108-92cc-3df9943fe822")
+			(uuid "4696281d-c01f-4176-9fca-b57265758f6f")
 			(effects
 				(font
 					(size 1 1)
@@ -32473,7 +32473,7 @@
 		(property "Value" "MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "384f2e0f-2c4c-4473-9c57-d88b500e4c7a")
+			(uuid "2e392a94-9cca-4381-937e-82902da557ff")
 			(effects
 				(font
 					(size 1 1)
@@ -32530,7 +32530,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "c111787a-8bc9-4d2f-89b4-7954a3232150")
+			(uuid "c50ef3ea-f724-4a94-85ea-d1434a4abf9b")
 		)
 		(fp_circle
 			(center 0 0)
@@ -32541,12 +32541,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "dc19858e-593d-47e1-b1be-4f83801fcd5c")
+			(uuid "46d2d77f-05e9-4f1d-a182-c50266f56f94")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "95ac7859-088b-41d6-be45-604aaacfd5dd")
+			(uuid "b7bb31cb-cb65-46db-96bf-edf73587b91a")
 			(effects
 				(font
 					(size 1 1)
@@ -32560,7 +32560,7 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "64be14e5-3996-473d-b641-d2c9cfae39e3")
+			(uuid "f3bd9c1f-9a69-49dc-a5b3-a832f48cbf55")
 		)
 	)
 	(footprint "EPSA_lib:SOT95P237X112-3N"
@@ -37350,7 +37350,7 @@
 			)
 		)
 		(property "Value" "11k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "6355f147-cc48-476b-b3ff-fcaf773ef1b0")
@@ -37651,7 +37651,7 @@
 			(uuid "a8a61fb9-b06a-4dbf-a7e3-c241219e7c77")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "b4751409-f1b2-49d9-9165-347ce1e98c32")
 			(effects
@@ -38024,7 +38024,7 @@
 			)
 		)
 		(property "Value" "VFJD1105W-5C63A-TR"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "3f815ac4-3984-49ee-97bc-a72778c5e088")
@@ -38036,7 +38036,7 @@
 			)
 		)
 		(property "Footprint" "LEDC3216X195N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b4f9daa9-d79a-44b3-9150-382a898e95d6")
@@ -38048,7 +38048,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.stanley-components.com/php/downloaddatafile.php?rp=0,VFJD1105W-5C63A-TR_e.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "829c4768-1c73-4b53-87fb-644d06141fd3")
@@ -38060,7 +38060,7 @@
 			)
 		)
 		(property "Description" "Standard LEDs - SMD Surface Mount LED"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "8ec9544b-dd17-4c6f-8d17-7b87729768d4")
@@ -38261,7 +38261,7 @@
 			(uuid "a37cf73a-4d3a-43ac-b684-469fe558f5fe")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "bf4f3b2b-89ad-45b2-8991-a5d2c272554b")
 			(effects
@@ -40353,7 +40353,7 @@
 			)
 		)
 		(property "Value" "11k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "bea10d07-0419-447f-9097-ea32109c87ca")
@@ -40654,7 +40654,7 @@
 			(uuid "9b87ed27-55c7-4892-8c7c-674c1767bc16")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -4.435 -1.79 360)
+			(at -4.435 -1.79 0)
 			(layer "F.Fab")
 			(uuid "aad454ad-7b19-450d-897a-49da6285d75c")
 			(effects
@@ -41635,7 +41635,7 @@
 			)
 		)
 		(property "Value" "VFJD1105W-5C63A-TR"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "d286fcea-8a99-4e4b-ba3e-354f0144a295")
@@ -41647,7 +41647,7 @@
 			)
 		)
 		(property "Footprint" "LEDC3216X195N"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "a285f2b5-cc91-41cd-8e23-a5f49a89fb4c")
@@ -41659,7 +41659,7 @@
 			)
 		)
 		(property "Datasheet" "http://www.stanley-components.com/php/downloaddatafile.php?rp=0,VFJD1105W-5C63A-TR_e.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "73a4fed9-d0b9-4248-9087-ac7854c4ecb2")
@@ -41671,7 +41671,7 @@
 			)
 		)
 		(property "Description" "Standard LEDs - SMD Surface Mount LED"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3cab3d97-32e6-433c-bbe7-656ba4c07596")
@@ -41872,7 +41872,7 @@
 			(uuid "409352cd-4249-419f-9d0e-c20696eedc72")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(uuid "6c2272fc-c27a-4f32-9331-45aac7af69f8")
 			(effects
@@ -41911,7 +41911,7 @@
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
 			(hide yes)
-			(uuid "08cd3c2a-4f42-4108-92cc-3df9943fe822")
+			(uuid "72898a2d-edc2-4a52-8b70-6434e5a717cf")
 			(effects
 				(font
 					(size 1 1)
@@ -41922,7 +41922,7 @@
 		(property "Value" "MountingHole_3.2mm_M3_DIN965_Pad"
 			(at 0 3.8 0)
 			(layer "F.Fab")
-			(uuid "384f2e0f-2c4c-4473-9c57-d88b500e4c7a")
+			(uuid "13babcde-7daf-4eba-9bbb-4b78f1bfa4ff")
 			(effects
 				(font
 					(size 1 1)
@@ -41979,7 +41979,7 @@
 			)
 			(fill none)
 			(layer "Cmts.User")
-			(uuid "c111787a-8bc9-4d2f-89b4-7954a3232150")
+			(uuid "ed159e60-5bb0-49a8-9387-6e9fedce9067")
 		)
 		(fp_circle
 			(center 0 0)
@@ -41990,12 +41990,12 @@
 			)
 			(fill none)
 			(layer "F.CrtYd")
-			(uuid "dc19858e-593d-47e1-b1be-4f83801fcd5c")
+			(uuid "c04f4ce0-d15b-4ad1-80c6-814d0d428b58")
 		)
 		(fp_text user "${REFERENCE}"
 			(at 0 0 0)
 			(layer "F.Fab")
-			(uuid "95ac7859-088b-41d6-be45-604aaacfd5dd")
+			(uuid "b8b1a5c5-3e43-42be-832d-95f9073d3d95")
 			(effects
 				(font
 					(size 1 1)
@@ -42009,7 +42009,7 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(remove_unused_layers no)
-			(uuid "64be14e5-3996-473d-b641-d2c9cfae39e3")
+			(uuid "5b8a7874-2167-4e3c-be8a-668a7a736e93")
 		)
 	)
 	(footprint "Footprints:LBT64GV2CA59Z484"
@@ -42347,7 +42347,7 @@
 			)
 		)
 		(property "Value" "11k"
-			(at 0 2.54 360)
+			(at 0 2.54 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "030e2111-fdf2-4819-a24d-7cbd050475bd")
@@ -42648,7 +42648,7 @@
 			(uuid "17a24f74-d76e-4711-a8da-3dcd49a1ab55")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -5.08 -2.54 360)
+			(at -5.08 -2.54 0)
 			(layer "F.Fab")
 			(uuid "04322e0e-1faf-42a6-8017-474eb091bc4c")
 			(effects

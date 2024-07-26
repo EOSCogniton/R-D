@@ -14054,7 +14054,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 190.5 285.75 0)
 			(effects
 				(font
@@ -14210,6 +14210,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 199.39 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d78f6e59-ea96-4695-931f-a1a163afc3d3")
 		)
@@ -14329,6 +14338,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 537.21 360.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -14529,6 +14547,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 140.97 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f2ab71a-19bf-4f9a-be7e-33970fe24df3")
 		)
@@ -14562,7 +14589,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 83.82 285.75 0)
 			(effects
 				(font
@@ -14718,6 +14745,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 92.71 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "17234156-5001-413e-bce7-a2d16dd29223")
 		)
@@ -14861,6 +14897,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 528.32 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "c1937229-11c7-4ddd-93ac-cca63486e0fa")
 		)
@@ -14944,6 +14989,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 73.66 215.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "dda69cf9-7ded-45d6-b523-4e7253bc40bf")
 		)
@@ -14980,7 +15034,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 65.024 205.74 90)
 			(effects
 				(font
@@ -15130,6 +15184,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 56.896 204.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 63.5 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15321,6 +15384,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 198.374 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 191.77 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15544,6 +15616,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 49.53 392.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "c56d6a2a-c632-4007-a111-1354a4394d17")
 		)
@@ -15664,6 +15745,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 68.58 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b7d69461-41ca-4fa4-8421-6a6749a7f3af")
 		)
@@ -15763,7 +15853,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 553.72 74.93 0)
 			(effects
 				(font
@@ -15912,6 +16002,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 564.134 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 557.53 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16110,6 +16209,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 184.15 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "7eafb0e2-2885-4b15-930d-82bb70ec6d52")
 		)
@@ -16179,6 +16287,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 156.21 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 156.21 284.48 0)
 			(effects
 				(font
@@ -16264,6 +16381,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 95.25 276.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 95.25 276.86 0)
 			(effects
 				(font
@@ -16396,6 +16522,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 195.58 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fd1134ad-c063-444c-b050-761a18a3ff95")
 		)
@@ -16465,6 +16600,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 524.51 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 524.51 78.74 0)
 			(effects
 				(font
@@ -16669,6 +16813,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 544.83 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "1eb46065-60c1-4d62-8912-8027ce5ad5e4")
 		)
@@ -16853,6 +17006,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 137.414 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 130.81 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17048,6 +17210,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 300.99 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e0a39c63-c3ec-42e2-8ae0-65daaecf8830")
 		)
@@ -17168,6 +17339,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 227.33 401.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "7ec445c9-8830-45a1-9248-fc369dbf7265")
 		)
@@ -17276,6 +17456,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
+			(at 80.01 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 80.01 139.7 0)
 			(effects
 				(font
@@ -17413,6 +17602,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 69.85 321.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "64d475e6-9e8a-49b3-82c3-30ba20c5a431")
 		)
@@ -17482,6 +17680,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 34.29 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 34.29 111.76 0)
 			(effects
 				(font
@@ -17615,6 +17822,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 152.4 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "ec9fc853-b113-44d8-9d00-e668081051bc")
 		)
@@ -17651,7 +17867,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 72.644 101.6 90)
 			(effects
 				(font
@@ -17801,6 +18017,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 64.516 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 71.12 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17992,6 +18217,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 245.364 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 238.76 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18255,6 +18489,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 193.04 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6fe2efaa-3598-4b42-8085-49ff829ac24d")
 		)
@@ -18374,6 +18617,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 308.61 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -18563,6 +18815,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 83.82 328.676 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 74.93 335.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18760,6 +19021,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 481.33 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "88d655ee-9b92-4334-aeeb-521f0ae4dd2c")
 		)
@@ -18829,6 +19099,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 80.01 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 80.01 111.76 0)
 			(effects
 				(font
@@ -19031,6 +19310,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 138.43 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "0abd0b35-10a1-4b01-bf53-32c45a2fe298")
 		)
@@ -19150,6 +19438,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 256.54 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -19273,6 +19570,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 527.05 303.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -19415,6 +19721,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 144.78 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "abb46050-ff89-491e-b8b5-b567c998044f")
 		)
@@ -19534,6 +19849,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 311.15 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -19794,6 +20118,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 184.15 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "50d65884-0dab-42b1-8926-b4ed75906c72")
 		)
@@ -19987,6 +20320,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 20.32 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cbc40e98-65f0-4dfa-ae54-75cec701c519")
 		)
@@ -20123,6 +20465,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 447.04 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 447.04 71.12 0)
 			(effects
 				(font
@@ -20395,6 +20746,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 297.18 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "49ce1bd8-c30b-4917-87ba-d75851dec48a")
 		)
@@ -20586,6 +20946,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 133.35 121.92 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f6d922e2-520d-4883-bf56-9c1adb4111b4")
 		)
@@ -20737,6 +21106,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 83.82 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "772463d1-a6ad-429b-8fdf-55a2ce381da9")
 		)
@@ -20855,6 +21233,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 237.49 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -20979,6 +21366,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 303.53 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -21118,6 +21514,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 461.01 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 461.01 38.1 0)
 			(effects
 				(font
@@ -21323,6 +21728,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 245.11 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "f7abcc2a-efcb-4b25-aec1-84be7b5b22df")
 		)
@@ -21507,6 +21921,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 296.164 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 289.56 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21701,6 +22124,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 176.53 322.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "9372ae1a-ab29-4a31-bf0e-47464bd67374")
 		)
@@ -21892,6 +22324,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 212.09 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5b509325-e8b8-47df-8105-fbb6b0cdf206")
 		)
@@ -22010,6 +22451,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 238.76 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -22206,6 +22656,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 60.96 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "619dfe3a-494c-4050-be89-ca5b312e4266")
 		)
@@ -22275,6 +22734,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 36.83 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 36.83 165.1 0)
 			(effects
 				(font
@@ -22474,6 +22942,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 185.42 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "576458e6-d907-4342-8a2e-7caeb110c8b7")
 		)
@@ -22668,6 +23145,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 210.82 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "21ee8ebb-dcea-4987-8033-461bca119a72")
 		)
@@ -22701,7 +23187,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 558.8 30.48 0)
 			(effects
 				(font
@@ -22857,6 +23343,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 562.61 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "48bb40fb-87b8-4ff6-9e8d-9d5dae4d53d1")
 		)
@@ -22934,6 +23429,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 427.99 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "7072ec10-442c-46ff-829f-4d7bc4ecf800")
 		)
@@ -22970,7 +23474,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "18k"
 			(at 46.99 48.006 90)
 			(effects
 				(font
@@ -23127,6 +23631,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 54.61 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0be250cf-0858-413d-afa7-f0a5ec5793fd")
 		)
@@ -23253,6 +23766,15 @@
 		)
 		(property "Render Name" "6P Droit"
 			(at 547.37 262.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 537.21 266.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23523,6 +24045,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 306.324 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 299.72 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23916,6 +24447,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 130.81 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "764dbc39-9bea-459d-bcec-46073b115eed")
 		)
@@ -23988,6 +24528,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 443.23 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 443.23 135.89 0)
 			(effects
 				(font
@@ -24192,6 +24741,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 16.51 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f0c2dce1-d807-422a-8db7-f7fe24814aa7")
 		)
@@ -24382,6 +24940,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 74.93 295.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "02e9b368-d572-42f5-a18d-1fb86758eda1")
 		)
@@ -24520,6 +25087,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 201.93 316.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 201.93 316.23 0)
 			(effects
 				(font
@@ -24721,6 +25297,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 123.19 388.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "19859452-c43b-4a5e-a3ce-72f6b23210cb")
 		)
@@ -24754,7 +25339,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "2.2k"
 			(at 81.28 45.72 0)
 			(effects
 				(font
@@ -24910,6 +25495,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 90.17 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "114eb9ab-c052-417d-876c-e4bb998c6e56")
 		)
@@ -24943,7 +25537,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 190.5 326.39 0)
 			(effects
 				(font
@@ -25092,6 +25686,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 190.5 315.976 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 199.39 322.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25250,6 +25853,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 40.64 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "3eab92eb-1895-4f06-8a3c-e16c354c8877")
 		)
@@ -25283,7 +25895,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 473.71 132.08 0)
 			(effects
 				(font
@@ -25432,6 +26044,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 484.124 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 477.52 140.97 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25588,6 +26209,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 134.62 370.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f2f9641f-9bf6-4289-a297-4037f0a22f63")
 		)
@@ -25708,6 +26338,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 180.34 281.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "35351712-cf62-463d-bac9-b26f88765edf")
 		)
@@ -25806,7 +26445,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 30.734 207.01 90)
 			(effects
 				(font
@@ -25964,6 +26603,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 29.21 214.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "0603a3b9-4128-4886-a3fa-d6451c2a4a2d")
 		)
@@ -26083,6 +26731,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 547.37 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -26346,6 +27003,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 204.47 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "614fcdad-015b-441a-8377-4d90d6a7a9f7")
 		)
@@ -26467,6 +27133,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 289.56 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -26595,6 +27270,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 257.81 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "6a0e859c-b0ec-4486-8ef9-ba4b8c1be374")
 		)
@@ -26698,7 +27382,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 476.25 67.31 0)
 			(effects
 				(font
@@ -26854,6 +27538,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 480.06 76.2 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "14ecbb52-d890-4fb4-a983-29ba3ed2ae41")
 		)
@@ -26983,6 +27676,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 537.21 349.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27177,6 +27879,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 160.02 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "da4aa2f5-67a6-4f53-8f7d-64f3f4119677")
 		)
@@ -27364,6 +28075,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 483.87 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dfe55abe-451d-4924-9098-52cf9393857d")
 		)
@@ -27483,6 +28203,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 547.37 222.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -27757,6 +28486,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 547.37 193.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "d566d101-529a-4c87-be1b-be74e6f1729d")
 		)
@@ -27964,6 +28702,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 45.72 284.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "040b7532-e095-48a6-a256-4e1975e10f8f")
 		)
@@ -28090,6 +28837,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 547.37 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5ec7c3c2-5874-45bf-aef3-10765d54ed79")
 		)
@@ -28123,7 +28879,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 28.194 154.94 90)
 			(effects
 				(font
@@ -28280,6 +29036,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 26.67 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d8b7c7c4-e00d-4d4b-9172-9a4b66cda4ae")
 		)
@@ -28380,7 +29145,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "13.3k"
+		(property "Value" "15k"
 			(at 95.25 33.0199 90)
 			(effects
 				(font
@@ -28530,6 +29295,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 99.314 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 92.71 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28727,6 +29501,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 184.15 391.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "72832524-5598-423c-9f4c-01c50b5429a9")
 		)
@@ -28859,6 +29642,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 537.21 180.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07787f16-d891-448d-b04b-00edf9ba9283")
 		)
@@ -28976,6 +29768,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 527.05 326.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -29248,6 +30049,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 244.094 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 237.49 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29530,6 +30340,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 527.05 34.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "bb76488b-75bf-437b-b8b6-6d0594708eb7")
 		)
@@ -29569,7 +30388,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 558.8 107.95 0)
 			(effects
 				(font
@@ -29718,6 +30537,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 569.214 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 562.61 116.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29913,6 +30741,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 142.24 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1312b468-11b4-4b2e-8dc5-3d54f4f1680d")
 		)
@@ -30096,6 +30933,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 116.586 361.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 123.19 370.84 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30293,6 +31139,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 539.75 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "20228bf5-7d60-4af8-a2cc-19a5ee7891d2")
 		)
@@ -30478,6 +31333,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 133.35 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -30668,6 +31532,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 252.984 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 246.38 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30998,6 +31871,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 15.24 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "b7ba6ebe-5432-426b-af3d-e93a897a4ece")
 		)
@@ -31182,6 +32064,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 192.024 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 185.42 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31380,6 +32271,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 264.16 128.27 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "e807e15f-88e5-4f3d-b57f-1afeccc9d1f9")
 		)
@@ -31500,6 +32400,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 464.82 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "58600e78-3f5f-4892-8941-3e4becbd283e")
 		)
@@ -31533,7 +32442,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 72.644 154.94 90)
 			(effects
 				(font
@@ -31683,6 +32592,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 64.516 153.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 71.12 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31873,6 +32791,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 470.916 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 477.52 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32135,6 +33062,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 181.61 336.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "05fa2a79-f0bd-4e5e-9a61-d706b72f0f69")
 		)
@@ -32252,6 +33188,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 462.28 124.46 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -32446,6 +33391,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 292.1 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c838df54-20b6-45e6-b1d6-0a31ad780b6a")
 		)
@@ -32566,6 +33520,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 547.37 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4fbd387d-abff-4bbd-bd59-60da2cd118f1")
 		)
@@ -32599,7 +33562,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 83.82 325.12 0)
 			(effects
 				(font
@@ -32748,6 +33711,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 83.82 314.706 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 92.71 321.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32945,6 +33917,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 53.34 213.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "e7ea8c1b-dc87-4c63-a948-70e3c7277ca0")
 		)
@@ -33063,6 +34044,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 248.92 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -33324,6 +34314,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 318.77 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "18ff45bf-de26-48bf-84ea-9682d27dabb6")
 		)
@@ -33441,6 +34440,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 57.15 368.3 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -33649,6 +34657,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 76.2 22.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -33862,6 +34879,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 499.11 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c30d4b81-a30d-439b-bf26-914d560031e1")
 		)
@@ -33931,6 +34957,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 81.28 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 81.28 165.1 0)
 			(effects
 				(font
@@ -34129,6 +35164,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 195.58 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "26af5844-1983-49b3-9466-b95008809a17")
 		)
@@ -34265,6 +35309,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 152.4 325.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 152.4 325.12 0)
 			(effects
 				(font
@@ -34422,6 +35475,15 @@
 		)
 		(property "Render Name" "Condensateur"
 			(at 25.146 385.826 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 29.21 392.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -34620,6 +35682,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 316.23 130.81 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "c3749765-7861-47ff-a20c-22beef2ef1b4")
 		)
@@ -34810,6 +35881,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 60.96 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ce9b7512-240d-430f-b85d-705ede808dfd")
 		)
@@ -34843,7 +35923,7 @@
 				)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 463.55 97.79 0)
 			(effects
 				(font
@@ -34992,6 +36072,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 463.55 94.996 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 454.66 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35182,6 +36271,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 468.63 140.716 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 459.74 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -35380,6 +36478,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 157.48 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5c6ceea1-98fa-48e3-b59a-c5ef06964500")
 		)
@@ -35451,6 +36558,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "100SP1T1B4M2QE"
+			(at 201.93 275.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 201.93 275.59 0)
 			(effects
 				(font
@@ -35647,6 +36763,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 29.21 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a0df8186-6cea-4be3-bf44-f3c6475bba77")
 		)
@@ -35779,6 +36904,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 537.21 340.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "4b8d2e29-4fd3-4d90-af8b-db173f67fe2f")
 		)
@@ -35848,6 +36982,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "7914J-1-000E"
+			(at 45.72 323.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 45.72 323.85 0)
 			(effects
 				(font
@@ -36000,6 +37143,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
+			(at 80.01 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 80.01 86.36 0)
 			(effects
 				(font
@@ -36200,6 +37352,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 553.72 116.586 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 544.83 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36465,6 +37626,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 265.43 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "6dc2b094-dfe7-4c87-be5e-f5ff59f8fb66")
 		)
@@ -36586,6 +37756,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 292.1 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "cea67457-2f54-4547-8c80-525e18855191")
 		)
@@ -36622,7 +37801,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "21.5k"
+		(property "Value" "22k"
 			(at 26.924 101.6 90)
 			(effects
 				(font
@@ -36779,6 +37958,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 25.4 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "134ac5fa-92c4-4321-8381-f4ca6ac0756f")
 		)
@@ -36858,6 +38046,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 95.25 314.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "496fb68a-a900-4367-9a97-8fdf3110af3e")
 		)
@@ -36894,7 +38091,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "11k"
+		(property "Value" "22k"
 			(at 468.63 84.074 90)
 			(effects
 				(font
@@ -37044,6 +38241,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 471.17 75.946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 462.28 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -37240,6 +38446,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 149.86 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5a36bf6b-d78f-4a82-86b5-e75622ea4eb0")
 		)
@@ -37389,6 +38604,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 34.29 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5dbec82f-ebdd-419f-93da-5d17a2013bfe")
 		)
@@ -37516,6 +38740,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 250.19 81.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37706,6 +38939,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 452.12 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "80e169bc-6834-44cd-a368-47d3669845e0")
 		)
@@ -37823,6 +39065,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left bottom)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 542.29 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 				(hide yes)
 			)
 		)
@@ -37948,6 +39199,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 203.2 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "e9544894-b15c-4704-88db-6cf007793853")
 		)
@@ -38023,6 +39283,15 @@
 			)
 		)
 		(property "Manufacturer_Part_Number" "PTV09A-4015U-A503"
+			(at 72.39 190.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
 			(at 72.39 190.5 0)
 			(effects
 				(font
@@ -38385,6 +39654,15 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Type" ""
+			(at 36.83 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0cd68bbf-b531-46ca-8a46-d4e637dffb63")
 		)
@@ -38520,6 +39798,15 @@
 		)
 		(property "Render Name" "6P Droit"
 			(at 547.37 236.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 537.21 240.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -38722,6 +40009,15 @@
 		)
 		(property "Render Name" "Résistance"
 			(at 190.5 289.306 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Type" ""
+			(at 181.61 295.91 0)
 			(effects
 				(font
 					(size 1.27 1.27)

@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "ATSAMC21J18A-ANT")(type "KiCad")(uri "${KIPRJMOD}/Librairie/footprints.pretty")(options "")(descr ""))
-)
