@@ -1,7 +1,9 @@
+clear all,
+
 %-------------------------------------------------------------------------%
 %Entrées
 %-------------------------------------------------------------------------%
-freq_ent=5;                %fréquence entrée périodique
+freq_ent=0.8;                %fréquence entrée périodique
 ampli_ent=1;                %Amplitude entrée 
 
 
@@ -47,8 +49,12 @@ J=mr/2*R.^2;            %Matrice des inerties selon l'axe de rotation pour chaqu
 %-------------------------------------------------------------------------%
 %Correction
 %-------------------------------------------------------------------------%
-phimax=135*2*pi/360;
-omega0db=5;
-a=(1+sin(phimax))/(1-sin(phimax));
-Ta=1/(omega0db*sqrt(a));
+K=-(9.5-ampli_ent);
+z=1;
+t5=54.4;
+omega_n=5/t5;
 
+K_voulu=1;
+z_voulu=1;
+t5_voulu=0.1;
+omega_n_voulu=5/t5_voulu;

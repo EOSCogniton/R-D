@@ -15,8 +15,8 @@ if accel>0
     lambdax2=(R2*omega2-Vxr2)/(R2*omega2);
     lambdax3=(R3*omega3-Vxr3)/(R3*omega3);
     lambdax4=(R4*omega4-Vxr4)/(R4*omega4);
-    lambday1=(1+lambdax1)*tan(alpha1);
-    lambday2=(1+lambdax2)*tan(alpha2);
+    lambday1=(1-lambdax1)*tan(alpha1);
+    lambday2=(1-lambdax2)*tan(alpha2);
     lambday3=(1-lambdax3)*tan(alpha3);
     lambday4=(1-lambdax4)*tan(alpha4);
 elseif accel<0
@@ -95,37 +95,37 @@ lambda=[lambdax1 lambday1 lambdax2 lambday2 lambdax3 lambday3 lambdax4 lambday4]
 %     end
 % end
 if accel>0
-    if abs(omega1)<=0.5
+    if abs(omega1)<=0.1
        lambda(1)=0;
        lambda(2)=0;
     end
-    if abs(omega2)<=0.5
+    if abs(omega2)<=0.1
         lambda(3)=0;
         lambda(4)=0;
     end
-    if abs(omega3)<=0.5
+    if abs(omega3)<=0.1
         lambda(5)=0;
         lambda(6)=0;
     end
-    if abs(omega4)<=0.5
+    if abs(omega4)<=0.1
         lambda(7)=0;
         lambda(8)=0;
     end
 
 elseif accel<0
-    if abs(Vxr1)<=0.5
+    if abs(Vxr1)<=0.1
         lambda(1)=-1;
         lambda(2)=0;
     end
-    if abs(Vxr2)<=0.5
+    if abs(Vxr2)<=0.1
         lambda(3)=-1;
         lambda(4)=0;
     end
-    if abs(Vxr3)<=0.5
+    if abs(Vxr3)<=0.1
         lambda(5)=1;
         lambda(6)=0;
     end
-    if abs(Vxr4)<=0.5
+    if abs(Vxr4)<=0.1
         lambda(7)=1;
         lambda(8)=0;
     end
