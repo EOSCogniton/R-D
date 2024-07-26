@@ -24,8 +24,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.25"
-     inkscape:cx="516"
-     inkscape:cy="1630"
+     inkscape:cx="1180"
+     inkscape:cy="1806"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -44,98 +44,121 @@
        width="40"
        height="160"
        x="0"
-       y="41.404854" />
+       y="15" />
     <rect
        style="fill:#ff5555;stroke-width:0.264583"
        id="rect1-4"
        width="40"
        height="160"
-       x="403.86716"
-       y="41.404854" />
+       x="404"
+       y="15" />
     <rect
        style="fill:#ffcc00;stroke-width:0.264583"
        id="rect2"
        width="60"
        height="160"
-       x="28.137856"
-       y="648.70538" />
+       x="25.5"
+       y="663" />
     <rect
        style="fill:#ffcc00;stroke-width:0.264583"
        id="rect2-6"
        width="60"
        height="160"
-       x="355.76682"
-       y="648.70538" />
+       x="353.5"
+       y="663" />
     <rect
        style="fill:#00ff00;stroke-width:0.264583"
        id="rect3"
        width="85"
        height="50"
-       x="130.86841"
-       y="703.70538" />
+       x="126"
+       y="718" />
     <rect
        style="fill:#00ff00;stroke-width:0.264583"
        id="rect3-9"
        width="85"
        height="50"
-       x="228.49619"
-       y="703.70538" />
+       x="233"
+       y="718" />
     <rect
-       style="fill:#ffd42a;stroke:#000000;stroke-width:0.264583"
+       style="fill:#ffd42a;stroke:#000000;stroke-width:0.175615"
        id="rect4"
-       width="116"
-       height="20"
-       x="0.13785481"
-       y="718.70538" />
+       width="115.82439"
+       height="8.8243856"
+       x="0.087807335"
+       y="738.58777" />
     <rect
-       style="fill:#ffd42a;stroke:#000000;stroke-width:0.264583"
+       style="fill:#ffd42a;stroke:#000000;stroke-width:0.175813"
        id="rect4-9"
-       width="116"
-       height="20"
-       x="327.76682"
-       y="718.70538" />
-    <rect
-       style="fill:#ffd42a;stroke:#000000;stroke-width:0.264583"
-       id="rect5"
-       width="0.1"
-       height="838"
-       x="222.13229"
-       y="0.1322915" />
+       width="116.08877"
+       height="8.8241873"
+       x="328.08792"
+       y="738.58789" />
     <rect
        style="fill:#00ff00;stroke:#000000;stroke-width:0.264583"
        id="rect6"
        width="70"
        height="210"
-       x="186.95233"
-       y="464.60834" />
+       x="187.13229"
+       y="480.13229" />
     <rect
        style="fill:#00ff00;stroke:#000000;stroke-width:0.264583"
        id="rect7"
        width="80"
        height="50"
-       x="182"
-       y="394" />
+       x="182.13229"
+       y="399.13229" />
     <rect
-       style="fill:#00ff00;stroke:#000000;stroke-width:0.264583"
-       id="rect8"
-       width="74.5"
-       height="21.5"
-       x="184.75"
-       y="364.72498" />
-    <rect
-       style="fill:#00ff00;stroke:#000000;stroke-width:0.264583"
+       style="fill:#00ff00;stroke:#000000;stroke-width:0.262894"
        id="rect9"
-       width="30"
-       height="65.800003"
-       x="206.93358"
-       y="106.89168" />
+       width="29.737104"
+       height="65.537109"
+       x="207.13145"
+       y="85.131447" />
     <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
-       d="M 222.18385,-0.01653646 69.849999,1.0583333 70.908332,225.95416 0.52916666,226.48333 v 415.925 L 95.249999,641.87916 V 837.67082 H 222.25"
-       id="path9" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:1;stroke-dasharray:none"
-       d="M 221.84532,0.49998755 374.17917,1.5748576 373.12084,226.47069 443.5,226.99986 v 415.925 l -94.72083,-0.52917 v 195.79166 h -127"
-       id="path9-9" />
+       style="fill:none;stroke:#000000;stroke-width:1"
+       d="M 222,0 H 180 L 75,30 V 210 L 0,450 V 645 H 105 V 838 H 336 V 645 H 444 V 450 L 366,210 V 26.192413 L 262.5,0 Z"
+       id="path2"
+       sodipodi:nodetypes="cccccccccccccccc" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="path1-6"
+       cx="95.5"
+       cy="70.599998"
+       rx="2.5"
+       ry="2.5999999" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="path1-6-0-9"
+       cx="116.5"
+       cy="743"
+       r="6" />
+    <circle
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="path1-6-0-9-5"
+       cx="325.5"
+       cy="743"
+       r="6" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="path1-6-7"
+       cx="95.5"
+       cy="120.6"
+       rx="2.5"
+       ry="2.5999999" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="path1-6-6"
+       cx="349.5"
+       cy="70.599998"
+       rx="2.5"
+       ry="2.5999999" />
+    <ellipse
+       style="fill:none;stroke:#000000;stroke-width:1"
+       id="path1-6-7-2"
+       cx="349.5"
+       cy="120.6"
+       rx="2.5"
+       ry="2.5999999" />
   </g>
 </svg>
