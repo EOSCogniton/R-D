@@ -1,0 +1,16 @@
+m=240; %masse véhicule
+g=9.81; %pesanteur
+fr=0.55; %répartition F/R
+h=0.35; %hauteur COG
+L=1.57; %empattement
+t=1.2; %largeur
+A=1; %surface frontale véhicule
+rho=1.225; %masse volumique air
+CL=0.29; %coeff portance
+CD=0.63; %coeff trainee
+Re=0.47/2; %rayon extérieur roues (non chargées)
+J=0.5; %moment d'inertie d'une roue, à préciser
+lf=L*fr; %distance COG à l'essieu avant
+lr=L-lf; %distance COG à l'essieu arrière
+bf=t/2; %demi largeur avant
+br=t/2; %demi largeur arrière

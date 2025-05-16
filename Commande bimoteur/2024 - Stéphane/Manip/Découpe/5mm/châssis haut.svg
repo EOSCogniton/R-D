@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="444mm"
+   height="838mm"
+   viewBox="0 0 444 838"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="châssis haut.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.25858553"
+     inkscape:cx="580.07887"
+     inkscape:cy="1622.2872"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.984358;stroke-dasharray:none"
+       id="rect3"
+       width="84.01564"
+       height="49.01564"
+       x="126.49219"
+       y="718.49219" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.984357;stroke-dasharray:none"
+       id="rect3-9"
+       width="84.01564"
+       height="49.015644"
+       x="231.49219"
+       y="718.49213" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.990555;stroke-dasharray:none"
+       id="rect6"
+       width="69.009445"
+       height="209.00945"
+       x="187.49527"
+       y="480.4953" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.984003;stroke-dasharray:none"
+       id="rect7"
+       width="79.015999"
+       height="49.015999"
+       x="182.492"
+       y="399.492" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.98239;stroke-dasharray:none"
+       id="rect9"
+       width="29.017609"
+       height="64.817612"
+       x="207.4912"
+       y="50.491196" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       d="M 222,0 H 180 L 75,30 V 210 L 0,450 V 645 H 105 V 838 H 335 V 645 H 444 V 450 L 366,210 V 30 L 264,0 Z"
+       id="path2"
+       sodipodi:nodetypes="cccccccccccccccc" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="path1-6"
+       cx="95.5"
+       cy="95.5"
+       r="5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="path1-6-3"
+       cx="346.5"
+       cy="95.5"
+       r="5" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="path1-6-0-9"
+       cx="116.5"
+       cy="743.5"
+       r="6" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-dasharray:none"
+       id="path1-6-0-9-5"
+       cx="326.5"
+       cy="743.5"
+       r="6" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-3-9"
+       cx="56.719418"
+       cy="503.25018"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-3-2"
+       cx="56.63229"
+       cy="567.10272"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-3-6"
+       cx="56.63229"
+       cy="627.21503"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-89-6"
+       cx="139.38229"
+       cy="375.54517"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5"
+       cx="222.13229"
+       cy="147.53229"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-5"
+       cx="222.13229"
+       cy="201.79662"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-3"
+       cx="56.719418"
+       cy="439.39767"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-8"
+       cx="222.13229"
+       cy="258.20203"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-9"
+       cx="222.13229"
+       cy="375.54517"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-89"
+       cx="56.63229"
+       cy="375.54517"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-82"
+       cx="304.88229"
+       cy="375.54517"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-0"
+       cx="387.63229"
+       cy="375.54517"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-7"
+       cx="222.13229"
+       cy="314.60742"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-3-9-8"
+       cx="387.71945"
+       cy="503.25018"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-3-2-4"
+       cx="387.63229"
+       cy="567.10272"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-3-6-1"
+       cx="387.63229"
+       cy="627.21503"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-3-4"
+       cx="387.71945"
+       cy="439.39767"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-5-0"
+       cx="222.00003"
+       cy="481.68253"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-8-3"
+       cx="222.00003"
+       cy="538.08795"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-9-6"
+       cx="222.00003"
+       cy="655.43109"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-7-7"
+       cx="222.00003"
+       cy="594.49335"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-1"
+       cx="222.00003"
+       cy="696.26581"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-5-3"
+       cx="222.00003"
+       cy="750.53015"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.264583"
+       id="path5-8-2"
+       cx="222.00003"
+       cy="806.93549"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none"
+       id="path5-4-7"
+       cx="124.25"
+       cy="95.25"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none"
+       id="path5-4-4"
+       cx="173.25"
+       cy="95.611755"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none"
+       id="path5-4-75"
+       cx="269.25"
+       cy="95.25"
+       r="4" />
+    <circle
+       style="fill:none;stroke:#ff0000;stroke-width:0.5;stroke-dasharray:none"
+       id="path5-4-76"
+       cx="316.25"
+       cy="95.25"
+       r="4" />
+  </g>
+</svg>
