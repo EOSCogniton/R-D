@@ -14,3 +14,5 @@ lf=L*fr; %distance COG à l'essieu avant
 lr=L-lf; %distance COG à l'essieu arrière
 bf=t/2; %demi largeur avant
 br=t/2; %demi largeur arrière
+Ts=0.01; %période d'échantillonage
+Izz=120; %inertie selon l'axe z, à préciser
