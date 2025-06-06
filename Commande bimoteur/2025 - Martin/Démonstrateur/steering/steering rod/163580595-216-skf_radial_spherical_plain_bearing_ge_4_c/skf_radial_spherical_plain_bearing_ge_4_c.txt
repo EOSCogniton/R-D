@@ -1,0 +1,11 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"33-27072018-073779";"";
+"REFERENCE";"GE 4 C";"";
+"TraceParts.PartVersion";"1.2.2";"";
+"TraceParts.InstanceId";"33-27072018-0737796E745IK27V8U92QPAGB3FRLM4";"";
+"TraceParts.PartTitle";"Radial spherical plain bearings";"";
+"SUPPLIER";"SKF";"";
+"DESIGN";"Radial spherical plain bearing, Bore Ø 4 mm, Outside Ø 12 mm";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"MASS";"0.003";"";

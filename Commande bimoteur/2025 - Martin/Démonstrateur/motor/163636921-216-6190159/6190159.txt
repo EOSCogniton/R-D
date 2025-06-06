@@ -1,0 +1,13 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"90-11062024-032562";"";
+"REFERENCE";"6190159";"";
+"rs_stock_number";"6190159";"";
+"TraceParts.PartTitle";"Single Row Seal 15mm ID";"";
+"url";"https://uk.rs-online.com/web/p/ball-bearings/6190159//?cm_mmc=aff-_-uk-_-traceparts-_-6190159";"";
+"SUPPLIER_NAME";"RS Components";"";
+"SUPPLIER";"RS PRO";"";
+"DESIGN";"Single Row Seal 15mm ID";"";
+"TraceParts.InstanceId";"90-11062024-0325622N3XX9WWY2MK673V115V3T3RA";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartLanguage";"en";"";
+"TraceParts.PartVersion";"1.0.0";"";
