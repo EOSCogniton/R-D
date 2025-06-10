@@ -1,23 +1,21 @@
 function fx = fonction_pacejka_3D_SL(fz_input, sl_input)
-    % get_admissible_fx - Interpole FX à partir d'un sl et FZ donnés
-    % INPUTS:
-    %   fz_input     - Force normale (N), ex: -750
-    %   sl_input  - Slip ratio, ex: 0.1
-    % OUTPUT:
-    %   fx_admissible - Force longitudinale interpolée FX (N)
+    % fonction_pacejka_3D_SL - Interpole FX à partir d'un slip ratio et FZ donnés
 
-    % Charger les données sauvegardées
-    data = load('donnees_interpolees_SL.mat'); % Assure-toi que ce fichier est dans le chemin
+    persistent SL FZ FX_matrix
 
-    % Extraire les grilles
-    SL = data.SL;
-    FZ = data.FZ;
-    FX_matrix = data.FX_matrix;
+    if isempty(SL)
+        % Charger les données une seule fois
+        data = load('donnees_interpolees_SL.mat');  % Le fichier doit être dans le path
+
+        SL = data.SL;
+        FZ = data.FZ;
+        FX_matrix = data.FX_matrix;
+    end
 
     % Interpolation bilinéaire
     fx = interp2(SL, FZ, FX_matrix, sl_input, fz_input, 'linear');
 
-    % Optionnel : gérer les cas hors domaine
+    % Gérer les valeurs hors domaine
     if isnan(fx)
         warning('Valeur hors du domaine d''interpolation SL. Résultat = NaN');
     end
