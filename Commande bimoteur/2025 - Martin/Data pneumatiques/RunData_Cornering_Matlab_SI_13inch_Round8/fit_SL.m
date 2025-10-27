@@ -1,4 +1,4 @@
-load('B1965run49.mat');
+load('goodyear_drive_brake.mat');
 
 % Nettoyage des données
 valid_idx = ~isnan(SL) & ~isnan(FX) & ~isnan(FZ);
@@ -14,7 +14,7 @@ pacejka_coeffs = {};
 smoothed_data = {};
 
 % Paramètres pour le lissage
-sl_range = -0.2:0.01:0.2;  % plage de slip ratio (SR)
+sl_range = -0.5:0.01:0.5;  % plage de slip ratio (SR)
 window = 0.005;            % demi-largeur autour de chaque valeur
 
 % Étape 1 : Lissage + sauvegarde
@@ -51,10 +51,10 @@ for i = 1:length(smoothed_data)
     end
 
     % Modèle Pacejka simplifié
-    pacejka_eq = @(p, x) p(3) * sin(p(2) * atan(p(1) * x - p(4) * (p(1) * x - atan(p(1) * x)))) + p(5);
+    pacejka_eq = @(p, x) p(3) * sin(p(2) * atan(p(1) * x - p(4) * (p(1) * x - atan(p(1) * x))));
 
     % Paramètres initiaux [B, C, D, E, Sh]
-    p0 = [8, 2, max(abs(fx_mean)), -2, 100];
+    p0 = [10, 0.1, 2500, -1];
     error_fun = @(p) fx_mean - pacejka_eq(p, sl_mean);
     options = optimset('Display','off');
 
@@ -95,7 +95,7 @@ ylabel('Force longitudinale FX (N)');
 title('Fit Pacejka FX vs SL pour différentes charges FZ');
 legend(legend_entries, 'Location', 'best');
 grid on;
-xlim([-0.2 0.2]);
+xlim([-0.5 0.5]);
 
 % Étape 4 : Affichage console des coefficients
 fprintf('\n--- Coefficients Pacejka (B, C, D, E, Sh) ---\n');
@@ -103,7 +103,7 @@ for i = 1:length(pacejka_coeffs)
     if isfield(pacejka_coeffs{i}, 'params') && ~isempty(pacejka_coeffs{i}.params)
         fz_range = pacejka_coeffs{i}.fz_range;
         params = pacejka_coeffs{i}.params;
-        fprintf('FZ ∈ [%.0f, %.0f] N => B=%.2f, C=%.2f, D=%.1f, E=%.2f, Sh=%.2f\n', ...
-            fz_range(1), fz_range(2), params(1), params(2), params(3), params(4), params(5));
+        fprintf('FZ ∈ [%.0f, %.0f] N => B=%.2f, C=%.2f, D=%.1f, E=%.2f, \n', ...
+            fz_range(1), fz_range(2), params(1), params(2), params(3), params(4));
     end
 end

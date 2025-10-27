@@ -1,4 +1,4 @@
-load('B1965run49.mat')
+load('goodyear_drive_brake.mat')
 
 % Nettoyage des données
 valid_idx = ~isnan(SL) & ~isnan(FX) & ~isnan(FZ);
@@ -12,7 +12,7 @@ colors = lines(length(fz_bins)-1);
 legend_entries = {};
 
 % Paramètres pour le lissage
-sl_range = -0.3:0.01:0.3;  % Valeurs typiques du slip ratio (SR ou SL)
+sl_range = -1:0.01:1;  % Valeurs typiques du slip ratio (SR ou SL)
 window = 0.01;
 
 figure; hold on;

@@ -19,6 +19,6 @@ function fx = fonction_pacejka_3D_SL(fz_input, sl_input)
 
     % Optionnel : gérer les cas hors domaine
     if isnan(FX_matrix)
-        warning('Valeur hors du domaine d''interpolation. Résultat = NaN');
+        warning('Valeur hors du domaine d''interpolation SL. Résultat = NaN');
     end
 end

@@ -1,15 +1,30 @@
-%% Paramètres des courbes Pacejka pour FX (format : [B C D E Sh])
-courbe_1100_800 = [8.48 -1.72 2588.2 -0.11 63.63];
-courbe_800_500  = [10.48 -1.75 1784.7 0.44 37.55];
-courbe_500_200  = [10.38 -2.21 1007.6 1.13 1.18];
+%% Paramètres des courbes Pacejka pour FX (format : [B C D E])
+courbe_1100_800 = [19.79 0.95 2380.6 -1.17];
+courbe_800_500  = [16.42 1.17 1407.8 -0.48];
+courbe_500_200  = [15.28 1.51 461.4 0.63];
 
 %% Valeurs de slip ratio
-sl = -0.2:0.001:0.2;
+sl = -1:0.001:1;
 
 %% Calcul des FX pour les 3 charges
 fx500  = fx(sl, courbe_500_200);
 fx800  = fx(sl, courbe_800_500);
 fx1100 = fx(sl, courbe_1100_800);
+
+%% Ajout du point SL = 0, FX = 0 si nécessaire
+if ~ismember(0, sl)
+    sl = sort([sl, 0]);  % ajoute SL = 0
+
+    % Réinterpolation des courbes pour s'ajuster à la nouvelle grille SL
+    fx500  = interp1(sl(sl~=0), fx500, sl, 'linear', 'extrap');
+    fx800  = interp1(sl(sl~=0), fx800, sl, 'linear', 'extrap');
+    fx1100 = interp1(sl(sl~=0), fx1100, sl, 'linear', 'extrap');
+end
+
+% Forçage explicite à FX = 0 pour SL = 0
+fx500(sl == 0)  = 0;
+fx800(sl == 0)  = 0;
+fx1100(sl == 0) = 0;
 
 %% FIGURE 1 : courbes FX vs SL pour 3 niveaux de FZ
 figure
@@ -52,11 +67,14 @@ colorbar
 view(45, 25)
 grid on
 
+% Vérification que FX = 0 à SL = 0
+fprintf('FX interpolé à SL = 0 pour FZ = -650 N : %.4f N\n', ...
+    interp1(fz_data, [fx1100(sl==0), fx800(sl==0), fx500(sl==0)], -650));
 
 % Sauvegarde des données interpolées dans un fichier .mat
-save('donnees_interpolees.mat', 'SL', 'FZ', 'FX_matrix', 'sl', 'fx500', 'fx800', 'fx1100');
+save('donnees_interpolees_SL.mat', 'SL', 'FZ', 'FX_matrix', 'sl', 'fx500', 'fx800', 'fx1100');
 
 %% Fonction FX selon Pacejka
 function fx = fx(sl, p)
-    fx = p(3) * sin(p(2) * atan(p(1) * sl - p(4) * (p(1) * sl - atan(p(1) * sl)))) + p(5);
+    fx = p(3) * sin(p(2) * atan(p(1) * sl - p(4) * (p(1) * sl - atan(p(1) * sl))));
 end
