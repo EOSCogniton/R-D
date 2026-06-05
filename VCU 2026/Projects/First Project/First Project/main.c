@@ -1,0 +1,23 @@
+/*
+ * First Project.c
+ *
+ * Created: 02/06/2026 09:15:11
+ * Author : maxbo
+ */ 
+
+
+#include "sam.h"
+#include "stdio.h"
+
+
+int main(void)
+{
+    /* Initialize the SAM system */
+    SystemInit();
+
+    /* Replace with your application code */
+    while (1) 
+    {
+		printf("Hello world");
+    }
+}

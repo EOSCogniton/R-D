@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Atmel Studio Solution File, Format Version 11.00
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "VCU-Osiriz", "VCU-Osiriz\VCU-Osiriz.cproj", "{DCE6C7E3-EE26-4D79-826B-08594B9AD897}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "VCU-Osiriz-Dev", "VCU-Osiriz-Dev\VCU-Osiriz-Dev.cproj", "{C00A8DB7-CD9F-4E9F-BC31-AAE2CB6B2054}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|ARM.ActiveCfg = Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Debug|ARM.Build.0 = Debug|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|ARM.ActiveCfg = Release|ARM
+		{DCE6C7E3-EE26-4D79-826B-08594B9AD897}.Release|ARM.Build.0 = Release|ARM
+		{C00A8DB7-CD9F-4E9F-BC31-AAE2CB6B2054}.Debug|ARM.ActiveCfg = Debug|ARM
+		{C00A8DB7-CD9F-4E9F-BC31-AAE2CB6B2054}.Debug|ARM.Build.0 = Debug|ARM
+		{C00A8DB7-CD9F-4E9F-BC31-AAE2CB6B2054}.Release|ARM.ActiveCfg = Release|ARM
+		{C00A8DB7-CD9F-4E9F-BC31-AAE2CB6B2054}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

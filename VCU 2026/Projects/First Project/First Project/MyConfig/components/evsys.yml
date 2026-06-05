@@ -1,0 +1,30 @@
+configVersion: 1.0.0
+componentName: evsys
+coreVersion: 5.8.4
+device: ATSAMC21J18A
+library: []
+dependency:
+- dependencyPackage: class com.microchip.mcc.harmony.HarmonyModule
+  name: evsys
+  type: module
+  version: ''
+- dependencyPackage: ''
+  name: csp
+  type: package
+  version: v3.25.2
+customDataClassName: com.microchip.utils_mh3.utils.persistence.CustomModuleData
+data:
+  attachments: {}
+  elementPosition: {}
+  symbols:
+    EVSYS_CHANNEL_0_EDGE:
+      attributes:
+        id: EVSYS_CHANNEL_0_EDGE
+      children:
+      - children:
+        - attributes:
+            value: '1'
+          type: User
+        type: Values
+      type: KeyValueSet
+  userData: {}
