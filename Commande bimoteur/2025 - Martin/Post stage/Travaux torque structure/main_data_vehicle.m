@@ -26,6 +26,7 @@ TV=1; %0 ou 1, active le torque vectoring
 TC=0;
 epsilon=0.1; %pour éviter les divisions par 0 dans le calcul du SR
 mu_tires=1.2; %coeff de frottement pneu
+TirePressure=65e3; %pression pneu
 
 
 
