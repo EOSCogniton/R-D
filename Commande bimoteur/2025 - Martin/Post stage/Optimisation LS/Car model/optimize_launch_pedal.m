@@ -10,7 +10,7 @@ clear; clc; close all;
 main_data_vehicle
 %% Parametres generaux
 modelName  = 'main_vehicle_v2';
-simTime    = 10;         % s -- doit correspondre au StopTime du modele
+simTime    = 5;         % s -- doit correspondre au StopTime du modele
 dt         = 0.001;      % s -- resolution du signal de commande injecte
 targetDist = 75;         % m
 signalName = 'PedalCmd'; % <-- A VERIFIER : nom de variable du bloc From Workspace
@@ -18,6 +18,7 @@ uMin = 0;
 uMax = 1;
 
 load_system(modelName);
+
 
 %% Parametrisation du profil de pedale
 % params = [u0, upeak, tau_rise, t1, ufloor, k]
@@ -32,11 +33,11 @@ load_system(modelName);
 % elargis-les -- ca indique que le VCU a une dynamique plus lente/rapide
 % que prevu ici.
 
-lb = [0, 0, 0.01, 0.05, 0,   0.01];
-ub = [1, 1, 1.0,  3.0,  1,   5.0];
+lb = zeros(1,41);
+ub = ones(1,41);
 
 % Point de depart : montee rapide vers une pedale haute, puis leger relachement
-x0 = [0, 0.9, 0.10, 0.4, 0.6, 0.5];
+x0 = 1/2*ones(1,41);
 
 %% Fonction cout
 costFcn = @(p) costFunction_launch(p, modelName, simTime, dt, targetDist, signalName, uMin, uMax);
@@ -45,7 +46,7 @@ costFcn = @(p) costFunction_launch(p, modelName, simTime, dt, targetDist, signal
 %  echecs de simulation, geres en amont par simulateControlProfile.m)
 options = optimoptions('patternsearch', ...
     'Display', 'iter', ...
-    'MaxFunctionEvaluations', 300, ...
+    'MaxFunctionEvaluations', 10000, ...
     'UseCompletePoll', true, ...
     'MeshTolerance', 1e-4, ...
     'UseParallel', false);
@@ -53,19 +54,24 @@ options = optimoptions('patternsearch', ...
 fprintf('Demarrage de l''optimisation patternsearch...\n');
 [xopt, Jopt] = patternsearch(costFcn, x0, [], [], [], [], lb, ub, [], options);
 
-fprintf('\n=== Resultat ===\n');
-fprintf('Temps optimal pour 75 m : %.4f s\n', Jopt);
-fprintf('Parametres optimaux (pedale) :\n');
-fprintf('  u0       = %.3f\n', xopt(1));
-fprintf('  upeak    = %.3f\n', xopt(2));
-fprintf('  tau_rise = %.3f s\n', xopt(3));
-fprintf('  t1       = %.3f s\n', xopt(4));
-fprintf('  ufloor   = %.3f\n', xopt(5));
-fprintf('  k        = %.3f 1/s\n', xopt(6));
+% fprintf('\n=== Resultat ===\n');
+% fprintf('Temps optimal pour 75 m : %.4f s\n', Jopt);
+% fprintf('Parametres optimaux (pedale) :\n');
+% fprintf('  u1       = %.3f\n', xopt(1));
+% fprintf('  u2    = %.3f\n', xopt(2));
+% fprintf('  u3 = %.3f s\n', xopt(3));
+% fprintf('  u4       = %.3f s\n', xopt(4));
+% fprintf('  u5   = %.3f\n', xopt(5));
+% fprintf('  u6        = %.3f 1/s\n', xopt(6));
+% fprintf('  u7    = %.3f\n', xopt(7));
+% fprintf('  u8 = %.3f s\n', xopt(8));
+% fprintf('  u9       = %.3f s\n', xopt(9));
+% fprintf('  u10   = %.3f\n', xopt(10));
+% fprintf('  u11       = %.3f 1/s\n', xopt(11));
 
 %% Validation et visualisation du profil optimal
 [crossTimeOpt, ~, xCarOpt] = simulateControlProfile(xopt, modelName, simTime, dt, targetDist, signalName, uMin, uMax);
-[t_vec, u_vec] = buildControlProfile(xopt, simTime, dt, uMin, uMax);
+[t_vec, u_vec] = buildControlProfile2(xopt, simTime, dt, uMin, uMax);
 
 if isnan(crossTimeOpt)
     error('Le profil optimal renvoye echoue en simulation -- verifie les bornes/parametrisation.');

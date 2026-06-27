@@ -1,0 +1,8 @@
+-I"C:/Users/marti/Documents/EPSA/GIT/R-D/Commande bimoteur/2025 - Martin/Post stage/Optimisation LS/Car model"
+-I"C:/Users/marti/Documents/EPSA/GIT/R-D/Commande bimoteur/2025 - Martin/Post stage/Optimisation LS/Car model/slprj/sim/calcul_alpha_beta_gamma_v2"
+-I"C:/Program Files/MATLAB/R2024b/extern/include"
+-I"C:/Program Files/MATLAB/R2024b/simulink/include"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/src/ext_mode/common"
+-I"C:/Program Files/MATLAB/R2024b/rtw/c/ert"
+-I"C:/Users/marti/Documents/EPSA/GIT/R-D/Commande bimoteur/2025 - Martin/Post stage/Optimisation LS/Car model/slprj/sim/_sharedutils"

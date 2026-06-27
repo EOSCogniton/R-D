@@ -16,7 +16,7 @@ function [crossTime, simOut, xCar] = simulateControlProfile(params, modelName, s
 %   costFunction_launch.m. C'est crucial car patternsearch/ga vont
 %   forcément explorer des zones non-physiques de l'espace de paramètres.
 
-    [t_vec, u_vec] = buildControlProfile(params, simTime, dt, uMin, uMax);
+    [t_vec, u_vec] = buildControlProfile2(params, simTime, dt, uMin, uMax);
 
     % HYPOTHESE PAR DEFAUT : le bloc From Workspace attend un objet
     % timeseries. Si ton bloc attend le format "Array" [temps, valeur],
