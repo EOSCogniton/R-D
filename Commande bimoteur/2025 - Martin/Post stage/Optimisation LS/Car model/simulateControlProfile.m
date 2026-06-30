@@ -27,6 +27,7 @@ function [crossTime, simOut, xCar] = simulateControlProfile(params, modelName, s
     simIn = Simulink.SimulationInput(modelName);
     simIn = simIn.setVariable(signalName, uSignal);
     simIn = simIn.setModelParameter('StopTime', num2str(simTime));
+    % simIn = simIn.setModelParameter('SimulationMode', 'accelerator');
 
     try
         simOut = sim(simIn);
